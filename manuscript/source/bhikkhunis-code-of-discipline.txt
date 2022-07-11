@@ -1,0 +1,983 @@
+Bhikkhunī Pāṭimokkha
+
+
+NavigationVinaya/bhikkhuni-pati
+
+
+
+
+
+The Bhikkhunīs’ Code of Discipline
+
+
+translated from the Pāli by Ṭhānissaro Bhikkhu
+
+
+Contents
+
+
+Translator’s Introduction
+
+Pārājika
+
+Saṅghādisesa
+
+Nissaggiya Pācittiya Part One: The Bowl Chapter
+
+Part Two: The Robe-cloth Chapter
+
+Part Three: The Gold and Silver Chapter
+
+
+
+
+
+Pācittiya Part One: The Garlic Chapter
+
+Part Two: The Darkness Chapter
+
+Part Three: The Naked Chapter
+
+Part Four: The Sharing Chapter
+
+Part Five: The Picture Gallery Chapter
+
+Part Six: The Monastery Chapter
+
+Part Seven: The Pregnant Woman Chapter
+
+Part Eight: The Maiden Chapter
+
+Part Nine: The Sunshade and Leather Footwear Chapter
+
+Part Ten: The Lie Chapter
+
+Part Eleven: The Living Plant Chapter
+
+Part Twelve: The Food Chapter
+
+Part Thirteen: The Go-calling Chapter
+
+Part Fourteen: The Fire Chapter
+
+Part Fifteen: The View Chapter
+
+Part Sixteen: The In-accordance-with-the-rule Chapter
+
+
+
+
+
+Pāṭidesanīya
+
+Sekhiya Part One: The 26 Dealing with Proper Behavior
+
+Part Two: The 30 Dealing with Food
+
+Part Three: The 16 Dealing with Teaching Dhamma
+
+Part Four: The 3 Miscellaneous Rules
+
+
+
+
+
+Adhikaraṇa-Samatha
+
+Endnotes
+
+
+
+
+
+Translator’s Introduction
+
+
+The Bhikkhunī Pāṭimokkha contains 311 rules. Of these, 181 are shared with the Bhikkhu Pāṭimokkha: four Pārājikas, seven Saṅghādisesas, 18 Nissaggiya Pācittiyas (NP), 70 Pācittiyas, all 75 Sekhiyas, and all seven Adhikaraṇa-samatha rules. In addition, the Bhikkhunī Pāṭimokkha contains 13 Pācittiya rules that are identical to rules for bhikkhus that are contained in the Khandhakas; one Pārājika rule similar to a Bhikkhus’ Saṅghādisesa rule; one Pārājika rule similar to a Bhikkhus’ Pācittiya rule; two Saṅghādisesa rules similar to Bhikkhus’ Khandhaka rules; two NP rules similar to Bhikkhus’ NP rules; three Pācittiyas similar to a Bhikkhus’ Saṅghādisesa; seven Pācittiyas similar to Bhikkhus’ Pācittiyas; and eight Pācittiyas similar to rules for bhikkhus that are contained in the Khandhakas. Also, the eight Pāṭidesanīya rules for the bhikkhunīs are elaborations of a single Bhikkhus’ Pācittiya rule.
+
+Thus the Bhikkhunī Pāṭimokkha contains 85 rules for which there are no direct correspondences in the rules for the bhikkhus. Some writers have interpreted these added rules as sign of an attempt to oppress the bhikkhunīs unfairly, but it should be noted that:
+
+more than one third of these extra rules were formulated to protect bhikkhunīs from being the direct recipients of the abusive or careless behavior of other bhikkhunīs;
+
+two of the extra rules (Pācittiyas 6 and 44) prevent bhikkhunīs from putting themselves in a position of servitude to bhikkhus or lay people;
+
+according to the rules’ origin stories, all but three of the extra rules (Pācittiyas 59, 94, and 95) were formulated only after bhikkhunīs complained to the bhikkhus about an errant bhikkhunī’s behavior.
+
+
+
+Tellingly, these last three exceptions were formulated after complaints initiated by the bhikkhus, and they touch directly on the formal subordination of the Bhikkhunī Community to the Bhikkhu Community. However, they are counterbalanced by two rules exclusive to the Bhikkhu Pāṭimokkha — NP 4 & 17 — that were formulated at the request of bhikkhunīs to prevent bhikkhus from abusing their position in the hierarchy in a way that would interfere with the bhikkhunīs’ practice of the Dhamma. For a more detailed discussion of the checks and balances in the relationships between the two Communities, see The Buddhist Monastic Code, Volume II, Chapter 23.
+
+In the following translation, I have marked the correspondences between the bhikkhus’ and bhikkhunīs’ rules in brackets. Where the brackets follow the number of the bhikkhunī rule and simply contain a number, the corresponding bhikkhus’ rule is in the same section in the Bhikkhu Pāṭimokkha as in the Bhikkhunī Pāṭimokkha. Thus, under the Saṅghādisesa rules, 7 [5] means that the Bhikkhunīs’ Saṅghādisesa 7 is identical with the Bhikkhus’ Saṅghādisesa 5. If the brackets follow the rule and simply contain a reference to a rule in the Mahavagga (Mv) or Cullavagga (Cv), the corresponding bhikkhus’ rule is contained in the Khandhakas. If the brackets follow the rule and include the word “see” followed by a number, the corresponding bhikkhus’ rule is similar rather than identical. Correspondences in the Sekhiya and Adhikaraṇa-samatha sections are not marked, as these two sections are completely identical in the two Pāṭimokkhas.
+
+Rules marked with an asterisk (*) are identical with — or directly related to — vows included in the Eight Garudhammas, or Rules of Respect. On this topic, see The Buddhist Monastic Code, Volume II, Chapter 23. Some writers have argued that, because the rules in question are all pācittiya rules, and because the Rules of Respect impose a more stringent penalty than a simple confession for overstepping the vows, we must assume that the vows and their more stringent punishment were added later to the canon, in an attempt to oppress the bhikkhunīs. However, a standard principle throughout the Vinaya — formulated in Adhikaraṇa-samatha 4 in both Pāṭimokkhas — is that an offender cannot be penalized until he/she has confessed to an offense. In light of this principle, the confession required by the pācittiya rules would be a first, necessary step before imposing the half-month penance stipulated in the fifth vow.
+
+The translation here is based on the complete Pāli Bhikkhunī Pāṭimokkha in Mohan Wijayaratna, Buddhist Nuns: The Birth and Development of a Women’s Monastic Order (BN), although there were many spots where I had to rely on the Thai edition of the Pāli Canon to correct mistakes in BN. I have also consulted I.B. Horner’s partial English translation of the Bhikkhunī Pāṭimokkha rules in The Book of Discipline, volume three (BD); the partial Thai translation included in Mahamakut’s complete translation of the Pāli Canon; the complete English translation in BN; and the complete translation in The Pāṭimokkha, edited by William Pruitt and translated by K. R. Norman (N). Where my translation differs from BD, I have marked it with a (§); where it differs from BN, a (¶); where it differs from N, a (•).
+
+Parenthetical insertions in the rules, if otherwise unmarked, are based on the canonical word-commentary from the Bhikkhunī Vibhanga, the part of the Vinaya Pitaka that contains the Bhikkhunī Pāṭimokkha together with its explanatory material. If marked with the abbreviation “Comm:”, parenthetical insertions in the rules are drawn from the Commentary, Buddhaghosa’s Samantapasadika. Technical issues are explained in the endnotes.
+
+
+
+
+
+Pārājika
+
+
+1 [1]. Should any bhikkhunī willingly engage in sexual intercourse, even with a male animal, she is defeated and no longer in affiliation.
+
+2 [2]. Should any bhikkhunī, in what is reckoned a theft, take what is not given from an inhabited area or from the wilderness — just as when, in the taking of what is not given, kings arresting the criminal would flog, imprison, or banish her, saying, “You are a robber, you are a fool, you are benighted, you are a thief” — a bhikkhunī in the same way taking what is not given is defeated and no longer in affiliation.
+
+3 [3]. Should any bhikkhunī intentionally deprive a human being of life, or search for an assassin for him, or praise the advantages of death, or incite him to die, saying, “My good man, what use is this evil, miserable life to you? Death would be better for you than life,” or with such an idea in mind, such a purpose in mind, should in various ways praise the advantages of death or incite him to die, she also is defeated and no longer in affiliation.
+
+4 [4]. Should any bhikkhunī, without direct knowledge, boast of a superior human state, a truly noble knowledge and vision as present in herself, saying, “Thus do I know; thus do I see,” such that regardless of whether or not she is cross-examined on a later occasion, she — being remorseful and desirous of purification — might say, “Ladies, not knowing, I said I know; not seeing, I said I see — vainly, falsely, idly,” unless it was from over-estimation, she also is defeated and no longer in affiliation.
+
+5. Should any bhikkhunī, lusting, consent to a lusting man’s rubbing, rubbing up against, taking hold of, touching, or fondling (her) below the collar-bone and above the circle of the knees, she also is defeated and no longer in affiliation for being “one above the circle of the knees.” [See Bhikkhus’ Saṅghādisesa 2]
+
+6. Should any bhikkhunī, knowing that (another) bhikkhunī has fallen into an act (entailing) defeat, neither accuse her herself nor inform the group, and then — whether she (the other bhikkhunī) is still alive or has died, has been expelled or gone over to another sect — she (this bhikkhunī) should say, “Even before, ladies, I knew of this bhikkhunī that ‘This sister is of such-and-such a sort,’ and I didn’t accuse her myself nor did I inform the group,” then she also is defeated and no longer in affiliation for being “one who concealed a fault.” [See Bhikkhus’ Pācittiya 64]
+
+7. Should any bhikkhunī follow a bhikkhu who has been suspended by a united Community (of bhikkhus) in line with the Dhamma, in line with the Vinaya, in line with the teacher’s instructions, and who is disrespectful, has not made amends, has broken off his friendship (with the bhikkhus), the bhikkhunīs are to admonish her thus: “Lady, that bhikkhu has been suspended by a united Community in line with the Dhamma, in line with the Vinaya, in line with the teacher’s instructions. He is disrespectful, he has not made amends, he has broken off his friendship. Do not follow him, lady.”
+
+And should that bhikkhunī, thus admonished by the bhikkhunīs, persist as before, the bhikkhunīs are to rebuke her up to three times for the sake of relinquishing that. If while being rebuked up to three times she relinquishes that, that is good. If she does not relinquish that, then she also is defeated and no longer in affiliation for being “a follower of a suspended (bhikkhuī).” (§¶•) [1]
+
+8. Should any bhikkhunī, lusting, consent to a lusting man’s taking hold of her hand or touching the edge of her outer robe, or should she stand with him or converse with him or go to a rendezvous with him, or should she consent to his approaching her, or should she enter a hidden place with him, or should she dispose her body to him — (any of these) for the purpose of that unrighteous act (Comm: physical contact) — then she also is defeated and no longer in affiliation for “(any of) eight grounds.” (§)
+
+
+
+
+
+Saṅghādisesa
+
+
+1. Should any bhikkhunī start litigation against a householder, a householder’s son, a slave, or a worker, or even against a wandering contemplative: this bhikkhunī, as soon as she has fallen into the first act of offence, is to be (temporarily) driven out, and it entails initial and subsequent meetings of the Community. (•)
+
+2. Should any bhikkhunī knowingly give Acceptance (upasampada) to a woman thief sentenced to death, without having obtained permission from the king or the Community or the (governing) council or the (governing) committee or the (governing) guild — unless the woman is allowable (i.e., already ordained in another sect or with other bhikkhunīs) — this bhikkhunī, also, as soon as she has fallen into the first act of offence, is to be (temporarily) driven out, and it entails initial and subsequent meetings of the Community. [See Mv.I.43.1]
+
+3. Should any bhikkhunī go among villages alone or go to the other shore of a river alone or stay away for a night alone or fall behind her companion(s) alone: this bhikkhunī, also, as soon as she has fallen into the first act of offence, is to be (temporarily) driven out, and it entails initial and subsequent meetings of the Community.
+
+4. Should any bhikkhunī — without having obtained permission from the Community who performed the act, without knowing the desire of the group — restore a bhikkhunī whom a Community acting harmony in line with the Dhamma, in line with the Vinaya, in line with the teacher’s instructions, has suspended: this bhikkhunī, also, as soon as she has fallen into the first act of offence, is to be (temporarily) driven out, and it entails initial and subsequent meetings of the Community. [See Cv.I.28-29]
+
+5. Should any bhikkhunī, lusting, having received staple or non-staple food from the hand of a lusting man, consume or chew it: this bhikkhunī, also, as soon as she has fallen into the first act of offence, is to be (temporarily) driven out, and it entails initial and subsequent meetings of the Community.
+
+6. Should any bhikkhunī say, “What does it matter to you whether this man is lusting or not, when you are not lusting? Please, lady, take what the man is giving — staple or non-staple food — with your own hand and consume or chew it”: this bhikkhunī, also, as soon as she has fallen into the first act of offence, is to be (temporarily) driven out, and it entails initial and subsequent meetings of the Community.
+
+7 [5]. Should any bhikkhunī engage in conveying a man’s intentions to a woman or a woman’s intentions to a man, proposing marriage or paramourage — even if only for a momentary liaison: this bhikkhunī, also, as soon as she has fallen into the first act of offence, is to be (temporarily) driven out, and it entails initial and subsequent meetings of the Community.
+
+8 [8]. Should any bhikkhunī — corrupt, aversive, disgruntled — charge a bhikkhunī with an unfounded case entailing defeat, (thinking), “Perhaps I may bring about her fall from this celibate life,” then regardless of whether or not she is cross-examined on a later occasion, if the issue is unfounded and the bhikkhunī confesses her aversion: this bhikkhunī, also, as soon as she has fallen into the first act of offence, is to be (temporarily) driven out, and it entails initial and subsequent meetings of the Community.
+
+9 [9]. Should any bhikkhunī — corrupt, aversive, disgruntled — using as a mere ploy an aspect of an issue that pertains otherwise, charge a bhikkhunī with a case entailing defeat, (thinking), “Perhaps I may bring about her fall from this celibate life,” then regardless of whether or not she is cross-examined on a later occasion, if the issue pertains otherwise, an aspect used as a mere ploy, and the bhikkhunī confesses her aversion: this bhikkhunī, also, as soon as she has fallen into the first act of offence, is to be (temporarily) driven out, and it entails initial and subsequent meetings of the Community.
+
+10. Should any bhikkhunī, angry and displeased, say, “I repudiate the Buddha, I repudiate the Dhamma, I repudiate the Sangha, I repudiate the Training. Since when were the Sakyan-daughter contemplatives the only contemplatives? There are other contemplatives who are conscientious, scrupulous, and desirous of training. I will practice the holy life in their company,” the bhikkhunīs are to admonish her thus: “Lady, don’t — angry and displeased — say, ‘I repudiate the Buddha, I repudiate the Dhamma, I repudiate the Sangha, I repudiate the Training. Since when were the Sakyan-daughter contemplatives the only contemplatives? There are other contemplatives who are conscientious, scrupulous, and desirous of training. I will practice the holy life in their company.’ Take delight, lady. The Dhamma is well-expounded. Follow the holy life for the right ending of suffering.”
+
+And should that bhikkhunī, thus admonished by the bhikkhunīs, persist as before, the bhikkhunīs are to rebuke her up to three times for the sake of relinquishing that. If while being rebuked up to three times she relinquishes that, that is good. If she does not relinquish that, then this bhikkhunī, also, as soon as she has fallen into the third act of offence, is to be (temporarily) driven out, and it entails initial and subsequent meetings of the Community.
+
+11. Should any bhikkhunī, overthrown in even a trifling issue, angry and displeased, say, “The bhikkhunīs are biased through favoritism, biased through aversion, biased through delusion, biased through fear,” the bhikkhunīs are to admonish her thus: “Lady, don’t — overthrown in even a trifling issue, angry and displeased — say, ‘The bhikkhunīs are biased through favoritism, biased through aversion, biased through delusion, biased through fear. It may be that you, lady, are biased through favoritism, biased through aversion, biased through delusion, biased through fear.’”
+
+And should that bhikkhunī, thus admonished by the bhikkhunīs, persist as before, the bhikkhunīs are to rebuke her up to three times for the sake of relinquishing that. If while being rebuked up to three times she relinquishes that, that is good. If she does not relinquish that, then this bhikkhunī, also, as soon as she has fallen into the third act of offence, is to be (temporarily) driven out, and it entails initial and subsequent meetings of the Community.
+
+12. In case bhikkhunīs are living entangled, depraved in their conduct, depraved in their reputation, depraved in their notoriety (depraved in their livelihood), exasperating the Bhikkhunī Community, hiding one another’s faults, the bhikkhunīs are to admonish them thus: “The sisters are living entangled, depraved in their conduct, depraved in their reputation, depraved in their notoriety. Split up (your group), ladies. The Community recommends strict isolation for the sisters.”
+
+And should those bhikkhunīs, thus admonished by the bhikkhunīs, persist as before, the bhikkhunīs are to rebuke them up to three times times for the sake of relinquishing that. If while being rebuked up to three times by the bhikkhunīs they relinquish that, that is good. If they do not relinquish that, then these bhikkhunīs, also, as soon as they have fallen into the third act of offence, are to be (temporarily) driven out, and it entails initial and subsequent meetings of the Community. (§¶)
+
+13. Should any bhikkhunī say (to the bhikkhunīs criticized in the preceding case), “Live entangled, ladies. Don’t live separately. There are other bhikkhunīs in the Community with the same conduct, the same reputation, the same notoriety, exasperating the Bhikkhunī Community, hiding one another’s faults, but the Community doesn’t say anything to them. It’s simply because of your weakness (lack of partisans) that the Community — with contempt, scorn, intolerance, and threats — says, ‘The sisters are living entangled, depraved in their conduct, depraved in their reputation, depraved in their notoriety. Split up (your group), ladies. The Community recommends strict isolation for the sisters,’” the bhikkhunīs are to admonish her thus: “Lady, don’t say, ‘Live entangled, ladies. Don’t live separately. There are other bhikkhunīs in the Community with the same conduct, the same reputation, the same notoriety, exasperating the Bhikkhunī Community, hiding one another’s faults, but the Community doesn’t say anything to them. It’s simply because of your weakness that the Community — with contempt, scorn, intolerance, and threats — says, “The sisters are living entangled, depraved in their conduct, depraved in their reputation, depraved in their notoriety. Split up (your group), ladies. The Community recommends strict isolation for the sisters.”’”
+
+And should that bhikkhunī, thus admonished by the bhikkhunīs, persist as before, the bhikkhunīs are to rebuke her up to three times for the sake of relinquishing that. If while being rebuked up to three times she relinquishes that, that is good. If she does not relinquish that, then this bhikkhunī, also, as soon as she has fallen into the third act of offence, is to be (temporarily) driven out, and it entails initial and subsequent meetings of the Community.
+
+14 [10]. Should any bhikkhunī agitate for a schism in a united Community, or should she persist in taking up an issue conducive to schism, the bhikkhunīs are to admonish her thus: “Do not, lady, agitate for a schism in a united Community or persist in taking up an issue conducive to schism. Let the lady be reconciled with the Community, for a united Community, on courteous terms, without dispute, with a common recitation, dwells in peace.”
+
+And should that bhikkhunī, thus admonished by the bhikkhunīs, persist as before, the bhikkhunīs are to rebuke her up to three times so as to desist. If while being rebuked up to three times she desists, that is good. If she does not desist, then this bhikkhunī, also, as soon as she has fallen into the third act of offence, is to be (temporarily) driven out, and it entails initial and subsequent meetings of the Community.
+
+15 [11]. Should bhikkhunīs — one, two, or three — who are followers and partisans of that bhikkhunī, say, “Do not, ladies, admonish that bhikkhunī in any way. She is an exponent of the Dhamma, she is an exponent of the Vinaya. She acts with our consent and approval. She knows, she speaks for us, and that is pleasing to us,” the bhikkhunīs are to admonish them thus: “Do not say that, ladies. That bhikkhunī is not an exponent of the Dhamma and she is not an exponent of the Vinaya. Do not, ladies, approve of a schism in the Community. Let the ladies’ (minds) be reconciled with the Community, for a united Community, on courteous terms, without dispute, with a common recitation, dwells in peace.”
+
+And should those bhikkhunīs, thus admonished by the bhikkhunīs, persist as before, the bhikkhunīs are to rebuke them up to three times times for the sake of relinquishing that. If while being rebuked up to three times by the bhikkhunīs they relinquish that, that is good. If they do not relinquish that, then these bhikkhunīs, also, as soon as they have fallen into the third act of offence, are to be (temporarily) driven out, and it entails initial and subsequent meetings of the Community.
+
+16 [12]. In case a bhikkhunī is by nature difficult to admonish — who, when being legitimately admonished by the bhikkhunīs with reference to the training rules included in the (Pāṭimokkha) recitation, makes herself unadmonishable, (saying,) “Do not, ladies, say anything to me, good or bad; and I won’t say anything to the ladies, good or bad. Refrain, ladies, from admonishing me” — the bhikkhunīs are to admonish her thus: “Let the lady not make herself unadmonishable. Let the lady make herself admonishable. Let the lady admonish the bhikkhunīs in accordance with what is right, and the bhikkhunīs will admonish the lady in accordance with what is right; for it is thus that the Blessed One’s following is nurtured: through mutual admonition, through mutual rehabilitation.”
+
+And should that bhikkhunī, thus admonished by the bhikkhunīs, persist as before, the bhikkhunīs are to rebuke her up to three times for the sake of relinquishing that. If while being rebuked up to three times she relinquishes that, that is good. If she does not relinquish that, then this bhikkhunī, also, as soon as she has fallen into the third act of offence, is to be (temporarily) driven out, and it entails initial and subsequent meetings of the Community.
+
+17 [13]. In case a bhikkhunī living in dependence on a certain village or town is a corrupter of families, a woman of depraved conduct — whose depraved conduct is both seen and heard about, and the families she has corrupted are both seen and heard about — the bhikkhunīs are to admonish her thus: “You, lady, are a corrupter of families, a woman of depraved conduct. Your depraved conduct is both seen and heard about, and the families you have corrupted are both seen and heard about. Leave this monastery, lady. Enough of your staying here.”
+
+And should that bhikkhunī, thus admonished by the bhikkhunīs, say about the bhikkhunīs, “The bhikkhunīs are biased through favoritism, biased through aversion, biased through delusion, biased through fear, in that for this sort of offense they banish some and do not banish others,” the bhikkhunīs are to admonish her thus: “Do not say that, lady. The bhikkhunīs are not biased through favoritism, are not biased through aversion, are not biased through delusion, are not biased through fear. You, lady, are a corrupter of families, a woman of depraved conduct. Your depraved conduct is both seen and heard about, and the families you have corrupted are both seen and heard about. Leave this monastery, lady. Enough of your staying here.”
+
+And should that bhikkhunī, thus admonished by the bhikkhunīs, persist as before, the bhikkhunīs are to rebuke her up to three times for the sake of relinquishing that. If while being rebuked up to three times she relinquishes that, that is good. If she does not relinquish that, then this bhikkhunī, also, as soon as she has fallen into the third act of offence, is to be (temporarily) driven out, and it entails initial and subsequent meetings of the Community.
+
+
+
+
+
+Nissaggiya Pācittiya
+
+
+Part One: The Bowl Chapter
+
+
+1. Should any bhikkhunī make a bowl-hoard (have more than one bowl in her possession), it is to be forfeited and confessed. [See Bhikkhus’ NP 21]
+
+2. Should any bhikkhunī, having determined an out-of-season cloth to be an in-season cloth, distribute it, it is to be forfeited and confessed. (§¶•) [2]
+
+3. Should any bhikkhunī, having exchanged robe-cloth with another bhikkhunī, later say to her, “Here, lady. This is your robe-cloth. Bring me that robe-cloth of mine. What was yours is still yours. What was mine is still mine. Bring me that one of mine. Take yours back,” and then snatch it back or have it snatched back, it is to be forfeited and confessed. [See Bhikkhus’ NP 5]
+
+4. Should any bhikkhunī, having had one thing requested, (then send it back and) have another thing requested, it is to be forfeited and confessed.
+
+5. Should any bhikkhunī, having had one thing bought, (then send it back and) have another thing bought, it is to be forfeited and confessed.
+
+6. Should any bhikkhunī, using a fund intended for one purpose, dedicated to one purpose for a Community, have something else bought, it is to be forfeited and confessed. (§•)
+
+7. Should any bhikkhunī, having herself asked for a fund intended for one purpose, dedicated to one purpose for a Community, use it to have something else bought, it is to be forfeited and confessed. (§•) [3]
+
+8. Should any bhikkhunī, using a fund intended for one purpose, dedicated to one purpose for a group, have something else bought, it is to be forfeited and confessed. (§•)
+
+9. Should any bhikkhunī, having herself asked for a fund intended for one purpose, dedicated to one purpose for a group, use it to have something else bought, it is to be forfeited and confessed. (§•)
+
+10. Should any bhikkhunī, having herself asked for a fund intended for one purpose, dedicated to one purpose for an individual, use it to have something else bought, it is to be forfeited and confessed. (§•)
+
+
+
+
+
+Part Two: The Robe-cloth Chapter
+
+
+11. When a bhikkhunī is asking for a heavy cloth, one worth four “bronzes” at most may be asked for. If she asks for more than that, it is to be forfeited and confessed. (§•)
+
+12. When a bhikkhunī is asking for a light cloth, one worth two and a half “bronzes” at most may be asked for. If she asks for more than that, it is to be forfeited and confessed. (§•)
+
+13 [1]. When a bhikkhunī has finished her robe and the frame is destroyed (her kathina privileges are in abeyance), she is to keep extra robe-cloth ten days at most. Beyond that, it is to be forfeited and confessed.
+
+14 [2]. When a bhikkhunī has finished her robe and the frame is destroyed (her kathina privileges are in abeyance): If she dwells apart from (any of) her five robes even for one night — unless authorized by the bhikkhunīs — it is to be forfeited and confessed.
+
+15 [3]. When a bhikkhunī has finished her robe and the frame is destroyed (her kathina privileges are in abeyance): Should out-of-season robe-cloth accrue to her, she may accept it if she so desires. Having accepted it, she is to make it up immediately (into a cloth requisite). But should it not be enough, she may lay it aside for a month at most if she has an expectation for filling the lack. If she should keep it beyond that, even when she has an expectation (for further cloth), it is to be forfeited and confessed.
+
+16 [6]. Should any bhikkhunī ask for robe-cloth from a man or woman householder unrelated to her, except at the proper occasion, it is to be forfeited and confessed. Here the proper occasion is this: The bhikkhunī’s robe has been snatched away or destroyed. This is the proper occasion here.
+
+17 [7]. If that unrelated man or woman householder presents the bhikkhunī with many robes (pieces of robe-cloth), she is to accept at most (enough for) an upper and a lower robe. If she accepts more than that, it is to be forfeited and confessed.
+
+18 [8]. In case a man or woman householder unrelated (to the bhikkhunī) prepares a robe fund for the sake of a bhikkhunī, thinking. “Having purchased a robe with this robe fund, I will clothe the bhikkhunī named so-and-so with a robe:” If the bhikkhunī, not previously invited, approaching (the householder) should make a stipulation with regard to the robe, saying, “It would be good indeed, sir, if you clothed me (with a robe), having purchased a robe of such-and-such a sort with this robe fund” — out of a desire for something fine — it is to be forfeited and confessed.
+
+19 [9]. In case two householders — men or women — unrelated (to the bhikkhunī) prepare separate robe funds for the sake of a bhikkhunī, thinking, “Having purchased separate robes with these separate robe funds of ours, we will clothe the bhikkhunī named so-and-so with robes”: If the bhikkhunī, not previously invited, approaching (them) should make a stipulation with regard to the robe, saying, “It would be good indeed, sirs, if you clothed me (with a robe), having purchased a robe of such-and-such a sort with these separate robe funds, the two (funds) together for one (robe)” — out of a desire for something fine — it is to be forfeited and confessed.
+
+20 [10]. In case a king, a royal official, a brahman, or a householder sends a robe fund for the sake of a bhikkhunī via a messenger, (saying,) “Having purchased a robe with this robe fund, clothe the bhikkhunī named so-and-so with a robe”: If the messenger, approaching the bhikkhunī, should say, “This is a robe fund being delivered for the sake of the lady. May the lady accept this robe fund,” then the bhikkhunī is to tell the messenger: “We do not accept robe funds, my friend. We accept robes (robe-cloth) as are proper according to season.”
+
+If the messenger should say to the bhikkhunī, “Does the lady have a steward?” then, bhikkhunīs, if the bhikkhunī desires a robe, she may indicate a steward — either a monastery attendant or a lay follower — (saying,) “That, sir, is the bhikkhunīs’ steward.”
+
+If the messenger, having instructed the steward and going to the bhikkhunī, should say, “I have instructed the steward the lady indicated. May the lady go (to her) and she will clothe you with a robe in season,” then the bhikkhunī, desiring a robe and approaching the steward, may prompt and remind her two or three times, “I have need of a robe.” Should (the steward) produce the robe after being prompted and reminded two or three times, that is good.
+
+If she should not produce the robe, (the bhikkhunī) should stand in silence four times, five times, six times at most for that purpose. Should (the steward) produce the robe after (the bhikkhunī) has stood in silence for the purpose four, five, six times at most, that is good.
+
+If she should not produce the robe (at that point), should she then produce the robe after (the bhikkhunī) has endeavored further than that, it is to be forfeited and confessed.
+
+If she should not produce (the robe), then the bhikkhunī herself should go to the place from which the robe fund was brought, or a messenger should be sent (to say), “The robe fund that you, venerable sirs, sent for the sake of the bhikkhunī has given no benefit to the bhikkhunī at all. May the you be united with what is yours. May what is yours not be lost.” This is the proper course here.
+
+
+
+
+
+Part Three: The Gold and Silver Chapter
+
+
+21 [18]. Should any bhikkhunī take gold and silver, or have it taken, or consent to its being deposited (near her), it is to be forfeited and confessed.
+
+22 [19]. Should any bhikkhunī engage in various types of monetary exchange, it (the income) is to be forfeited and confessed.
+
+23 [20]. Should any bhikkhunī engage in various types of trade, (the article obtained) is to be forfeited and confessed.
+
+24 [22]. Should any bhikkhunī with an alms bowl having less than five mends ask for another new bowl, it is to be forfeited and confessed. The bowl is to be forfeited by the bhikkhunī to the company of bhikkhunīs. That company of bhikkhunīs’ final bowl should be presented to the bhikkhunī, (saying,) “This, bhikkhunī, is your bowl. It is to be kept until broken.” This is the proper course here.
+
+25 [23]. There are these tonics to be taken by sick bhikkhunīs: ghee, fresh butter, oil, honey, sugar/molasses. Having been received, they are to be used from storage seven days at most. Beyond that, they are to be forfeited and confessed.
+
+26 [25]. Should any bhikkhunī — having herself given robe-cloth to (another) bhikkhunī and then being angered and displeased — snatch it away or have it snatched away, it is to be forfeited and confessed.
+
+27 [26]. Should any bhikkhunī, having requested thread, have robe-cloth woven by weavers, it is to be forfeited and confessed.
+
+28 [27]. In case a man or woman householder unrelated (to the bhikkhunī) has robe-cloth woven by weavers for the sake of a bhikkhunī, and if the bhikkhunī, not previously invited (by the householder), having approached the weavers, should make stipulations with regard to the cloth, saying, “This cloth, friends, is to be woven for my sake. Make it long, make it broad, make it tightly woven, well woven, well spread, well scraped, well smoothed, and perhaps I may reward you with a little something”; and should that bhikkhunī, having said that, reward them with a little something, even as much as almsfood, it (the cloth) is to be forfeited and confessed.
+
+29 [28]. Ten days prior to the third-month Kattika full moon, should robe-cloth offered in urgency accrue to a bhikkhunī, she is to accept it if she regards it as offered in urgency. Once she has accepted it, she may keep it throughout the robe season. Beyond that, it is to be forfeited and confessed.
+
+30 [30]. Should any bhikkhunī knowingly divert to herself gains that had been allocated for a Community, they are to be forfeited and confessed.
+
+
+
+
+
+Pācittiya
+
+
+Part One: The Garlic Chapter
+
+
+1. Should any bhikkhunī eat garlic, it is to be confessed. [Cv.V.34.1]
+
+2. Should any bhikkhunī have the hair in the “confining places” (armpits and pelvic areas) removed, it is to be confessed. (§•) [Cv.V.27.4] [4]
+
+3. (Genital) slapping (even to the extent of consenting to a blow with a lotus-leaf) is to be confessed. [See Bhikkhus’ Saṅghādisesa 1]
+
+4. (The insertion of) a dildo is to be confessed. (§•) [See Bhikkhus’ Saṅghādisesa 1]
+
+5. When a bhikkhunī is giving herself an ablution, is to be given only to the depth of two finger joints (and using no more than two fingers). Beyond that, it is to be confessed. [See Bhikkhus’ Saṅghādisesa 1] (§)
+
+6. Should any bhikkhunī, when a bhikkhu is eating, attend on him with water or a fan, it is to be confessed.
+
+7. Should any bhikkhunī, having requested raw grain or having had it requested, having roasted it or having had it roasted, having pounded it or having had it pounded, having cooked it or having had it cooked, then eat it, it is to be confessed.
+
+8. Should any bhikkhunī toss or get someone else to toss excrement or urine or trash or leftovers over a wall or a fence, it is to be confessed.
+
+9. Should any bhikkhunī toss or get someone else to toss excrement or urine or trash or leftovers on living crops, it is to be confessed.
+
+10. Should any bhikkhunī go to see dancing or singing or instrument-playing, it is to be confessed. [Cv.V.2.6]
+
+
+
+
+
+Part Two: The Darkness Chapter
+
+
+11. Should any bhikkhunī stand or converse with a man, one on one, in the darkness of the night without a light, it is to be confessed.
+
+12. Should any bhikkhunī stand or converse with a man, one on one, in a concealed place, it is to be confessed.
+
+13. Should any bhikkhunī stand or converse with a man, one on one, in the open air, it is to be confessed.
+
+14. Should any bhikkhunī — along a road, in a cul-de-sac, or at a crossroads — stand or converse with a man one on one, or whisper in his ear, or dismiss the bhikkhunī who is her companion, it is to be confessed.
+
+15. Should any bhikkhunī, having gone to family residences before the meal (before noon), having sat down on a seat, depart without taking the owner’s leave, it is to be confessed. (•)
+
+16. Should any bhikkhunī, having gone to family residences after the meal (between noon and sunset), sit or lie down on a seat without asking the owner’s permission, it is to be confessed.
+
+17. Should any bhikkhunī, having gone to family residences in the wrong time (between sunset and dawn), having spread out bedding or having had it spread out, sit or lie down (there) without asking the owner’s permission, it is to be confessed.
+
+18. Should any bhikkhunī, because of a misapprehension, because of a misunderstanding, malign another (bhikkhunī), it is to be confessed. (•)
+
+19. Should any bhikkhunī curse herself or another (bhikkhunī) with regard to hell or the holy life, it is to be confessed.
+
+20. Should any bhikkhunī weep, beating and beating herself, it is to be confessed.
+
+
+
+
+
+Part Three: The Naked Chapter
+
+
+21. Should any bhikkhunī bathe naked, it is to be confessed. [See Mv.VIII.28 & Cv.V.16.2]
+
+22. When a bhikkhunī is making a bathing cloth, it is to be made to the standard measurement. Here the standard is this: four spans — using the sugata span — in length, two spans in width. In excess of that, it is to be cut down and confessed. [See Bhikkhus’ Pācittiya 91]
+
+23. Should any bhikkhunī, having unsewn (another) bhikkhunī’s robe or having had it unsewn, and then later — when there are no obstructions — neither sew it nor make an effort to have it sewn within four or five days, it is to be confessed. (§•)
+
+24. Should any bhikkhunī exceed her five-day outer robe period, it is to be confessed. (§¶) [5]
+
+25. Should any bhikkhunī wear a robe that should be given back (one that she has borrowed from another bhikkhunī without asking her permission), it is to be confessed.
+
+26. Should any bhikkhunī put an obstruction in the way of a group’s receiving robe-cloth, it is to be confessed.
+
+27. Should any bhikkhunī block a robe-cloth distribution that is in accordance with the rule, it is to be confessed.
+
+28. Should any bhikkhunī give a contemplative robe (a robe that has been marked so as to be allowable for a bhikkhu or bhikkhunī) to a householder, a male wanderer, or female wanderer, it is to be confessed.
+
+29. Should any bhikkhunī let the robe-season (the period for receiving kathina-donations) pass on the basis of a weak expectation for cloth, it is to be confessed.
+
+30. Should any bhikkhunī block the dismantling of the kathina privileges in accordance with the rule, it is to be confessed.
+
+
+
+
+
+Part Four: The Sharing Chapter
+
+
+31. Should two bhikkhunīs share a single bed, it is to be confessed. [Cv.V.19.2]
+
+32. Should two bhikkhunīs share a single blanket or sleeping mat, it is to be confessed. [Cv.V.19.2]
+
+33. Should any bhikkhunī intentionally cause annoyance to (another) bhikkhunī, it is to be confessed.
+
+34. Should any bhikkhunī not attend to her ailing student nor make an effort to have her attended to, it is to be confessed. (§¶) [See Cv.VIII.12.2]
+
+35. Should any bhikkhunī, having given living space to another bhikkhunī, then — angry and displeased — evict her or have her evicted, it is to be confessed.
+
+36. Should any bhikkhunī live entangled with a householder or a householder’s son, the bhikkhunīs are to admonish her thus: “Lady, don’t live entangled with a householder or a householder’s son. Live alone, lady. The Community recommends strict isolation for the lady.”
+
+And should that bhikkhunī, thus admonished by the bhikkhunīs, persist as before, the bhikkhunīs are to rebuke her up to three times for the sake of relinquishing that. If while being rebuked up to three times she relinquishes that, that is good. If she does not relinquish that, it is to be confessed.
+
+37. Should any bhikkhunī, without joining a caravan of merchants, set out within the local king’s territory on a journey considered dubious and risky, it is to be confessed. (§¶•)
+
+38. Should any bhikkhunī, without joining a caravan of merchants, set out outside the local king’s territory on a journey considered dubious and risky, it is to be confessed. (§¶•)
+
+39. Should any bhikkhunī set out on a journey during the Rains-residence, it is to be confessed. (§•)[Mv.III.3.2]
+
+40. Should any bhikkhunī, having completed the Rains-residence, not depart on a journey of at least five or six leagues, it is to be confessed.
+
+
+
+
+
+Part Five: The Picture Gallery Chapter
+
+
+41. Should any bhikkhunī go to see a royal pleasure house or a picture gallery (any building decorated for amusement) or a park or a pleasure grove or a lotus pond, it is to be confessed.
+
+42. Should any bhikkhunī make use of a dais or a throne, it is to be confessed. [Cv.VI.8] (§¶•) [6]
+
+43. Should any bhikkhunī spin yarn (thread), it is to be confessed.
+
+44. Should any bhikkhunī do a chore for a lay person, it is to be confessed. (§¶•) [7]
+
+45. Should any bhikkhunī — when told by a bhikkhunī, “Come, lady. Help settle this issue,” and having answered, “Very well” — then, when there are no obstructions, neither settle it nor make an effort to have it settled, it is to be confessed.
+
+46. Should any bhikkhunī give, with her own hand, staple or non-staple food to a householder, a male wanderer, or a female wanderer, it is to be confessed. [See Bhikkhus’ Pācittiya 41]
+
+47. Should any bhikkhunī use a menstrual cloth without having forfeited it (after her previous period), it is to be confessed. (¶)
+
+48. Should any bhikkhunī depart on a journey without having forfeited her dwelling space, it is to be confessed. [See Bhikkhus’ Pācittiya 15]
+
+49. Should any bhikkhunī study lowly arts (literally, bestial knowledge), it is to be confessed. [Cv.V.33.2 — for a list of lowly arts, see DN 2]
+
+50. Should any bhikkhunī teach lowly arts, it is to be confessed. [Cv.V.33.2]
+
+
+
+
+
+Part Six: The Monastery Chapter
+
+
+51. Should any bhikkhunī, without asking permission, knowingly enter a monastery containing a bhikkhu , it is to be confessed. [See Bhikkhus’ Pācittiya 23]
+
+52. Should any bhikkhunī revile or insult a bhikkhu, it is to be confessed.*
+
+53. Should any bhikkhunī, in a fit of temper, revile a group (the Bhikkhunī Community), it is to be confessed.
+
+54. Should any bhikkhunī, having eaten and turned down an offer (of further food), chew or consume staple or non-staple food (elsewhere), it is to be confessed. (•)[See Bhikkhus’ Pācittiya 35]
+
+55. Should any bhikkhunī be stingy with regard to families (supporters), it is to be confessed. (•) [8]
+
+56. Should any bhikkhunī spend the Rains-residence in a dwelling where there are no bhikkhus (nearby), it is to be confessed.*
+
+57. Should any bhikkhunī, having completed the Rains-residence, not invite (criticism) from both Communities with regard to three matters — what they have seen, heard, or suspected (her of doing) — it is to be confessed.*
+
+58. Should any bhikkhunī not go for the exhortation or for the (meeting that defines) affiliation (i.e., the Uposatha), it is to be confessed.*
+
+59. Every half-month a bhikkhunī should request two things from the Bhikkhu Community: the asking of the date of the Uposatha and the approaching for exhortation. In excess of that (half-month), it is to be confessed.*
+
+60. Should any bhikkhunī, without having informed a Community or a group (of bhikkhunīs), alone with a man have a boil or scar that has appeared on the lower part of her body (between the navel and the knees) burst or cut open or cleaned or smeared with a salve or bandaged or unbandaged, it is to be confessed.
+
+
+
+
+
+Part Seven: The Pregnant Woman Chapter
+
+
+61. Should any bhikkhunī sponsor (the Acceptance (upasampada) of) a pregnant woman, it is to be confessed.
+
+62. Should any bhikkhunī sponsor (the Acceptance of) a woman who is still nursing, it is to be confessed.
+
+63. Should any bhikkhunī sponsor (the Acceptance of) a trainee who has not trained for two years in the six precepts, it is to be confessed.* [9]
+
+64. Should any bhikkhunī sponsor (the Acceptance of) a trainee who has not trained for two years in the six precepts and who has not been authorized by a Community, it is to be confessed.
+
+65. Should any bhikkhunī sponsor (the Acceptance of) a married woman who (has been married) less than twelve years, it is to be confessed. (¶•) [See Bhikkhus’ Pācittiya 65] [10]
+
+66. Should any bhikkhunī sponsor (the Acceptance of) a married woman who (has been married) fully twelve years but who has not trained for two years in the six precepts, it is to be confessed. (¶•) *
+
+67. Should any bhikkhunī sponsor (the Acceptance of) a married woman who (has been married) fully twelve years and who has trained for two years in the six precepts but who has not been authorized by a Community, it is to be confessed. (¶•)
+
+68. Should any bhikkhunī, having sponsored (the Acceptance of) her student, neither assist her (in her training) nor have her assisted for (the next) two years, it is to be confessed. [See Cv.VIII.12.2-11]
+
+69. Should any bhikkhunī not attend to her preceptor for two years, it is to be confessed. [See Cv.VIII.11.2-18]
+
+70. Should any bhikkhunī, having sponsored (the Acceptance of) her student, neither take her away nor have her taken away for at least five or six leagues, it is to be confessed. [11]
+
+
+
+
+
+Part Eight: The Maiden Chapter
+
+
+71. Should any bhikkhunī sponsor (the Acceptance of) a maiden (unmarried woman/female novice) less than twenty years old, it is to be confessed. [Bhikkhus’ Pācittiya 65]
+
+72. Should any bhikkhunī sponsor (the Acceptance of) a maiden fully twenty years old but who has not trained for two years in the six precepts, it is to be confessed.
+
+73. Should any bhikkhunī sponsor (the Acceptance of) a maiden fully twenty years old who has trained for two years in the six precepts but who has not been authorized by a Community, it is to be confessed.
+
+74. Should any bhikkhunī sponsor (an Acceptance) when she has less than twelve years (seniority), it is to be confessed. [See Mv.I.25.6]
+
+75. Should any bhikkhunī, even if she has fully twelve years (seniority) sponsor (an Acceptance) when she has not been authorized by a Community (of bhikkhunīs), it is to be confessed.
+
+76. Should any bhikkhunī — having been told, “Enough, lady, of your sponsoring (Acceptance) for the time being,” and having answered, “Very well” — later complain, it is to be confessed.
+
+77. Should any bhikkhunī — having said to a trainee, “If you give me a robe, I will sponsor you (for Acceptance),” — then, when there are no obstructions, neither sponsor her (Acceptance) nor make an effort to have her sponsored (for Acceptance), it is to be confessed.
+
+78. Should any bhikkhunī — having said to a trainee, “If you attend to me for two years, I will sponsor you (for Acceptance),” — then, when there are no obstructions, neither sponsor her (Acceptance) nor make an effort to have her sponsored (for Acceptance), it is to be confessed.
+
+79. Should any bhikkhunī sponsor (the Acceptance of) a trainee who is entangled with men, entangled with youths, temperamental, a cause of grief, it is to be confessed.
+
+80. Should any bhikkhunī sponsor (the Acceptance of) a trainee without getting permission from her parents or her husband, it is to be confessed. [See Mv.I.54.6]
+
+81. Should any bhikkhunī sponsor (the Acceptance of) a trainee by means of stale giving of consent, it is to be confessed. (§¶•) [12]
+
+82. Should any bhikkhunī sponsor (Acceptances — act as a preceptor) in consecutive years, it is to be confessed.
+
+83. Should any bhikkhunī sponsor (Acceptances — act as a preceptor for) two (trainees) in one year, it is to be confessed.
+
+
+
+
+
+Part Nine: The Sunshade and Leather Footwear Chapter
+
+
+84. Should any bhikkhunī, not being ill, use a sunshade and leather footwear (outside a monastery), it is to be confessed. [Sunshade: Cv.V.23.3; Footwear: See Mv.I.30, Mv.V.4.3, Mv.V.5.2]
+
+85. Should any bhikkhunī, not being ill, ride in a vehicle, it is to be confessed. [Mv.V.10.2]
+
+86. Should any bhikkhunī wear a hip ornament, it is to be confessed. (§•) [Cv.V.2.1]
+
+87. Should any bhikkhunī wear a woman’s ornament, it is to be confessed. [See Cv.V.2.1]
+
+88. Should any bhikkhunī (not being ill) bathe with perfumes and paint, it is to be confessed. [See Mv.VI.9.2 and Cv.V.2.5]
+
+89. Should any bhikkhunī (not being ill) bathe with scented sesame powder, it is to be confessed. [See Mv.VI.9.2]
+
+90. Should any bhikkhunī (not being ill) have another bhikkhunī rub or massage her, it is to be confessed.
+
+91. Should any bhikkhunī (not being ill) have a trainee rub or massage her, it is to be confessed.
+
+92. Should any bhikkhunī (not being ill) have a female novice rub or massage her, it is to be confessed.
+
+93. Should any bhikkhunī (not being ill) have a woman householder rub or massage her, it is to be confessed.
+
+94. Should any bhikkhunī sit down in front of a bhikkhu without asking permission, it is to be confessed.*
+
+95. Should any bhikkhunī ask a question (about the Suttas, Vinaya, or Abhidhamma) of a bhikkhu who has not given leave, it is to be confessed.* [13]
+
+96. Should any bhikkhunī enter a village without her vest, it is to be confessed.
+
+
+
+
+
+Part Ten: The Lie Chapter
+
+
+97 [1]. A deliberate lie is to be confessed.
+
+98 [2]. An insult is to be confessed.
+
+99 [3]. Divisive tale-bearing among bhikkhunīs is to be confessed.
+
+100 [4]. Should any bhikkhunī have an unordained person recite Dhamma line by line (with her), it is to be confessed.
+
+101 [5]. Should any bhikkhunī lie down together (in the same dwelling) with an unordained woman for more than two or three consecutive nights, it is to be confessed.
+
+102 [6]. Should any bhikkhunī lie down together (in the same dwelling) with a man, it is to be confessed.
+
+103 [7]. Should any bhikkhunī teach more than five or six sentences of Dhamma to a man, unless a knowledgeable woman is present, it is to be confessed.
+
+104 [8]. Should any bhikkhunī report (her own) superior human state to an unordained person, when it is factual, it is to be confessed. [14]
+
+105 [9]. Should any bhikkhunī report (another) bhikkhunī’s serious offense to an unordained person — unless authorized by the bhikkhunīs — it is to be confessed. [15]
+
+106 [10]. Should any bhikkhunī dig soil or have it dug, it is to be confessed.
+
+
+
+
+
+Part Eleven: The Living Plant Chapter
+
+
+107 [11]. The damaging of a living plant is to be confessed.
+
+108 [12]. Evasive speech and causing frustration are to be confessed.
+
+109 [13]. Complaining about or criticizing (a Community official) is to be confessed.
+
+110 [14]. Should any bhikkhunī set a bed, bench, mattress, or stool belonging to the Community out in the open — or have it set out — and then on departing neither put it away nor have it put away, or should she go without taking leave, it is to be confessed.
+
+111 [15]. Should any bhikkhunī set out bedding in a dwelling belonging to the Community — or have it set out — and then on departing neither put it away nor have it put away, or should she go without taking leave, it is to be confessed.
+
+112 [16]. Should any bhikkhunī knowingly lie down in a dwelling belonging to the Community so as to intrude on a bhikkhunī who arrived there first, (thinking), “Whoever finds it confining will go away” — doing it for just that reason and no other — it is to be confessed.
+
+113 [17]. Should any bhikkhunī, angry and displeased, evict a bhikkhunī from a dwelling belonging to the Community — or have her evicted — it is to be confessed.
+
+114 [18]. Should any bhikkhunī sit or lie down on a bed or bench with detachable legs on an (unplanked) loft in a dwelling belonging to the Community, it is to be confessed.
+
+115 [19]. When a bhikkhunī is building a large dwelling, she may apply two or three layers of facing to plaster the area around the window frame and reinforce the area around the door frame the width of the door opening, while standing where there are no crops to speak of. Should she apply more than that, even if standing where there are no crops to speak of, it is to be confessed.
+
+116 [20]. Should any bhikkhunī knowingly pour water containing living beings — or have it poured — on grass or on clay, it is to be confessed.
+
+
+
+
+
+Part Twelve: The Food Chapter
+
+
+117 [31]. A bhikkhunī who is not ill may eat one meal at a public alms center. Should she eat more than that, it is to be confessed.
+
+118 [32]. A group meal, except at the proper occasions, is to be confessed. Here the proper occasions are these: a time of illness, a time of giving cloth, a time of making robes, a time of going on a journey, a time of embarking on a boat, a great occasion, a time when the meal is supplied by contemplatives. These are the proper occasions here.
+
+119 [34]. In case a bhikkhunī arriving at a family residence is presented with cakes or cooked grain-meal, she may accept two or three bowlfuls if she so desires. If she should accept more than that, it is to be confessed. Having accepted the two-or-three bowlfuls and having taken them from there, she is to share them among the bhikkhunīs. This is the proper course here.
+
+120 [37]. Should any bhikkhunī chew or consume staple or non-staple food at the wrong time, it is to be confessed.
+
+121 [38]. Should any bhikkhunī chew or consume stored-up staple or non-staple food, it is to be confessed.
+
+122 [40]. Should any bhikkhunī take into her mouth an edible that has not been given — except for water and tooth-cleaning sticks — it is to be confessed.
+
+123 [42]. Should any bhikkhunī say to a bhikkhunī, “Come, lady, let’s enter the village or town for alms,” and then — whether or not she has had (food) given to her — dismiss her, saying, “Go away, lady. I don’t like sitting or talking with you. I prefer sitting or talking alone” — doing it for just that reason and no other — it is to be confessed.
+
+124 [43]. Should any bhikkhunī sit intruding on a family “with its meal,” it is to be confessed.
+
+125 [44]. Should any bhikkhunī sit in private on a secluded seat with a man, it is to be confessed.
+
+126 [45]. Should any bhikkhunī sit in private, alone with a man, it is to be confessed.
+
+
+
+
+
+Part Thirteen: The Go-calling Chapter
+
+
+127 [46]. Should any bhikkhunī, being invited for a meal and without taking leave of an available bhikkhunī, go calling on families before or after the meal, except at the proper times, it is to be confessed. Here the proper times are these: a time of giving cloth, a time of making robes. These are the proper times here.
+
+128 [47].A bhikkhunī who is not ill may accept (make use of) a four-month invitation to ask for requisites. If she should accept (make use of) it for beyond that — unless the invitation is renewed or is permanent — it is to be confessed.
+
+129 [48]. Should any bhikkhunī go to see an army on active duty, unless there is a suitable reason, it is to be confessed.
+
+130 [49]. There being some reason or another for a bhikkhunī to go to an army, she may stay two or three (consecutive) nights with the army. If she should stay beyond that, it is to be confessed.
+
+131 [50]. If a bhikkhunī staying two or three nights with an army should go to a battlefield, a roll call, the troops in battle formation, or to see a review of the (battle) units, it is to be confessed.
+
+132 [51]. The drinking of alcohol or fermented liquor is to be confessed.
+
+133 [52]. Tickling with the fingers is to be confessed.
+
+134 [53]. The act of playing in the water is to be confessed.
+
+135 [54]. Disrespect is to be confessed.
+
+136 [55]. Should any bhikkhunī try to frighten another bhikkhunī, it is to be confessed.
+
+
+
+
+
+Part Fourteen: The Fire Chapter
+
+
+137 [56]. Should any bhikkhunī who is not ill, seeking to warm herself, kindle a fire or have one kindled — unless there is a suitable reason — it is to be confessed.
+
+138 [57]. Should any bhikkhunī bathe at intervals of less than half a month, except at the proper occasions, it is to be confessed. Here the proper occasions are these: the last month and a half of the hot season, the first month of the rains, these two and a half months being a time of heat, a time of fever; (also) a time of illness; a time of work; a time of going on a journey; a time of wind or rain. These are the proper times here.
+
+139 [58]. When a bhikkhunī receives a new robe, any one of three means of discoloring it is to be applied: green, brown, or black. If a bhikkhunī should make use of a new robe without applying any of the three means of discoloring it, it is to be confessed.
+
+140 [59]. Should any bhikkhunī, having herself placed robe-cloth under shared ownership (vikappana) with a bhikkhu, a bhikkhunī, a female trainee, a male novice, or a female novice, then make use of the cloth without the shared ownership’s being rescinded, it is to be confessed.
+
+141 [60]. Should any bhikkhunī hide (another) bhikkhunī’s bowl, robe, sitting cloth, needle box, or belt — or have it hidden — even as a joke, it is to be confessed.
+
+142 [61]. Should any bhikkhunī intentionally deprive an animal of life, it is to be confessed.
+
+143 [62]. Should any bhikkhunī knowingly make use of water containing living beings, it is to be confessed.
+
+144 [63]. Should any bhikkhunī knowingly agitate for the reviving of an issue that has been rightfully dealt with, it is to be confessed.
+
+145 [66]. Should any bhikkhunī knowingly and by arrangement travel together with a caravan of thieves, even for the interval between one village and the next, it is to be confessed.
+
+146 [68]. Should any bhikkhunī say the following: “As I understand the Dhamma taught by the Blessed One, those acts the Blessed One says are obstructive, when engaged in are not genuine obstructions,” the bhikkhunīs are to admonish her thus: “Do not say that, lady. Do not misrepresent the Blessed One, for it is not good to misrepresent the Blessed One. The Blessed One would not say anything like that. In many ways, lady, the Blessed One has described obstructive acts, and when engaged in they are genuine obstructions.”
+
+And should that bhikkhunī, thus admonished by the bhikkhunīs, persist as before, the bhikkhunīs are to rebuke her up to three times for the sake of relinquishing that. If while being rebuked up to three times she relinquishes that, that is good. If she does not relinquish that, it is to be confessed.
+
+
+
+
+
+Part Fifteen: The View Chapter
+
+
+147 [69]. Should any bhikkhunī knowingly commune, affiliate, or lie down in the same dwelling with a bhikkhunī professing such a view who has not acted in compliance with the rule, who has not abandoned that view, it is to be confessed.
+
+148 [70]. And if a female novice should say the following: “As I understand the Dhamma taught by the Blessed One, those acts the Blessed One says are obstructive, when engaged in are not genuine obstructions,” the bhikkhunīs are to admonish her thus: “Do not say that, lady novice. Do not misrepresent the Blessed One, for it is not good to misrepresent the Blessed One. The Blessed One would not say anything like that. In many ways, lady, the Blessed One has described obstructive acts, and when engaged in they are genuine obstructions.”
+
+And should that female novice, thus admonished by the bhikkhunīs, persist as before, the bhikkhunīs are to admonish her thus: “From this day forth, lady novice, you are not to claim the Blessed One as your teacher, nor are you even to have the opportunity the other female novices get — that of sharing dwellings two or three nights with the bhikkhunīs. Away with you! Get lost!”
+
+Should any bhikkhunī knowingly support, receive services from, consort with, or lie down in the same dwelling with a female novice thus expelled, it is to be confessed.
+
+149 [71]. Should any bhikkhunī, admonished by the bhikkhunīs in accordance with a rule, say, “Ladies, I will not train myself under this training rule until I have put questions about it to another bhikkhunī, experienced and learned in the discipline,” it is to be confessed. Bhikkhus, [the Buddha is apparently addressing the bhikkhus who will inform the bhikkhunīs of this training rule] a bhikkhunī in training should understand, should ask, should ponder. This is the proper course here.
+
+150 [72]. Should any bhikkhunī, when the Pāṭimokkha is being recited, say, “Why are these lesser and minor training rules recited when they lead only to anxiety, bother, and confusion?” the criticism of the training rules is to be confessed.
+
+151 [73]. Should any bhikkhunī, when the Pāṭimokkha is being recited every half-month, say, “Just now have I learned that this case, too, is handed down in the Pāṭimokkha, is included in the Pāṭimokkha, and comes up for recitation every half-month”; and if the bhikkhunīs should know, “That bhikkhunī has already sat through two or three recitations of the Pāṭimokkha, if not more,” the bhikkhunī is not exempted for being ignorant. Whatever the offense she has committed, she is to be dealt with in accordance with the rule; and in addition, her deceit is to be exposed: “It is no gain for you, lady, it is ill-done, that when the Pāṭimokkha is being recited, you do not pay attention, properly taking it to heart.” As for the deception (§), it is to be confessed.
+
+152 [74]. Should any bhikkhunī, angered and displeased, give a blow to (another) bhikkhunī, it is to be confessed.
+
+153 [75]. Should any bhikkhunī, angered and displeased, raise the palm of her hand against (another) bhikkhunī, it is to be confessed.
+
+154 [76]. Should any bhikkhunī charge a bhikkhunī with an unfounded Saṅghādisesa (offense), it is to be confessed.
+
+155 [77]. Should any bhikkhunī purposefully provoke anxiety in (another) bhikkhunī, (thinking,) “This way, even for just a moment, she will have no peace” — doing it for just that reason and no other — it is to be confessed.
+
+156 [78]. Should any bhikkhunī stand eavesdropping on bhikkhunīs when they are arguing, quarreling, and disputing, thinking, “I will overhear what they say” — doing it for just that reason and no other — it is to be confessed.
+
+
+
+
+
+Part Sixteen: The In-accordance -with-the-Rule Chapter
+
+
+157 [79]. Should any bhikkhunī, having given consent (by proxy) to a transaction carried out in accordance with the rule, later complain (about the act), it is to be confessed.
+
+158 [80]. Should any bhikkhunī, when deliberation is being carried on in the Community, get up from her seat and leave without having given consent, it is to be confessed.
+
+159 [81]. Should any bhikkhunī, (acting as part of) a united Community, give robe-cloth (to an individual bhikkhunī) and later complain, “The bhikkhunīs apportion the Community’s gains according to friendship,” it is to be confessed.
+
+160 [82]. Should any bhikkhunī knowingly divert to an individual gains that had been allocated for a Community, it is to be confessed.
+
+161 [84]. Should any bhikkhunī pick up or have (someone) pick up a valuable or what is considered a valuable, except in a monastery or in a dwelling, it is to be confessed. But when a bhikkhunī has picked up or had (someone) pick up a valuable or what is considered a valuable (left) in a monastery or in a dwelling, she is to keep it, (thinking,) “Whoever it belongs to will (come and) fetch it.” This is the proper course here.
+
+162 [86]. Should any bhikkhunī have a needle box made of bone, ivory, or horn, it is to be broken and confessed.
+
+163 [87]. When a bhikkhunī is having a new bed or bench made, it is to have legs (at most) eight fingerbreadths long — using sugata fingerbreadths — not counting the lower edge of the frame. In excess of that it is to be cut down and confessed.
+
+164 [88]. Should any bhikkhunī have a bed or bench upholstered, it (the upholstery) is to be torn off and confessed.
+
+165 [90]. When a bhikkhunī is having a skin-eruption covering cloth made, it is to be made to the standard measurement. Here the standard is this: four spans — using the sugata span — in length, two spans in width. In excess of that, it is to be cut down and confessed.
+
+166 [92]. Should any bhikkhunī have a robe made the size of the sugata robe or larger, it is to be cut down and confessed. Here, the size of the sugata robe is this: nine spans — using the sugata span — in length, six spans in width. This is the size of the sugata’s sugata robe.
+
+
+
+
+
+Pāṭidesanīya
+
+
+1. Should any bhikkhunī, not being ill, ask for ghee and consume it, she is to acknowledge it: “Lady, I have committed a blameworthy, unsuitable act that ought to be acknowledged. I acknowledge it.” [Bhikkhus’ Pācittiya 39]
+
+2-8. Should any bhikkhunī, not being ill, ask for oil... honey... sugar/molasses... fish... meat... milk... curds and consume it, she is to acknowledge it: “Lady, I have committed a blameworthy, unsuitable act that ought to be acknowledged. I acknowledge it.” [Bhikkhus’ Pācittiya 39]
+
+
+
+
+
+Sekhiya
+
+
+Part One: The 26 Dealing with Proper Behavior
+
+
+1. {2} I will wear the lower robe {upper robe} wrapped around (me): a training to be observed.
+
+3. {4} I will go {sit} well-covered in inhabited areas: a training to be observed.
+
+5. {6} I will go {sit} well-restrained in inhabited areas: a training to be observed.
+
+7. {8} I will go {sit} with eyes lowered in inhabited areas: a training to be observed.
+
+9. {10} I will not go {sit} with robes hitched up in inhabited areas: a training to be observed.
+
+11. {12} I will not go {sit} laughing loudly in inhabited areas: a training to be observed.
+
+13. {14} I will go {sit} (speaking) with a lowered voice in inhabited areas: a training to be observed.
+
+15. {16} I will not go {sit} swinging my body in inhabited areas: a training to be observed.
+
+17. {18} I will not go {sit} swinging my arms in inhabited areas: a training to be observed.
+
+19. {20} I will not go {sit} swinging my head in inhabited areas: a training to be observed.
+
+21. {22} I will not go {sit} with arms akimbo in inhabited areas: a training to be observed.
+
+23. {24} I will not go {sit} with my head covered in inhabited areas: a training to be observed.
+
+25. I will not go tiptoeing or walking just on the heels in inhabited areas: a training to be observed.
+
+26. I will not sit clasping the knees in inhabited areas: a training to be observed.
+
+
+
+
+
+Part Two: The 30 Dealing with Food
+
+
+27. I will receive almsfood appreciatively: a training to be observed.
+
+28. I will receive almsfood with attention focused on the bowl: a training to be observed.
+
+29. I will receive almsfood with bean curry in proper proportion: a training to be observed.
+
+30. I will receive almsfood level with the edge (of the bowl): a training to be observed.
+
+31. I will eat almsfood appreciatively: a training to be observed.
+
+32. I will eat almsfood with attention focused on the bowl: a training to be observed.
+
+33. I will eat almsfood methodically: a training to be observed.
+
+34. I will eat almsfood with bean curry in proper proportion: a training to be observed.
+
+35. I will not eat almsfood taking mouthfuls from a heap: a training to be observed.
+
+36. I will not hide bean curry and foods with rice out of a desire to get more: a training to be observed.
+
+37. Not being ill, I will not eat rice or bean curry that I have requested for my own sake: a training to be observed.
+
+38. I will not look at another’s bowl intent on finding fault: a training to be observed.
+
+39. I will not take an extra-large mouthful: a training to be observed.
+
+40. I will make a rounded mouthful: a training to be observed.
+
+41. I will not open the mouth when the mouthful has yet to be brought to it: a training to be observed.
+
+42. I will not insert the whole hand into the mouth while eating: a training to be observed.
+
+43. I will not speak with the mouth full of food: a training to be observed.
+
+44. I will not eat from lifted balls of food: a training to be observed.
+
+45. I will not eat nibbling at mouthfuls of food: a training to be observed.
+
+46. I will not eat stuffing out the cheeks: a training to be observed.
+
+47. I will not eat shaking (food off) the hand: a training to be observed.
+
+48. I will not eat scattering lumps of rice about: a training to be observed.
+
+49. I will not eat sticking out the tongue: a training to be observed.
+
+50. I will not eat smacking the lips: a training to be observed.
+
+51. I will not eat making a slurping noise: a training to be observed.
+
+52. I will not eat licking the hands: a training to be observed.
+
+53. I will not eat licking the bowl: a training to be observed.
+
+54. I will not eat licking the lips: a training to be observed.
+
+55. I will not accept a water vessel with a hand soiled by food: a training to be observed.
+
+56. I will not, in an inhabited area, throw away bowl-rinsing water that has grains of rice in it: a training to be observed.
+
+
+
+
+
+Part Three: The 16 Dealing with Teaching Dhamma
+
+
+57. I will not teach Dhamma to a person with an umbrella in her hand who is not ill: a training to be observed.
+
+58. I will not teach Dhamma to a person with a staff in her hand who is not ill: a training to be observed.
+
+59. I will not teach Dhamma to a person with a knife in her hand who is not ill: a training to be observed.
+
+60. I will not teach Dhamma to a person with a weapon in her hand who is not ill: a training to be observed.
+
+61. {62} I will not teach Dhamma to a person wearing non-leather {leather} footwear who is not ill: a training to be observed.
+
+63. I will not teach Dhamma to a person in a vehicle who is not ill: a training to be observed.
+
+64. I will not teach Dhamma to a person lying down who is not ill: a training to be observed.
+
+65. I will not teach Dhamma to a person who sits clasping her knees and who is not ill: a training to be observed.
+
+66. I will not teach Dhamma to a person wearing headgear who is not ill: a training to be observed.
+
+67. I will not teach Dhamma to a person whose head is covered (with a robe or scarf) and who is not ill: a training to be observed.
+
+68. Sitting on the ground, I will not teach Dhamma to a person sitting on a seat who is not ill: a training to be observed.
+
+69. Sitting on a low seat, I will not teach Dhamma to a person sitting on a high seat who is not ill: a training to be observed.
+
+70. Standing, I will not teach Dhamma to a person sitting who is not ill: a training to be observed.
+
+71. Walking behind, I will not teach Dhamma to a person walking ahead who is not ill: a training to be observed.
+
+72. Walking beside a path, I will not teach Dhamma to a person walking on the path who is not ill: a training to be observed.
+
+
+
+
+
+Four: The 3 Miscellaneous Rules
+
+
+73. Not being ill, I will not defecate or urinate while standing: a training to be observed.
+
+74. Not being ill, I will not defecate, urinate, or spit on living crops: a training to be observed.
+
+75. Not being ill, I will not defecate, urinate, or spit in water: a training to be observed.
+
+
+
+
+
+Adhikaraṇa-Samatha
+
+
+1. A face-to-face verdict should be given. This means that the transaction settling the issue must be carried out in the presence of the Community, in the presence of the individuals, and in the presence of the Dhamma and Vinaya.
+
+2. A verdict of mindfulness may be given. This is the verdict of innocence given in an accusation, based on the fact that the accused remembers fully that she did not commit the offense in question.
+
+3. A verdict of past insanity may be given. This is another verdict of innocence given in an accusation, based on the fact that the accused was out of her mind when she committed the offense in question and so is absolved of any responsibility for it.
+
+4. Acting in accordance with what is admitted. This refers to the ordinary confession of offenses, where no formal interrogation is involved. The confession is valid only if in accord with the facts, e.g., a bhikkhunī actually commits a pācittiya offense and then confesses it as such, and not as a stronger or lesser offense. If she were to confess it as a dukkata or a Saṅghādisesa, that would be invalid.
+
+5. Acting in accordance with the majority. This refers to cases in which bhikkhunīs are unable to settle a dispute unanimously, even after all the proper procedures are followed, and — in the words of the Canon — are “wounding one another with weapons of the tongue.” In cases such as these, decisions can be made by majority vote.
+
+6. Acting for her (the accused’s) further punishment. This refers to cases where a bhikkhunī admits to having committed the offense in question only after being formally interrogated about it. She is then to be reproved for her actions, made to remember the offense and to confess it, after which the Community carries out a “further punishment” transaction against her as an added punishment for being so uncooperative as to require the formal interrogation in the first place.
+
+7. Covering over as with grass. This refers to situations in which both sides of a dispute realize that, in the course of their dispute, they have done much that is unworthy of a contemplative. If they were to deal with one another for their offenses, the only result would be greater divisiveness. Thus if both sides agree, all the bhikkhunīs gather in one place. (According to the Commentary, this means that all bhikkhunīs in the Community territory (sima) must attend. No one should send her consent, and even sick bhikkhunīs must go.) A motion is made to the entire group that this procedure will be followed. One member of each side then makes a formal motion to the members of her faction that she will make a confession for them. When both sides are ready, the representative of each side addresses the entire group and makes the blanket confession, using the form of a motion and one announcement (ñatti-dutiya-kamma).
+
+
+
+
+
+Endnotes
+
+1. The syntax of this rule allows for two interpretations of the phrase, “with the Dhamma, with the Vinaya, with the teacher’s instructions.” BD, BN, and N all take it as connected with the phrase, “disrespectful, has not made amends, has broken off his friendship” thus: “he is disrespectful, has not made amends, has broken off his friendship with the Dhamma, with the Vinaya, with the teacher’s instructions.” I, however, follow the Commentary in connecting it with the term “suspended.” An argument for ignoring the Commentary here might be that its interpretation does not follow normal sentence order. An argument for following it would be that (1) the formal legal language of training rules sometimes deviates from normal sentence order and (2) the word “disrespectful,” for one, takes the locative case for its object, not the instrumental, which is used here. With regard to point (1), the word order in the relevant sentence might be explained by the fact that there was a need to separate “Community,” also in the instrumental, from the instrumentals in the phrase “in line with the Dhamma,” etc.
+
+There is also a good practical reason to follow the Commentary here, in that if the Community of bhikkhus acting in unity suspended the bhikkhu in question in a transaction that was not in line with the Dhamma, the Vinaya, the teacher’s instructions, then there is no good reason that the bhikkhunī following him should be subject to this rule.
+
+2. When a Community’s kathina privileges are in effect, all cloth presented to the their residence is in-season cloth, and it is to be distributed only among the residents who spent the Rains-residence in that residence and participated in the spreading of the kathina (see Mv.VII.1.3). Other bhikkhunīs have no share in it. However, if donors wish to give cloth to those other bhikkhunīs, they can declare their intention, in which the cloth — even though given “in-season” — counts as out-of-season cloth. In this case, the later arrivals have a right to a share. In the origin story to this rule, donors make such a gift. The offending bhikkhunī, not wanting to share the gift with the later arrivals for whom it was intended, declares it to be in-season cloth, and shares it only with the bhikkhunīs who spent the Rains-residence in that residence.
+
+3. The origin story here shows that lay donors, of their own initiative, set the fund aside with a storekeeper for one purpose, and then the bhikkhunī asks for it to be transferred — apparently to another store — and buys something else with it. This condition also applies to NP 9 & NP 10.
+
+4. Horner, when coming to this rule in her translation of BD (in the volume first published in 1942) converted this rule to the exact opposite of its actual meaning, thus: “Whatever nun should let the hair of the body grow, there is an offence of expiation.” However, when she came to the parallel rules for the bhikkhus (in the volume of BD first published in 1952), she realized her earlier mistake and, in footnote 2 on page 186, noted that the verb here means to “remove” rather than to “grow.” N (published in 2001) apparently missed this footnote, and so repeated the earlier mistake.
+
+5. This rule was formulated after bhikkhunīs went off on a journey without their outer robes, thus inconveniencing the bhikkhunīs who stayed behind, who had to sun the robes to keep them from going moldy. The Word-commentary states that a bhikkhunī, at least once every five days, must put on or dry in the sun all five of her robes: this is the five-day outer robe period.
+
+6. BD translates the word for throne here — pallaṇka — as “divan,” and in its translation of the Bhikkhunī Vibhanga states that the divan is allowable if the “hair” is removed. Actually, the word in question — vāla — means “animal,” not “hair.” It refers to the fact that a throne was decorated with carved animals, and that it would be allowable for bhikkhunīs if the carvings were removed.
+
+7. BD misinterprets not only the rule here, but also its explanatory material in the Bhikkhunī Vibhanga. The Pāli of the rule is: Ya pana bhikkhunī gihi-veyyavaccam kareyya, pacittiyanti. BD translates it as: “Whatever nun should do household work, there is an offence of expiation.” Gihi, however, means lay person or, more literally, “house-person,” not household. This is confirmed by the word-commentary’s definition of gihi-veyyavaccam: “She cooks conjey or a meal or a non-staple food, or washes a piece of clothing or a head-wrap for a person living in a house (agarika).”
+
+In the non-offense clauses, BD translates attano veyyavaccakarassa as “in doing household work for herself.” This omits the –kara- in the second term, thus changing veyyavaccakara (chore-doer) to veyyavacca (chore). The correct translation is, “for her own chore-doer.”
+
+Thus the non-offense clauses, as a set, read: “There is no offense in conjey-drink, in a Community meal, in homage to a chedi, or if she cooks conjey or a meal or a non-staple food, or washes a piece of clothing or a head-wrap for her own chore-doer.” The Commentary explains: “In conjey-drink, etc.: When people are making a Community meal or a conjey-drink for the purpose of the Community, there is no offense in her doing any cooking at all in the position of being their friend. In homage to a chedi: It is all right if, being a friend, she does homage with scents, etc. For her own chore-doer: Even if (her) mother and father come and are making/doing something (such as) a fan or a broom handle and so stand in the position of a chore-doer, it is all right to cook anything (for them).”
+
+8. In the origin story, a bhikkhunī spreads lies about the road to a particular family’s house, saying that it is infested with fierce dogs and a wild bull, in order to discourage other bhikkhunīs from going there and receiving a share of the family’s donations.
+
+9. The six precepts are the first six of the novice’s ten precepts: abstaining from taking life, from taking what is not given, from sexual intercourse, from telling lies, from taking intoxicants, and from eating food in the “wrong time,” i.e., from noon to the following dawn.
+
+10. This rule could also be translated as concerning a married woman less than twelve years old, but the procedure for a bhikkhunī’s Acceptance shows that the candidate must be at least twenty years old in any case (see Cv.X.17.1, repeated at Cv.X.17.5 and Cv.X.17.6). Thus the twelve years here apparently refers to the candidate’s having been married for twelve years. The word for “married” in the rule — gihigatā — is not normally used for formal marriage. The Vibhanga explains it with the term purisantaragatā, which means a woman living with a man (see DN 8). Thus, apparently, the term “married” here would cover both a woman who has been formally married and one who has simply been living with a man in an informal arrangement.
+
+11. In the origin story, the new bhikkhunī’s husband seizes her right after her ordination.
+
+12. “Stale giving of consent” (parivasika-chanda-dana) means that consent has been given by the Community of bhikkhus in that territory for a particular group to conduct Community business, but then the group gets up and leaves before dealing with the issue in question (on this point, see Mv.II.36.4). In the origin story for this rule, the offending bhikkhunī dismisses the group that had received consent to carry out the Acceptance transaction and then — under the ruse of the consent given to that group — convenes another group of bhikkhus less likely to pay attention to the deficiencies in the candidate she is proposing. N suggests that “stale” here means “postponed overnight,” but that is not necessarily the case. The postponement might last less than a day.
+
+13. Asking a question related to the Vinaya can be the first step in admonishment and making accusations (see Mv.II.15.6-8), which is why this rule is related to the eighth of the eight vows of respect (against a bhikkhunī admonishing a bhikkhu). As Horner notes in BD, the word-commentary to this rule is one of the few places in the Vinaya that apparently refers to the Abhidhamma as a text — thus indicating that either the rule or its word-commentary is a later formulation.
+
+14. “An unordained person”: The Pāli here has the feminine form — unordained female person — but none of the commentaries explain why.
+
+15. “An unordained person”: Again, the Pāli here has the feminine form — unordained female person — but none of the commentaries explain why.
+
+
+
+
+

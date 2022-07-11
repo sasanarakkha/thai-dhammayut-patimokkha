@@ -1,0 +1,1245 @@
+#+title:     Thai (Dhammayut) Bhikkhupāṭimokkha
+#+property: header-args :tangle thai-dhammayut-patimokkha.txt
+#+startup:   fold
+
+* Notes for the Pubba-kicca
+#+begin_src shell
+
+
+1. If the recitation is held at night, change “Tattha purimesu catÒsu kiccesu padıpa-kiccaª idāni suriy’ālokassa atthitāya n’atthi.
+
+Aparāni tıṇi” to “Tattha purimāni cattāri”: “Of the first four….”
+
+2. If sāmaṇeras help with the tasks, change “bhikkhÒhi” to “sāmaṇerehi-pi bhikkhūhi-pi”: “Novices and bhikkhus….” If laypeople living in the monastery help with the tasks, change this to “ārāmikehi-pi bhikkhūhi-pi”: “Monastery dwellers and bhikkhus….”
+
+3. If there are bhikkhus outside of hatthapāsa but within the territory (sımā) who have sent their consent and purity, then for a recitation during the day, the entire passage within brackets should be: “ Tattha purimesu chasu kiccesu padīpa-kiccaṁ idāni suriy’ālokassa atthitāya n’atthi. Aparāni pañca bhikkhūnaṁ vattaṁ jānantehi bhikkhūhi2 katāni pariniṭṭhitāni honti.”
+
+1
+
+For a recitation at night in the same situation, the entire passage should be: “ Tattha purimāni cha bhikkhūnaṁ vattaṁ jānantehi bhikkhūhi2 katāni pariniṭṭhitāni honti.”
+
+4. During the hot season, change “hemantotu” to “gimhotu.” During the rainy season, change it to “vassānotu.”
+
+5. During a normal rainy season, change “aṭṭha uposathā” to “sattā ca uposathā ekā ca pavāraṇā”: “Seven uposathas and one pavāraṇā.”
+
+During a hot or cold season with an additional month, change it to “adhikamāsa-vasena dasa uposathā”: “Because of the additional month, ten uposathās….”
+
+During a rainy season with an additional month, change it to “adhikamāsa-vasena nava ca uposathā ekā ca pavāraṇā”: “Because of the additional month, nine uposathas and one pavāraṇā….”
+
+6. This is the calculation for the first uposatha in a normal hot or cold season. The calculation for other dates — to be stated after “iminā
+
+pakkhena eko uposatho sampatto” — is as follows:
+
+During a normal hot or cold season:
+
+Second: eko uposatho atikkanto, cha uposathā avasiṭṭhā.
+
+Third: dve uposathā atikkantā, pañca uposathā avasiṭṭhā.
+
+2
+
+Fourth: tayo uposathā atikkantā, cattāro uposathā avasiṭṭhā.
+
+Fifth: cattāro uposathā atikkantā, tayo uposathā avasiṭṭhā.
+
+Sixth: pañca uposathā atikkantā, dve uposathā avasiṭṭhā.
+
+Seventh: cha uposathā atikkantā, eko uposatho avasiṭṭho.
+
+Eighth: satta uposathā atikkantā, aṭṭha uposathā paripuṇṇā.
+
+During a normal rainy season:
+
+First: cha ca uposathā ekā ca pavāraṇā avasiṭṭhā.
+
+Second: eko uposatho atikkanto, pañca ca uposathā ekā ca pavāraṇā avasiṭṭhā.
+
+Third: dve uposathā atikkantā, cattāro ca uposathā ekā ca pavāraṇā avasiṭṭhā.
+
+Fourth: tayo uposathā atikkantā, tayo ca uposathā ekā ca pavāraṇā avasiṭṭhā.
+
+Fifth: cattāro uposathā atikkantā, dve ca uposathā ekā ca pavāraṇā avasiṭṭhā.
+
+Sixth: (see the separate section on the Pavāraṇā.)
+
+Seventh: pañca ca uposathā ekā ca pavāraṇā atikkantā, eko uposatho avasiṭṭho.
+
+Eighth: cha ca uposathā ekā ca pavāraṇā atikkantā, satta ca uposathā ekā ca pavāraṇā paripuṇṇā.
+
+3
+
+During a hot or cold season with an additional month:
+
+First: nava uposathā avasiṭṭhā.
+
+Second: eko uposatho atikkanto, aṭṭha uposathā avasiṭṭhā.
+
+Third: dve uposathā atikkantā, satta uposathā avasiṭṭhā.
+
+Fourth: tayo uposathā atikkantā, cha uposathā avasiṭṭhā.
+
+Fifth: cattāro uposathā atikkantā, pañca uposathā avasiṭṭhā.
+
+Sixth: pañca uposathā atikkantā, cattāro uposathā avasiṭṭhā.
+
+Seventh: cha uposathā atikkantā, tayo uposathā avasiṭṭhā.
+
+Eighth: satta uposathā atikkantā, dve uposathā avasiṭṭhā.
+
+Ninth: aṭṭha uposathā atikkantā, eko uposatho avasiṭṭho.
+
+Tenth: nava uposathā atikkantā, dasa uposathā paripuṇṇā.
+
+During a rainy season with an additional month:
+
+4
+
+First: aṭṭha ca uposathā ekā ca pavāraṇā avasiṭṭhā.
+
+Second: eko uposatho atikkanto, satta ca uposathā ekā ca pavāraṇā avasiṭṭhā.
+
+Third: dve uposathā atikkantā, cha ca uposathā ekā ca pavāraṇā avasiṭṭhā.
+
+Fourth: tayo uposathā atikkantā, pañca ca uposathā ekā ca pavāraṇā avasiṭṭhā.
+
+Fifth: cattāro uposathā atikkantā, cattāro ca uposathā ekā ca pavāraṇā avasiṭṭhā.
+
+Sixth: pañca uposathā atikkantā, tayo ca uposathā ekā ca pavāraṇā avasiṭṭhā.
+
+Seventh: cha uposathā atikkantā, dve ca uposathā ekā ca pavāraṇā avasiṭṭhā.
+
+Eighth: (see the separate section on the Pavāraṇā.)
+
+Ninth: satta ca uposathā ekā ca pavāraṇā atikkantā, eko uposatho avasiṭṭho.
+
+Tenth: aṭṭha ca uposathā ekā ca pavāraṇā atikkantā, nava ca uposathā ekā ca pavāraṇā paripuṇṇā.
+
+7. Cattāro = four. This should be replaced with the actual number of bhikkhus present.
+
+5 pañca 6 cha 7 satta 8 aṭṭha 9 nava 10 dasa 11 ekādasa 12 dvādasa, bārasa 13 terasa, teḷasa 14 catuddasa, cuddasa 15 paṇṇarasa, pañcadasa 16 soḷasa 17 sattarasa 18 aṭṭhārasa, aṭṭhādasa 19 ekūnavīsati 20 vīsati, vīsa 21 ekavīsati 22 dvāvīsati, dvāvīsa, dvevīsati, bāvīsati, bāvīsa 23 tevīsati 24 catuvīsati 25 pañcavīsati 5
+
+26 chabbīsati 27 sattavīsati 28 aṭṭhavīsati 29 ekūnatiṁsa
+
+30 tiṁsa, samatiṁsa, tiṁsati 31 ekatiṁsa, ekattiṁsa 32 dvattiṁsa 33 tettiṁsa 34 catuttiṁsa 35 pañcattiṁsa 36 chattiṁsa 37 sattattiṁsa 38 aṭṭhattiṁsa 39 ekūnacattāḷīsa
+
+40 cattāḷīsa, cattārīsa 41 ekacattāḷīsa 42 dvacattāḷīsa, dvecattāḷīsa, dvicattāḷīsa 43 tecattāḷīsa 44 catucattāḷīsa 45 pañcacattāḷīsa 46 chacattāḷīsa 47 sattacattāḷīsa 48 aṭṭhacattāḷīsa 49 ekūnapaññāsa
+
+50 paññāsa 51 ekapaññāsa 52 dvapaññāsa, dvepaññāsa, dvipaññāsa 53 tepaññāsa 54 catupaññāsa 55 pañcapaññāsa 56 chapaññāsa 57 sattapaññāsa 58 aṭṭhapaññāsa 59 ekūnasaṭṭhī
+
+60 saṭṭhī, saṭṭhi 61 ekasaṭṭhī 62 dvāsaṭṭhī, dvesaṭṭhī, dvisaṭṭhī 63 tesaṭṭhī 64 catusaṭṭhī 65 pañcasaṭṭhī 66 chasaṭṭhī 67 sattasaṭṭhī 68 aṭṭhasaṭṭhī 69 ekūnasattati
+
+70 sattati 71 ekasattati 72 dvasattati, dvāsattati, dvesattati, dvisattati 73 tesattati 74 catusattati 75 pañcasattati 76 chasattati 77 sattasattati 78 aṭṭhasattati 79 ekūnāsīti
+
+80 asīti 81 ekāsīti 82 dvāsīti 83 tayāsīti 84 caturāsīti 85 pañcāsīti 86 chaḷāsīti 87 sattāsīti 88 aṭṭhāsīti 89 ekūnanavuti 90 navuti 91 ekanavuti 92 dvanavuti, dvenavuti 93 tenavuti 94 catunavuti 95 pañcanavuti 96 chanavuti 97 sattanavuti 98 aṭṭhanavuti 99 ekūnasataṁ
+
+100 bhikkhusataṁ 101 ekuttara-bhikkhusataṁ 102 dvayuttara-bhikkhusataṁ 103 tayuttara-bhikkhusataṁ 104 catuttara-6
+
+bhikkhusataṁ 105 pañcuttara-bhikkhusataṁ 106 chaḷuttara-bhikkhusataṁ 107 sattuttara-bhikkhusataṁ 108 aṭṭhuttara-bhikkhusataṁ 109 navuttara-bhikkhusataṁ
+
+110 dasuttara-bhikkhusataṁ 120 vīsuttara-bhikkhusataṁ 130 tiṁsuttara-bhikkhusataṁ 140 cattāḷīsuttara-bhikkhusataṁ
+
+150 paññāsuttara-bhikkhusataṁ 160 saṭṭhayuttara-bhikkhusataṁ 170 sattatyuttara-bhikkhusataṁ 180 asītyuttara-bhikkhusataṁ 190 navutyuttara-bhikkhusataṁ 199 ekūnasatuttara-bhikkhusataṁ 200 dve bhikkhu-satāni 201 ekuttarāni dve bhikkhu-satāni 300 tayo bhikkhu-satāni 400 cattāro bhikkhu-satāni 500 pañca bhikkhu-satāni
+
+Note: All numbers ending with “bhikkhusataṁ” should be followed by “sannipatitaṁ hoti.”
+
+All numbers ending with “bhikkhusatāni” should be followed by “sannipatitā honti.”
+
+7
+
+#+end_src
+
+* Pubba-kiccaṁ
+#+begin_src shell :tangle yes
+
+Okāsaṁ me bhante thero detu, pāṭimokkhaṁ uddesituṁ.
+
+Pubba-kiccaṁ
+
+Uposatha-karaṇato pubbe nava-vidhaṁ pubba-kiccaṁ kātabbaṁ hoti: taṇṭhāna-sammajjanañ-ca; tattha padīp’ujjalanañ-ca; āsana-paññapanañ-ca; pānīya-paribhojanīyūpaṭṭhapanañ-ca; chandārahānaṁ bhikkhūnaṁ chandāharaṇañ-ca; tesaññeva akat’uposathānaṁ pārisuddhiyā-pi āharaṇañ-ca; utukkhānañ-ca; bhikkhu-gaṇanā ca; bhikkhunīnam-ovādo cā ti.
+
+[Tattha purimesu catūsu kiccesu padīpa-kiccaṁ idāni suriy’ālokassa atthitāya n’atthi. Aparāni tīṇi1 bhikkhūnaṁ vattaṁ jānantehi bhikkhūhi katāni pariniṭṭhitāni honti.
+
+Chandāharaṇa pārisuddhi-āharaṇāni pana imissaṁ sīmāyaṁ hattha-pāsaṁ vijahitvā nisinnānaṁ bhikkhūnaṁ abhāvato n’atthi.]
+
+Utukkhānaṁ nāma, ettakaṁ atikkantaṁ ettakaṁ avasiṭṭhanti evaṁ utu-ācikkhanaṁ. Utūnīdha pana sāsane hemanta-gimha-vassānānaṁ vasena tīṇi honti. Ayaṁ hemantotu. Asmiñ-ca utumhi aṭṭha uposathā. Iminā pakkhena: eko uposatho sampatto, satta uposathā avasiṭṭhā. Iti evaṁ sabbehi āyasmantehi utukkhānaṁ dhāretabbaṁ.
+
+( Evaṁ, bhante )
+
+Bhikkhu-gaṇanā nāma imasmiṁ uposath’agge uposathatthāya sannipatitā bhikkhū ettakāti bhikkhūnaṁ gaṇanā. Imasmim-pana uposath’agge cattāro7 bhikkhū sannipatitā honti. Iti sabbehi āyasmantehi bhikkhu-gaṇanā-pi dhāretabbā.
+
+( Evaṁ, bhante )
+
+Bhikkhunīnam-ovādo pana idāni tāsaṁ natthitāya n’atthi.
+
+Iti sakaraṇ’okāsānaṁ pubba-kiccānaṁ katattā, nikkaraṇ’okāsānaṁ pubba-kiccānaṁ pakatiyā
+
+pariniṭṭhitattā. Evan-taṁ nava-vidhaṁ pubba-kiccaṁ pariniṭṭhitaṁ hoti.
+
+Niṭṭhite ca pubba-kicce, sace so divaso cātuddasī-paṇṇarasī-sāmaggīnamaññataro yathājja uposatho paṇṇaraso [cātuddaso], yāvatikā ca bhikkhū kammappattā saṅgh’uposathārahā, cattāro vā tato vā atirekā pakatattā pārājikaṁ anāpannā saṅghena vā anukkhittā, te ca kho hatthapāsaṁ avijahitvā eka-sīmāyaṁ ṭhitā, tesañ-ca vikāla-bhojanādivasena vatthu-sabhāgāpattiyo ce na vijjanti, tesañ-ca hatthapāse hatthapāsato bahikaraṇavasena vajjetabbo koci vajjanīya-puggalo ce n’atthi.
+
+Evan-taṁ uposatha-kammaṁ imehi catūhi lakkhaṇehi saṅgahitaṁ pattakallaṁ nāma hoti, kātuṁ yuttarūpaṁ. Uposatha-kammassa pattakallattaṁ viditvā idāni kariyamāno uposatho saṅghena anumānetabbo.
+
+( Sādhu, bhante )
+
+Senior bhikkhu’s request (ajjhesanā): Pubba-karaṇa-pubba-kiccāni samāpetvā imassa nisinnassa bhikkhu-saṅghassa anumatiyā pāṭimokkhaṁ uddesituṁ ajjhesanaṁ karomi.
+
+#+end_src
+
+* Nidān'uddeso
+#+begin_src shell
+
+Bhikkhu-Pāṭimokkhaṁ
+
+Namo tassa bhagavato arahato sammā-sambuddhassa.
+
+( tikkhattuṁ )
+
+Suṇātu me bhante [āvuso] saṅgho. Ajj’uposatho paṇṇaraso [cātuddaso]. Yadi saṅghassa pattakallaṁ, saṅgho uposathaṁ kareyya, pāṭimokkhaṁ uddiseyya.
+
+Kiṁ saṅghassa pubba-kiccaṁ? Pārisuddhiṁ āyasmanto ārocetha. Pāṭimokkhaṁ uddisissāmi. Taṁ sabbeva santā sādhukaṁ suṇoma manasikaroma. Yassa siyā āpatti, so āvikareyya. Asantiyā āpattiyā tuṇhī bhavitabbaṁ. Tuṇhī-bhāvena kho pan’āyasmante parisuddhā ti vedissāmi. Yathā kho pana pacceka-puṭṭhassa veyyākaraṇaṁ hoti. Evam-evaṁ evarūpāya parisāya yāva-tatiyaṁ anussāvitaṁ hoti. Yo pana bhikkhu yāva-tatiyaṁ anussāviyamāne saramāno santiṁ āpattiṁ n’āvikareyya, sampajāna-musāvād’assa hoti. Sampajāna-musāvādo kho pan’āyasmanto antarāyiko dhammo vutto bhagavatā. Tasmā saramānena bhikkhunā āpannena visuddh’āpekkhena santī āpatti āvikātabbā. āvikatā hi’ssa phāsu hoti.
+
+( Nidān’uddeso niṭṭhito )
+
+#+end_src
+
+* Pārājik'uddeso
+#+begin_src shell
+
+Tatr’ime cattāro pārājikā dhammā uddesaṁ āgacchanti.
+
+1. Yo pana bhikkhu bhikkhūnaṁ sikkhā-sājīva-samāpanno, sikkhaṁ appaccakkhāya dubbalyaṁ anāvikatvā, methunaṁ dhammaṁ paṭiseveyya antamaso tiracchāna-gatāya-pi: pārājiko hoti asaṁvāso.
+
+2. Yo pana bhikkhu gāmā vā araññā vā adinnaṁ theyya-saṅkhātaṁ ādiyeyya, yathārūpe adinnādāne rājāno coraṁ gahetvā, haneyyuṁ vā bandheyyuṁ vā pabbājeyyuṁ vā, “Coro’si bālo’si mūḷho’si theno’sī” ti. Tathārūpaṁ bhikkhu adinnaṁ ādiyamāno: ayam-pi pārājiko hoti asaṁvāso.
+
+3. Yo pana bhikkhu sañcicca manussa-viggahaṁ jīvitā voropeyya, satthahārakaṁ vāssa pariyeseyya, maraṇa-vaṇṇaṁ vā saṁvaṇṇeyya, maraṇāya vā samādapeyya, “Ambho purisa kiṁ tuyh’iminā pāpakena dujjīvitena? Matan-te jīvitā seyyo” ti. Iti cittamano citta-saṅkappo aneka-pariyāyena maraṇa-vaṇṇaṁ vā saṁvaṇṇeyya, maraṇāya vā samādapeyya: ayam-pi pārājiko hoti asaṁvāso.
+
+4. Yo pana bhikkhu anabhijānaṁ uttari-manussa-dhammaṁ attūpanāyikaṁ alam-ariya-ñāṇa-dassanaṁ samudācareyya: “Iti jānāmi, iti passāmī” ti. Tato aparena samayena samanuggāhiyamāno vā asamanuggāhiyamāno vā āpanno visuddh’āpekkho evaṁ vadeyya, “Ajānam-evaṁ āvuso avacaṁ, ‘jānāmi,’ apassaṁ, ‘passāmi.’ Tucchaṁ musā vilapin” ti. Aññatra adhimānā: ayam-pi pārājiko hoti asaṁvāso.
+
+Uddiṭṭhā kho āyasmanto cattāro pārājikā dhammā, yesaṁ bhikkhu aññataraṁ vā aññataraṁ vā āpajjitvā na labhati bhikkhūhi saddhiṁ saṁvāsaṁ. Yathā pure, tathā pacchā: pārājiko hoti asaṁvāso.
+
+Tatth’āyasmante pucchāmi: Kacci’ttha parisuddhā? Dutiyam-pi pucchāmi: Kacci’ttha parisuddhā? Tatiyam-pi pucchāmi: Kacci’ttha parisuddhā? Parisuddh’etth’āyasmanto, tasmā tuṇhī, evam-etaṁ dhārayāmi.
+
+( Pārājik’uddeso niṭṭhito )
+
+#+end_src
+
+* Saṅghādises'uddeso
+#+begin_src shell
+
+Ime kho pan’āyasmanto terasa saṅghādisesā dhammā uddesaṁ āgacchanti.
+
+1. Sañcetanikā sukka-visaṭṭhi aññatra supinantā, saṅghādiseso.
+
+2. Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmena saddhiṁ kāya-saṁsaggaṁ samāpajjeyya, hattha-gāhaṁ vā veṇi-gāhaṁ vā aññatarassa vā aññatarassa vā aṅgassa parāmasanaṁ, saṅghādiseso.
+
+3. Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmaṁ duṭṭhullāhi vācāhi obhāseyya, yathā taṁ yuvā yuvatiṁ methunūpasañhitāhi, saṅghādiseso.
+
+4. Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmassa santike atta-kāma-pāricariyāya vaṇṇaṁ bhāseyya, “Etad-aggaṁ bhagini pāricariyānaṁ, yā m’ādisaṁ sīlavantaṁ kalyāṇa-dhammaṁ brahmacāriṁ etena dhammena paricareyyā” ti, methunūpasañhitena, saṅghādiseso.
+
+5. Yo pana bhikkhu sañcarittaṁ samāpajjeyya, itthiyā vā purisa-matiṁ, purisassa vā itthī-matiṁ, jāyattane vā jārattane vā antamaso taṁ-khaṇikāya-pi, saṅghādiseso.
+
+6. Saññācikāya pana bhikkhunā kuṭiṁ kārayamānena assāmikaṁ att’uddesaṁ pamāṇikā kāretabbā. Tatr’idaṁ pamāṇaṁ: dīghaso dvādasa vidatthiyo sugata-vidatthiyā, tiriyaṁ satt’antarā. Bhikkhū abhinetabbā vatthu-desanāya. Tehi bhikkhūhi vatthuṁ desetabbaṁ anārambhaṁ saparikkamanaṁ. Sārambhe ce bhikkhu vatthusmiṁ aparikkamane saññācikāya kuṭiṁ kāreyya, bhikkhū vā anabhineyya vatthu-desanāya, pamāṇaṁ vā atikkāmeyya, saṅghādiseso.
+
+7. Mahallakam-pana bhikkhunā vihāraṁ kārayamānena, sassāmikaṁ att’uddesaṁ bhikkhū abhinetabbā vatthu-desanāya. Tehi bhikkhūhi vatthuṁ desetabbaṁ anārambhaṁ saparikkamanaṁ. Sārambhe ce bhikkhu vatthusmiṁ aparikkamane mahallakaṁ vihāraṁ kāreyya, bhikkhū vā anabhineyya vatthu-desanāya, saṅghādiseso.
+
+8. Yo pana bhikkhu bhikkhuṁ duṭṭho doso appatīto amūlakena pārājikena dhammena anuddhaṁseyya, “App’eva nāma naṁ imamhā brahmacariyā cāveyyan” ti. Tato aparena samayena samanuggāhiyamāno vā asamanuggāhiyamāno vā, amūlakañ-c’eva taṁ adhikaraṇaṁ hoti, bhikkhu ca dosaṁ patiṭṭhāti, saṅghādiseso.
+
+9. Yo pana bhikkhu bhikkhuṁ duṭṭho doso appatīto aññabhāgiyassa adhikaraṇassa kiñci desaṁ lesa-mattaṁ upādāya pārājikena dhammena anuddhaṁseyya, “App’eva nāma naṁ imamhā brahmacariyā cāveyyan” ti. Tato aparena samayena samanuggāhiyamāno vā asamanuggāhiyamāno vā, aññabhāgiyañ-c’eva taṁ adhikaraṇaṁ hoti, koci deso lesa-matto upādinno, bhikkhu ca dosaṁ patiṭṭhāti, saṅghādiseso.
+
+10. Yo pana bhikkhu samaggassa saṅghassa bhedāya parakkameyya, bhedana-saṁvattanikaṁ vā adhikaraṇaṁ samādāya paggayha tiṭṭheyya, so bhikkhu bhikkhūhi evam-assa vacanīyo, “Mā āyasmā samaggassa saṅghassa bhedāya parakkami. Bhedana-saṁvattanikaṁ vā adhikaraṇaṁ samādāya paggayha aṭṭhāsi. Samet’āyasmā saṅghena, samaggo hi saṅgho sammodamāno avivadamāno ek’uddeso phāsu viharatī” ti. Evañ-ca so bhikkhu bhikkhūhi vuccamāno tath’eva paggaṇheyya, so bhikkhu bhikkhūhi yāva-tatiyaṁ samanubhāsitabbo tassa paṭinissaggāya. Yāva-tatiyañ-ce samanubhāsiyamāno taṁ paṭinissajjeyya, icc’etaṁ kusalaṁ. No ce paṭinissajjeyya, saṅghādiseso.
+
+11. Tass’eva kho pana bhikkhussa bhikkhū honti anuvattakā vagga-vādakā, eko vā dve vā tayo vā, te evaṁ vadeyyuṁ, “Mā āyasmanto etaṁ bhikkhuṁ kiñci avacuttha. Dhamma-vādī c’eso bhikkhu, vinaya-vādī c’eso bhikkhu, amhākañ-c’eso bhikkhu chandañ-ca ruciñ-ca ādāya voharati. Jānāti no bhāsati, amhākam-p’etaṁ khamatī” ti. Te bhikkhū bhikkhūhi evam-assu vacanīyā, “Mā āyasmanto evaṁ avacuttha. Na c’eso bhikkhu dhamma-vādī, na c’eso bhikkhu vinaya-vādī. Mā āyasmantānam-pi saṅgha-bhedo rucittha. Samet‘āyasmantānaṁ saṅghena, samaggo hi saṅgho sammodamāno avivadamāno ek’uddeso phāsu viharatī” ti. Evañ-ca te bhikkhū bhikkhūhi vuccamānā tath’eva paggaṇheyyuṁ, te bhikkhū bhikkhūhi yāva-tatiyaṁ samanubhāsitabbā tassa paṭinissaggāya. Yāva-tatiyañ-ce samanubhāsiyamānā taṁ paṭinissajjeyyuṁ, icc’etaṁ kusalaṁ. No ce paṭinissajjeyyuṁ, saṅghādiseso.
+
+12. Bhikkhu pan’eva dubbaca-jātiko hoti, uddesa-pariyāpannesu sikkhāpadesu bhikkhūhi saha-dhammikaṁ vuccamāno attānaṁ avacanīyaṁ karoti, “Mā maṁ āyasmanto kiñci avacuttha kalyāṇaṁ vā pāpakaṁ vā. Aham-p’āyasmante na kiñci vakkhāmi kalyāṇaṁ vā pāpakaṁ vā. Viramath’āyasmanto mama vacanāyā” ti. So bhikkhu bhikkhūhi evam-assa vacanīyo, “Mā āyasmā attānaṁ avacanīyaṁ akāsi. Vacanīyam-eva āyasmā attānaṁ karotu. Āyasmā-pi bhikkhū vadetu saha-dhammena, bhikkhū-pi āyasmantaṁ vakkhanti saha-dhammena. Evaṁ saṁvaḍḍhā hi tassa bhagavato parisā, yad’idaṁ aññam-añña-vacanena aññam-añña-vuṭṭhāpanenā” ti. Evañ-ca so bhikkhu bhikkhūhi vuccamāno tath’eva paggaṇheyya, so bhikkhu bhikkhūhi yāva-tatiyaṁ samanubhāsitabbo tassa paṭinissaggāya.Yāva-tatiyañ-ce samanubhāsiyamāno taṁ paṭinissajjeyya, icc’etaṁ kusalaṁ. No ce paṭinissajjeyya, saṅghādiseso.
+
+13. Bhikkhu pan’eva aññataraṁ gāmaṁ vā nigamaṁ vā upanissāya viharati kula-dūsako pāpa-samācāro. Tassa kho pāpakā samācārā dissanti c’eva suyyanti ca, kulāni ca tena duṭṭhāni dissanti c’eva suyyanti ca. So bhikkhu bhikkhūhi evam-assa vacanīyo, “Āyasmā kho kula-dūsako pāpa-samācāro. Āyasmato kho pāpakā samācārā dissanti c’eva suyyanti ca, kulāni c’āyasmatā duṭṭhāni dissanti c’eva suyyanti ca. Pakkamat’āyasmā imamhā āvāsā, alan-te idha vāsenā” ti. Evañ-ca so bhikkhu bhikkhūhi vuccamāno te bhikkhū evaṁ vadeyya, “Chanda-gāmino ca bhikkhū, dosa-gāmino ca bhikkhū, moha-gāmino ca bhikkhū, bhaya-gāmino ca bhikkhū, tādisikāya āpattiyā ekaccaṁ pabbājenti, ekaccaṁ na pabbājentī” ti. So bhikkhu bhikkhūhi evam-assa vacanīyo, “Mā āyasmā evaṁ avaca. Na ca bhikkhū chanda-gāmino, na ca bhikkhū dosa-gāmino, na ca bhikkhū moha-gāmino, na ca bhikkhū bhaya-gāmino. Āyasmā kho kula-dūsako pāpa-samācāro. Āyasmato kho pāpakā samācārā dissanti c’eva suyyanti ca, kulāni c’āyasmatā duṭṭhāni dissanti c’eva suyyanti ca. Pakkamat’āyasmā imamhā āvāsā, alan-te idha vāsenā” ti. Evañ-ca so bhikkhu bhikkhūhi vuccamāno tath’eva paggaṇheyya, so bhikkhu bhikkhūhi yāva-tatiyaṁ samanubhāsitabbo tassa paṭinissaggāya. Yāva-tatiyañ-ce samanubhāsiyamāno taṁ paṭinissajjeyya, icc’etaṁ kusalaṁ. No ce paṭinissajjeyya, saṅghādiseso.
+
+Uddiṭṭhā kho āyasmanto terasa saṅghādisesā dhammā, nava paṭham’āpattikā cattāro yāva-tatiyakā. Yesaṁ bhikkhu aññataraṁ vā aññataraṁ vā āpajjitvā yāvatihaṁ jānaṁ paṭicchādeti, tāvatihaṁ tena bhikkhunā akāmā parivatthabbaṁ. Parivuttha-parivāsena bhikkhunā uttariṁ chā-rattaṁ, bhikkhu-mānattāya paṭipajjitabbaṁ. Ciṇṇa-mānatto bhikkhu, yattha siyā vīsati-gaṇo bhikkhu-saṅgho, tattha so bhikkhu abbhetabbo. Ekena-pi ce ūno vīsati-gaṇo bhikkhu-saṅgho taṁ bhikkhuṁ abbheyya, so ca bhikkhu anabbhito, te ca bhikkhū gārayhā. Ayaṁ tattha sāmīci.
+
+Tatth’āyasmante pucchāmi: Kacci’ttha parisuddhā? Dutiyam-pi pucchāmi: Kacci’ttha parisuddhā?
+Tatiyam-pi pucchāmi: Kacci’ttha parisuddhā? Parisuddh’etth’āyasmanto, tasmā tuṇhī, evam-etaṁ dhārayāmi.
+
+( Saṅghādises’uddeso niṭṭhito )
+
+#+end_src
+
+* Aniyat'uddeso
+#+begin_src shell
+
+Ime kho pan’āyasmanto dve aniyatā dhammā uddesaṁ āgacchanti.
+
+1. Yo pana bhikkhu mātugāmena saddhiṁ eko ekāya raho paṭicchanne āsane alaṁ-kammaniye nisajjaṁ kappeyya. Tam’enaṁ saddheyya-vacasā upāsikā disvā tiṇṇaṁ dhammānaṁ aññatarena vadeyya, pārājikena vā saṅghādisesena vā pācittiyena vā. Nisajjaṁ bhikkhu paṭijānamāno tiṇṇaṁ dhammānaṁ aññatarena kāretabbo, pārājikena vā saṅghādisesena vā pācittiyena vā. Yena vā sā saddheyya-vacasā upāsikā vadeyya, tena so bhikkhu kāretabbo. Ayaṁ dhammo aniyato.
+
+2. Na h’eva kho pana paṭicchannaṁ āsanaṁ hoti nālaṁ-kammaniyaṁ. Alañ-ca kho hoti mātugāmaṁ duṭṭhullāhi vācāhi obhāsituṁ. Yo pana bhikkhu tathā-rūpe āsane mātugāmena saddhiṁ eko ekāya raho nisajjaṁ kappeyya. Tam’enaṁ saddheyya-vacasā upāsikā disvā dvinnaṁ dhammānaṁ aññatarena vadeyya, saṅghādisesena vā pācittiyena vā. Nisajjaṁ bhikkhu paṭijānamāno dvinnaṁ dhammānaṁ aññatarena kāretabbo, saṅghādisesena vā pācittiyena vā. Yena vā sā saddheyya-vacasā upāsikā vadeyya, tena so bhikkhu kāretabbo. Ayam-pi dhammo aniyato.
+
+Uddiṭṭhā kho āyasmanto dve aniyatā dhammā. Tatth’āyasmante pucchāmi: Kacci’ttha parisuddhā? Dutiyam-pi pucchāmi: Kacci’ttha parisuddhā? Tatiyam-pi pucchāmi: Kacci’ttha parisuddhā? Parisuddh’etth’āyasmanto, tasmā tuṇhī, evam-etaṁ dhārayāmi.
+
+(Aniyat’uddeso niṭṭhito)
+
+#+end_src
+
+* Nissaggiyapācittiyā
+#+begin_src shell
+
+Ime kho pan’āyasmanto tiṁsa nissaggiyā pācittiyā dhammā uddesaṁ āgacchanti.
+
+1. Niṭṭhita-cīvarasmiṁ bhikkhunā ubbhatasmiṁ kaṭhine, dasāha-paramaṁ atireka-cīvaraṁ dhāretabbaṁ. Taṁ atikkāmayato, nissaggiyaṁ pācittiyaṁ.
+
+2. Niṭṭhita-cīvarasmiṁ bhikkhunā ubbhatasmiṁ kaṭhine, eka-rattam-pi ce bhikkhu ti-cīvarena vippavaseyya, aññatra bhikkhu-sammatiyā, nissaggiyaṁ pācittiyaṁ.
+
+3. Niṭṭhita-cīvarasmiṁ bhikkhunā ubbhatasmiṁ kaṭhine, bhikkhuno pan’eva akāla-cīvaraṁ uppajjeyya, ākaṅkhamānena bhikkhunā paṭiggahetabbaṁ. Paṭiggahetvā khippam’eva kāretabbaṁ. No c’assa pāripūri, māsa-paraman’tena bhikkhunā taṁ cīvaraṁ nikkhipitabbaṁ, ūnassa pāripūriyā satiyā paccāsāya. Tato ce uttariṁ nikkhipeyya satiyā-pi paccāsāya, nissaggiyaṁ pācittiyaṁ.
+
+4. Yo pana bhikkhu aññātikāya bhikkhuniyā purāṇa-cīvaraṁ dhovāpeyya vā rajāpeyya vā ākoṭāpeyya vā, nissaggiyaṁ pācittiyaṁ.
+
+5. Yo pana bhikkhu aññātikāya bhikkhuniyā hatthato cīvaraṁ paṭiggaṇheyya aññatra pārivaṭṭakā, nissaggiyaṁ pācittiyaṁ.
+
+6. Yo pana bhikkhu aññātakaṁ gahapatiṁ vā gahapatāniṁ vā cīvaraṁ viññāpeyya aññatra samayā, nissaggiyaṁ pācittiyaṁ. Tatth’āyaṁ samayo: Acchinna-cīvaro vā hoti bhikkhu naṭṭha-cīvaro vā. Ayaṁ tattha samayo.
+
+7. Tañ-ce aññātako gahapati vā gahapatānī vā bahūhi cīvarehi abhihaṭṭhum-pavāreyya, santar’uttara-paraman’tena bhikkhunā tato cīvaraṁ sāditabbaṁ. Tato ce uttariṁ sādiyeyya, nissaggiyaṁ pācittiyaṁ.
+
+8. Bhikkhuṁ pan’eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvara-cetāpanaṁ upakkhaṭaṁ hoti, “Iminā cīvara-cetāpanena cīvaraṁ cetāpetvā itthannāmaṁ bhikkhuṁ cīvarena acchādessāmī” ti. Tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṁ āpajjeyya, “Sādhu vata maṁ āyasmā iminā cīvara-cetāpanena, evarūpaṁ vā evarūpaṁ vā cīvaraṁ cetāpetvā acchādehī” ti, kalyāṇa-kamyataṁ upādāya, nissaggiyaṁ pācittiyaṁ.
+
+9. Bhikkhuṁ pan’eva uddissa ubhinnaṁ aññātakānaṁ gahapatīnaṁ vā gahapatānīnaṁ vā pacceka-cīvara-cetāpanā upakkhaṭā honti, “Imehi mayaṁ pacceka-cīvara-cetāpanehi pacceka-cīvarāni cetāpetvā itthannāmaṁ bhikkhuṁ cīvarehi acchādessāmā” ti. Tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṁ āpajjeyya, “Sādhu vata maṁ āyasmanto imehi pacceka-cīvara-cetāpanehi, evarūpaṁ vā evarūpaṁ vā cīvaraṁ cetāpetvā acchādetha ubho’va santā ekenā ” ti, kalyāṇa-kamyataṁ upādāya, nissaggiyaṁ pācittiyaṁ.
+
+10. Bhikkhuṁ pan’eva uddissa rājā vā rājabhoggo vā brāhmaṇo vā gahapatiko vā dūtena cīvara-cetāpanaṁ pahiṇeyya, “Iminā cīvara-cetāpanena cīvaraṁ cetāpetvā itthannāmaṁ bhikkhuṁ cīvarena acchādehī” ti. So ce dūto taṁ bhikkhuṁ upasaṅkamitvā evaṁ vadeyya, “Idaṁ kho bhante āyasmantaṁ uddissa cīvara-cetāpanaṁ ābhataṁ. Paṭiggaṇhātu āyasmā cīvara-cetāpanan” ti. Tena bhikkhunā so dūto evam-assa vacanīyo, “Na kho mayaṁ āvuso cīvara-cetāpanaṁ paṭiggaṇhāma, cīvarañ-ca kho mayaṁ paṭiggaṇhāma kālena kappiyan” ti. So ce dūto taṁ bhikkhuṁ evaṁ vadeyya, “Atthi pan’āyasmato koci veyyāvaccakaro” ti. Cīvar’atthikena bhikkhave bhikkhunā veyyāvaccakaro niddisitabbo, ārāmiko vā upāsako vā, “Eso kho āvuso bhikkhūnaṁ veyyāvaccakaro” ti. So ce dūto taṁ veyyāvaccakaraṁ saññāpetvā taṁ bhikkhuṁ upasaṅkamitvā evaṁ vadeyya, “Yaṁ kho bhante āyasmā veyyāvaccakaraṁ niddisi, saññatto so mayā. Upasaṅkamatu āyasmā kālena cīvarena taṁ acchādessatī” ti. Cīvar’atthikena bhikkhave bhikkhunā veyyāvaccakaro upasaṅkamitvā dvittikkhattuṁ codetabbo sāretabbo, “Attho me āvuso cīvarenā” ti. Dvittikkhattuṁ codayamāno sārayamāno taṁ cīvaraṁ abhinipphādeyya, icc’etaṁ kusalaṁ. No ce abhinipphādeyya, catukkhattuṁ pañcakkhattuṁ chakkhattu-paramaṁ tuṇhī-bhūtena uddissa ṭhātabbaṁ. Catukkhattuṁ pañcakkhattuṁ chakkhattu-paramaṁ tuṇhī-bhūto uddissa tiṭṭhamāno taṁ cīvaraṁ abhinipphādeyya, icc’etaṁ kusalaṁ. No ce abhinipphādeyya, tato ce uttariṁ vāyamamāno taṁ cīvaraṁ abhinipphādeyya, nissaggiyaṁ pācittiyaṁ. No ce abhinipphādeyya, yatassa cīvara-cetāpanaṁ ābhataṁ, tattha sāmaṁ vā gantabbaṁ, dūto vā pāhetabbo, “Yaṁ kho tumhe āyasmanto bhikkhuṁ uddissa cīvara-cetāpanaṁ pahiṇittha. Na tan-tassa bhikkhuno kiñci atthaṁ anubhoti. Yuñjant’āyasmanto sakaṁ. Mā vo sakaṁ vinassī” ti. Ayaṁ tattha sāmīci.
+
+Cīvara-vaggo paṭhamo.
+
+11. Yo pana bhikkhu kosiya-missakaṁ santhataṁ kārāpeyya, nissaggiyaṁ pācittiyaṁ.
+
+12. Yo pana bhikkhu suddha-kāḷakānaṁ eḷaka-lomānaṁ santhataṁ kārāpeyya, nissaggiyaṁ pācittiyaṁ.
+
+13. Navam-pana bhikkhunā santhataṁ kārayamānena, dve bhāgā suddha-kāḷakānaṁ eḷaka-lomānaṁ ādātabbā, tatiyaṁ odātānaṁ catutthaṁ gocariyānaṁ. Anādā ce bhikkhu dve bhāge suddha-kāḷakānaṁ eḷaka-lomānaṁ, tatiyaṁ odātānaṁ catutthaṁ gocariyānaṁ navaṁ santhataṁ kārāpeyya, nissaggiyaṁ pācittiyaṁ.
+
+14. Navam-pana bhikkhunā santhataṁ kārāpetvā chabbassāni dhāretabbaṁ. Orena ce channaṁ vassānaṁ taṁ santhataṁ vissajjetvā vā avissajjetvā vā aññaṁ navaṁ santhataṁ kārāpeyya, aññatra bhikkhu-sammatiyā, nissaggiyaṁ pācittiyaṁ.
+
+15. Nisīdana-santhatam-pana bhikkhunā kārayamānena purāṇa-santhatassa sāmantā sugata-vidatthi ādātabbā dubbaṇṇa-karaṇāya. Anādā ce bhikkhu purāṇa-santhatassa sāmantā sugata-vidatthiṁ navaṁ nisīdana-santhataṁ kārāpeyya, nissaggiyaṁ pācittiyaṁ.
+
+16. Bhikkhuno pan’eva addhāna-magga-paṭipannassa eḷaka-lomāni uppajjeyyuṁ. Ākaṅkhamānena bhikkhunā paṭiggahetabbāni. Paṭiggahetvā ti-yojana-paramaṁ sahatthā hāretabbāni, asante hārake. Tato ce uttariṁ hareyya asante-pi hārake, nissaggiyaṁ pācittiyaṁ.
+
+17. Yo pana bhikkhu aññātikāya bhikkhuniyā eḷaka-lomāni dhovāpeyya vā rajāpeyya vā vijaṭāpeyya vā, nissaggiyaṁ pācittiyaṁ.
+
+18. Yo pana bhikkhu jātarūpa-rajataṁ uggaṇheyya vā uggaṇhāpeyya vā upanikkhittaṁ vā sādiyeyya, nissaggiyaṁ pācittiyaṁ.
+
+19. Yo pana bhikkhu nānappakārakaṁ rūpiya-saṁvohāraṁ samāpajjeyya, nissaggiyaṁ pācittiyaṁ.
+
+20. Yo pana bhikkhu nānappakārakaṁ kaya-vikkayaṁ samāpajjeyya, nissaggiyaṁ pācittiyaṁ.
+
+Kosiya-vaggo dutiyo.
+
+21. Dasāha-paramaṁ atireka-patto dhāretabbo. Taṁ atikkāmayato, nissaggiyaṁ pācittiyaṁ.
+
+22. Yo pana bhikkhu ūna-pañca-bandhanena pattena aññaṁ navaṁ pattaṁ cetāpeyya, nissaggiyaṁ pācittiyaṁ. Tena bhikkhunā so patto bhikkhu-parisāya nissajjitabbo. Yo ca tassā bhikkhu-parisāya patta-pariyanto, so ca tassa bhikkhuno padātabbo, “Ayan-te bhikkhu patto, yāva bhedanāya dhāretabbo” ti. Ayaṁ tattha sāmīci.
+
+23. Yāni kho pana tāni gilānānaṁ bhikkhūnaṁ paṭisāyanīyāni bhesajjāni, seyyathīdaṁ: sappi navanītaṁ telaṁ madhu phāṇitaṁ; tāni paṭiggahetvā sattāha-paramaṁ sannidhi-kārakaṁ paribhuñjitabbāni. Taṁ atikkāmayato, nissaggiyaṁ pācittiyaṁ.
+
+24. “Māso seso gimhānan” ti bhikkhunā vassika-sāṭika-cīvaraṁ pariyesitabbaṁ. “Aḍḍha-māso seso gimhānan” ti katvā nivāsetabbaṁ. “Orena ce māso seso gimhānan” ti vassika-sāṭika-cīvaraṁ pariyeseyya, “Oren’aḍḍha-māso seso gimhānan” ti katvā nivāseyya, nissaggiyaṁ pācittiyaṁ.
+
+25. Yo pana bhikkhu bhikkhussa sāmaṁ cīvaraṁ datvā kupito anattamano acchindeyya vā acchindāpeyya vā, nissaggiyaṁ pācittiyaṁ.
+
+26. Yo pana bhikkhu sāmaṁ suttaṁ viññāpetvā tantavāyehi cīvaraṁ vāyāpeyya, nissaggiyaṁ pācittiyaṁ.
+
+27. Bhikkhuṁ pan’eva uddissa aññātako gahapati vā gahapatānī vā tantavāyehi cīvaraṁ vāyāpeyya. Tatra ce so bhikkhu pubbe appavārito tantavāye upasaṅkamitvā cīvare vikappaṁ āpajjeyya, “Idaṁ kho āvuso cīvaraṁ maṁ uddissa vīyati. Āyatañ-ca karotha vitthatañ-ca appitañ-ca suvītañ-ca supavāyitañ-ca suvilekhitañ-ca suvitacchitañ-ca karotha; app’eva nāma mayam-pi āyasmantānaṁ kiñci-mattaṁ anupadajjeyyāmā” ti. Evañ-ca so bhikkhu vatvā kiñci-mattaṁ anupadajjeyya, antamaso piṇḍapāta-mattam-pi, nissaggiyaṁ pācittiyaṁ.
+
+28. Dasāhānāgataṁ kattika-temāsi-puṇṇamaṁ, bhikkhuno pan’eva acceka-cīvaraṁ uppajjeyya. Accekaṁ maññamānena bhikkhunā paṭiggahetabbaṁ. Paṭiggahetvā yāva cīvara-kāla-samayaṁ nikkhipitabbaṁ. Tato ce uttariṁ nikkhipeyya, nissaggiyaṁ pācittiyaṁ.
+
+29. Upavassaṁ kho pana kattika-puṇṇamaṁ. Yāni kho pana tāni āraññakāni senāsanāni sāsaṅka-sammatāni sappaṭibhayāni, tathā-rūpesu bhikkhu senāsanesu viharanto, ākaṅkhamāno tiṇṇaṁ cīvarānaṁ aññataraṁ cīvaraṁ antara-ghare nikkhipeyya. Siyā ca tassa bhikkhuno kocid’eva paccayo tena cīvarena vippavāsāya, chāratta-paraman-tena bhikkhunā tena cīvarena vippavasitabbaṁ. Tato ce uttariṁ vippavaseyya, aññatra bhikkhu-sammatiyā, nissaggiyaṁ pācittiyaṁ.
+
+30. Yo pana bhikkhu jānaṁ saṅghikaṁ lābhaṁ pariṇataṁ attano pariṇāmeyya, nissaggiyaṁ pācittiyaṁ.
+
+Patta-vaggo tatiyo.
+
+Uddiṭṭhā kho āyasmanto tiṁsa nissaggiyā pācittiyā dhammā. Tatth’āyasmante pucchāmi: Kacci’ttha parisuddhā? Dutiyam-pi pucchāmi: Kacci’ttha parisuddhā? Tatiyam-pi pucchāmi: Kacci’ttha parisuddhā? Parisuddh’etth’āyasmanto, tasmā tuṇhī, evam-etaṁ dhārayāmi.
+
+( Nissaggiyā pācittiyā dhammā niṭṭhitā )
+
+#+end_src
+
+* Pācittiyā
+#+begin_src shell
+
+Ime kho pan’āyasmanto dve-navuti pācittiyā dhammā uddesaṁ āgacchanti.
+
+1. Sampajāna-musāvāde pācittiyaṁ.
+
+2. Omasavāde pācittiyaṁ.
+
+3. Bhikkhu-pesuññe pācittiyaṁ.
+
+4. Yo pana bhikkhu anupasampannaṁ padaso dhammaṁ vāceyya, pācittiyaṁ.
+
+5. Yo pana bhikkhu anupasampannena uttari-dviratta-tirattaṁ saha-seyyaṁ kappeyya, pācittiyaṁ.
+
+6. Yo pana bhikkhu mātugāmena saha-seyyaṁ kappeyya, pācittiyaṁ.
+
+7. Yo pana bhikkhu mātugāmassa uttari-chappañca-vācāhi dhammaṁ deseyya, aññatra viññunā purisa-viggahena, pācittiyaṁ.
+
+8. Yo pana bhikkhu anupasampannassa uttari-manussa-dhammaṁ āroceyya, bhūtasmiṁ pācittiyaṁ.
+
+9. Yo pana bhikkhu bhikkhussa duṭṭhullaṁ āpattiṁ anupasampannassa āroceyya aññatra bhikkhu-sammatiyā, pācittiyaṁ.
+
+10. Yo pana bhikkhu paṭhaviṁ khaṇeyya vā khaṇāpeyya vā, pācittiyaṁ.
+
+Musāvāda-vaggo paṭhamo.
+
+11. Bhūtagāma-pātabyatāya pācittiyaṁ.
+
+12. Aññavādake vihesake pācittiyaṁ.
+
+13. Ujjhāpanake khiyyanake pācittiyaṁ.
+
+14. Yo pana bhikkhu saṅghikaṁ mañcaṁ vā pīṭhaṁ vā bhisiṁ vā kocchaṁ vā ajjhokāse santharitvā vā santharāpetvā vā, taṁ pakkamanto n’eva uddhareyya na uddharāpeyya, anāpucchaṁ vā gaccheyya, pācittiyaṁ.
+
+15. Yo pana bhikkhu saṅghike vihāre seyyaṁ santharitvā vā santharāpetvā vā, taṁ pakkamanto n’eva uddhareyya na uddharāpeyya, anāpucchaṁ vā gaccheyya, pācittiyaṁ.
+
+16. Yo pana bhikkhu saṅghike vihāre jānaṁ pubbūpagataṁ bhikkhuṁ anūpakhajja seyyaṁ kappeyya, “Yassa sambādho bhavissati, so pakkamissatī” ti. Etad’eva paccayaṁ karitvā anaññaṁ, pācittiyaṁ.
+
+17. Yo pana bhikkhu bhikkhuṁ kupito anattamano saṅghikā vihārā nikkaḍḍheyya vā nikkaḍḍhāpeyya vā, pācittiyaṁ.
+
+18. Yo pana bhikkhu saṅghike vihāre upari-vehāsa-kuṭiyā āhacca-pādakaṁ mañcaṁ vā pīṭhaṁ vā abhinisīdeyya vā abhinipajjeyya vā, pācittiyaṁ.
+
+19. Mahallakam-pana bhikkhunā vihāraṁ kārayamānena, yāva dvāra-kosā aggalaṭṭhapanāya, āloka-sandhi-parikammāya, dvitticchadanassa pariyāyaṁ, appaharite ṭhitena adhiṭṭhātabbaṁ. Tato ce uttariṁ appaharite-pi ṭhito adhiṭṭhaheyya, pācittiyaṁ.
+
+20. Yo pana bhikkhu jānaṁ sappāṇakaṁ udakaṁ tiṇaṁ vā mattikaṁ vā siñceyya vā siñcāpeyya vā, pācittiyaṁ.
+
+Bhūtagāma-vaggo dutiyo.
+
+21. Yo pana bhikkhu asammato bhikkhuniyo ovadeyya, pācittiyaṁ.
+
+22. Sammato-pi ce bhikkhu atthaṅgate suriye bhikkhuniyo ovadeyya, pācittiyaṁ.
+
+23. Yo pana bhikkhu bhikkhunūpassayaṁ upasaṅkamitvā bhikkhuniyo ovadeyya aññatra samayā, pācittiyaṁ. Tatthāyaṁ samayo: Gilānā hoti bhikkhunī. Ayaṁ tattha samayo.
+
+24. Yo pana bhikkhu evaṁ vadeyya, “Āmisa-hetu bhikkhū bhikkhuniyo ovadantī” ti, pācittiyaṁ.
+
+25. Yo pana bhikkhu aññātikāya bhikkhuniyā cīvaraṁ dadeyya, aññatra pārivaṭṭakā, pācittiyaṁ.
+
+26. Yo pana bhikkhu aññātikāya bhikkhuniyā cīvaraṁ sibbeyya vā sibbāpeyya vā, pācittiyaṁ.
+
+27. Yo pana bhikkhu bhikkhuniyā saddhiṁ saṁvidhāya ek’addhāna-maggaṁ paṭipajjeyya, antamaso gām’antaram-pi aññatra samayā, pācittiyaṁ. Tatthāyaṁ samayo: Sattha-gamanīyo hoti maggo sāsaṅka-sammato sappaṭibhayo. Ayaṁ tattha samayo.
+
+28. Yo pana bhikkhu bhikkhuniyā saddhiṁ saṁvidhāya ekaṁ nāvaṁ abhirūheyya, uddha-gāminiṁ vā adho-gāminiṁ vā, aññatra tiriy’antaraṇāya, pācittiyaṁ.
+
+29. Yo pana bhikkhu jānaṁ bhikkhunī-paripācitaṁ piṇḍapātaṁ bhuñjeyya, aññatra pubbe gihi-samārambhā, pācittiyaṁ.
+
+30. Yo pana bhikkhu bhikkhuniyā saddhiṁ eko ekāya raho nisajjaṁ kappeyya, pācittiyaṁ.
+
+Ovāda-vaggo tatiyo.
+
+31. Agilānena bhikkhunā eko āvasatha-piṇḍo bhuñjitabbo. Tato ce uttariṁ bhuñjeyya, pācittiyaṁ.
+
+32. Gaṇa-bhojane aññatra samayā, pācittiyaṁ. Tatthāyaṁ samayo: gilāna-samayo, cīvara-dāna-samayo, cīvara-kāra-samayo, addhāna-gamana-samayo, nāvābhirūhana-samayo, mahā-samayo, samaṇa-bhatta-samayo. Ayaṁ tattha samayo.
+
+33. Parampara-bhojane aññatra samayā, pācittiyaṁ. Tatthāyaṁ samayo: gilāna-samayo, cīvara-dāna-samayo, cīvara-kāra-samayo. Ayaṁ tattha samayo.
+
+34. Bhikkhuṁ pan’eva kulaṁ upagataṁ pūvehi vā manthehi vā abhihaṭṭhum-pavāreyya, ākaṅkhamānena bhikkhunā dvitti-patta-pūrā paṭiggahetabbā. Tato ce uttariṁ paṭiggaṇheyya, pācittiyaṁ. Dvitti-patta-pūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṁ saṁvibhajitabbaṁ. Ayaṁ tattha sāmīci.
+
+35. Yo pana bhikkhu bhuttāvī pavārito anatirittaṁ khādanīyaṁ vā bhojanīyaṁ vā khādeyya vā bhuñjeyya vā, pācittiyaṁ.
+
+36. Yo pana bhikkhu bhikkhuṁ bhuttāviṁ pavāritaṁ anatirittena khādanīyena vā bhojanīyena vā abhihaṭṭhum-pavāreyya, “Handa bhikkhu khāda vā bhuñja vā” ti, jānaṁ āsādan’āpekkho, bhuttasmiṁ pācittiyaṁ.
+
+37. Yo pana bhikkhu vikāle khādanīyaṁ vā bhojanīyaṁ vā khādeyya vā bhuñjeyya vā, pācittiyaṁ.
+
+38. Yo pana bhikkhu sannidhi-kārakaṁ khādanīyaṁ vā bhojanīyaṁ vā khādeyya vā bhuñjeyya vā, pācittiyaṁ.
+
+39. Yāni kho pana tāni paṇīta-bhojanāni, seyyathīdaṁ: sappi navanītaṁ telaṁ madhu phāṇitaṁ, maccho maṁsaṁ khīraṁ dadhi. Yo pana bhikkhu eva-rūpāni paṇīta-bhojanāni agilāno attano atthāya viññāpetvā bhuñjeyya, pācittiyaṁ.
+
+40. Yo pana bhikkhu adinnaṁ mukha-dvāraṁ āhāraṁ āhareyya, aññatra udaka-dantapoṇā, pācittiyaṁ.
+
+Bhojana-vaggo catuttho.
+
+41. Yo pana bhikkhu acelakassa vā paribbājakassa vā paribbājikāya vā sahatthā khādanīyaṁ vā bhojanīyaṁ vā dadeyya, pācittiyaṁ.
+
+42. Yo pana bhikkhu bhikkhuṁ evaṁ vadeyya: “Eh’āvuso gāmaṁ vā nigamaṁ vā piṇḍāya pavisissāmā” ti. Tassa dāpetvā vā adāpetvā vā uyyojeyya, “Gacch’āvuso. Na me tayā saddhiṁ kathā vā nisajjā vā phāsu hoti. Ekakassa me kathā vā nisajjā vā phāsu hotī” ti. Etad’eva paccayaṁ karitvā anaññaṁ, pācittiyaṁ.
+
+43. Yo pana bhikkhu sabhojane kule anūpakhajja nisajjaṁ kappeyya, pācittiyaṁ.
+
+44. Yo pana bhikkhu mātugāmena saddhiṁ raho paṭicchanne āsane nisajjaṁ kappeyya, pācittiyaṁ.
+
+45. Yo pana bhikkhu mātugāmena saddhiṁ eko ekāya raho nisajjaṁ kappeyya, pācittiyaṁ.
+
+46. Yo pana bhikkhu nimantito sabhatto samāno santaṁ bhikkhuṁ anāpucchā pure-bhattaṁ vā pacchā-bhattaṁ vā kulesu cārittaṁ āpajjeyya aññatra samayā, pācittiyaṁ. Tatthāyaṁ samayo: cīvara-dāna-samayo, cīvara-kāra-samayo. Ayaṁ tattha samayo.
+
+47. Agilānena bhikkhunā cātu-māsa-paccaya-pavāraṇā sāditabbā, aññatra puna-pavāraṇāya, aññatra nicca-pavāraṇāya. Tato ce uttariṁ sādiyeyya, pācittiyaṁ.
+
+48. Yo pana bhikkhu uyyuttaṁ senaṁ dassanāya gaccheyya, aññatra tathā-rūpa-paccayā, pācittiyaṁ.
+
+49. Siyā ca tassa bhikkhuno kocid’eva paccayo senaṁ gamanāya, dviratta-tirattaṁ tena bhikkhunā senāya vasitabbaṁ. Tato ce uttariṁ vaseyya, pācittiyaṁ.
+
+50. Dviratta-tirattañ-ce bhikkhu senāya vasamāno, uyyodhikaṁ vā balaggaṁ vā senā-byūhaṁ vā anīka-dassanaṁ vā gaccheyya, pācittiyaṁ.
+
+Acelaka-vaggo pañcamo.
+
+51. Surā-meraya-pāne pācittiyaṁ.
+
+52. Aṅguli-patodake pācittiyaṁ.
+
+53. Udake hassa-dhamme pācittiyaṁ.
+
+54. Anādariye pācittiyaṁ.
+
+55. Yo pana bhikkhu bhikkhuṁ bhiṁsāpeyya, pācittiyaṁ.
+
+56. Yo pana bhikkhu agilāno visīvan’āpekkho, jotiṁ samādaheyya vā samādahāpeyya vā, aññatra tathā-rūpa-paccayā, pācittiyaṁ.
+
+57. Yo pana bhikkhu oren’aḍḍha-māsaṁ nhāyeyya, aññatra samayā, pācittiyaṁ. Tatthāyaṁ samayo: “Diyaḍḍho māso seso gimhānan” ti, vassānassa paṭhamo māso, icc’ete aḍḍhateyya-māsā; uṇha-samayo, pariḷāha-samayo, gilāna-samayo, kamma-samayo, addhāna-gamana-samayo, vāta-vuṭṭhi-samayo. Ayaṁ tattha samayo.
+
+58. Navam-pana bhikkhunā cīvara-lābhena tiṇṇaṁ dubbaṇṇa-karaṇānaṁ aññataraṁ dubbaṇṇa-karaṇaṁ ādātabbaṁ, nīlaṁ vā kaddamaṁ vā kāḷa-sāmaṁ vā. Anādā ce bhikkhu tiṇṇaṁ dubbaṇṇa-karaṇānaṁ aññataraṁ dubbaṇṇa-karaṇaṁ navaṁ cīvaraṁ paribhuñjeyya, pācittiyaṁ.
+
+59. Yo pana bhikkhu bhikkhussa vā bhikkhuniyā vā sikkhamānāya vā sāmaṇerassa vā sāmaṇeriyā vā sāmaṁ cīvaraṁ vikappetvā apaccuddhārakaṁ paribhuñjeyya, pācittiyaṁ.
+
+60. Yo pana bhikkhu bhikkhussa pattaṁ vā cīvaraṁ vā nisīdanaṁ vā sūci-gharaṁ vā kāya-bandhanaṁ vā apanidheyya vā apanidhāpeyya vā, antamaso hass’āpekkho-pi, pācittiyaṁ.
+
+Surā-pāna-vaggo chaṭṭho.
+
+61. Yo pana bhikkhu sañcicca pāṇaṁ jīvitā voropeyya, pācittiyaṁ.
+
+62. Yo pana bhikkhu jānaṁ sappāṇakaṁ udakaṁ paribhuñjeyya, pācittiyaṁ.
+
+63. Yo pana bhikkhu jānaṁ yathādhammaṁ nīhatādhikaraṇaṁ punakammāya ukkoṭeyya, pācittiyaṁ.
+
+64. Yo pana bhikkhu bhikkhussa jānaṁ duṭṭhullaṁ āpattiṁ paṭicchādeyya, pācittiyaṁ.
+
+65. Yo pana bhikkhu jānaṁ ūna-vīsati-vassaṁ puggalaṁ upasampādeyya, so ca puggalo anupasampanno, te ca bhikkhū gārayhā. Idaṁ tasmiṁ pācittiyaṁ.
+
+66. Yo pana bhikkhu jānaṁ theyya-satthena saddhiṁ saṁvidhāya ek’addhāna-maggaṁ paṭipajjeyya, antamaso gām’antaram-pi, pācittiyaṁ.
+
+67. Yo pana bhikkhu mātugāmena saddhiṁ saṁvidhāya ek’addhāna-maggaṁ paṭipajjeyya, antamaso gām’antaram-pi, pācittiyaṁ.
+
+68. Yo pana bhikkhu evaṁ vadeyya, “Tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi, yathā ye’me antarāyikā dhammā vuttā bhagavatā, te paṭisevato nālaṁ antarāyāyā” ti. So bhikkhu bhikkhūhi evam’assa vacanīyo, “Mā āyasmā evaṁ avaca. Mā bhagavantaṁ abbhācikkhi. Na hi sādhu bhagavato abbhakkhānaṁ. Na hi bhagavā evaṁ vadeyya. Aneka-pariyāyena āvuso antarāyikā dhammā vuttā bhagavatā, alañ-ca pana te paṭisevato antarāyāyā” ti. Evañ-ca so bhikkhu bhikkhūhi vuccamāno tath’eva paggaṇheyya, so bhikkhu bhikkhūhi yāva-tatiyaṁ samanubhāsitabbo tassa paṭinissaggāya. Yāva-tatiyañ-ce samanubhāsiyamāno taṁ paṭinissajjeyya, icc’etaṁ kusalaṁ. No ce paṭinissajjeyya, pācittiyaṁ.
+
+69. Yo pana bhikkhu jānaṁ tathā-vādinā bhikkhunā akaṭānudhammena taṁ diṭṭhiṁ appaṭinissaṭṭhena, saddhiṁ sambhuñjeyya vā saṁvaseyya vā saha vā seyyaṁ kappeyya, pācittiyaṁ.
+
+70. Samaṇuddeso-pi ce evaṁ vadeyya, “Tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi, yathā ye’me antarāyikā dhammā vuttā bhagavatā, te paṭisevato nālaṁ antarāyāyā” ti. So samaṇuddeso bhikkhūhi evam’assa vacanīyo, “Mā āvuso samaṇuddesa evaṁ avaca. Mā bhagavantaṁ abbhācikkhi. Na hi sādhu bhagavato abbhakkhānaṁ. Na hi bhagavā evaṁ vadeyya. Aneka-pariyāyena āvuso samaṇuddesa antarāyikā dhammā vuttā bhagavatā, alañ-ca pana te paṭisevato antarāyāyā” ti. Evañ-ca so samaṇuddeso bhikkhūhi vuccamāno tath’eva paggaṇheyya, so samaṇuddeso bhikkhūhi evam’assa vacanīyo, “Ajjatagge te āvuso samaṇuddesa na c’eva so bhagavā satthā apadisitabbo, yam-pi c’aññe samaṇuddesā labhanti bhikkhūhi saddhiṁ dviratta-tirattaṁ saha-seyyaṁ, sā-pi te n’atthi. Cara-pi re vinassā” ti. Yo pana bhikkhu jānaṁ tathā-nāsitaṁ samaṇuddesaṁ upalāpeyya vā upaṭṭhāpeyya vā sambhuñjeyya vā saha vā seyyaṁ kappeyya, pācittiyaṁ.
+
+Sappāṇa-vaggo sattamo.
+
+71. Yo pana bhikkhu bhikkhūhi saha-dhammikaṁ vuccamāno evaṁ vadeyya, “Na tāvāhaṁ āvuso etasmiṁ sikkhāpade sikkhissāmi, yāva n’aññaṁ bhikkhuṁ byattaṁ vinaya-dharaṁ paripucchāmī” ti, pācittiyaṁ. Sikkhamānena bhikkhave bhikkhunā aññātabbaṁ paripucchitabbaṁ paripañhitabbaṁ. Ayaṁ tattha sāmīci.
+
+72. Yo pana bhikkhu pāṭimokkhe uddissamāne evaṁ vadeyya, “Kim-pan’imehi khuddānukhuddakehi sikkhāpadehi uddiṭṭhehi, yāvad’eva kukkuccāya vihesāya vilekhāya saṁvattantī” ti. Sikkhāpada-vivaṇṇanake, pācittiyaṁ.
+
+73. Yo pana bhikkhu anvaḍḍha-māsaṁ pāṭimokkhe uddissamāne evaṁ vadeyya, “Idān’eva kho ahaṁ ājānāmi, ‘Ayam-pi kira dhammo sutt’āgato sutta-pariyāpanno anvaḍḍha-māsaṁ uddesaṁ āgacchatī’” ti. Tañ-ce bhikkhuṁ aññe bhikkhū jāneyyuṁ, “Nisinna-pubbaṁ iminā bhikkhunā dvittikkhattuṁ pāṭimokkhe uddissamāne, ko pana vādo bhiyyo” ti, na ca tassa bhikkhuno aññāṇakena mutti atthi. Yañ-ca tattha āpattiṁ āpanno, tañ-ca yathā-dhammo kāretabbo, uttariñ-c’assa moho āropetabbo, “Tassa te āvuso alābhā, tassa te dulladdhaṁ, yaṁ tvaṁ pāṭimokkhe uddissamāne na sādhukaṁ aṭṭhikatvā manasikarosī” ti. Idaṁ tasmiṁ mohanake, pācittiyaṁ.
+
+74. Yo pana bhikkhu bhikkhussa kupito anattamano pahāraṁ dadeyya, pācittiyaṁ.
+
+75. Yo pana bhikkhu bhikkhussa kupito anattamano talasattikaṁ uggireyya, pācittiyaṁ.
+
+76. Yo pana bhikkhu bhikkhuṁ amūlakena saṅghādisesena anuddhaṁseyya, pācittiyaṁ.
+
+77. Yo pana bhikkhu bhikkhussa sañcicca kukkuccaṁ upadaheyya, “Iti’ssa muhuttam-pi aphāsu bhavissatī” ti. Etad’eva paccayaṁ karitvā anaññaṁ, pācittiyaṁ.
+
+78. Yo pana bhikkhu bhikkhūnaṁ bhaṇḍanajātānaṁ kalahajātānaṁ vivādāpannānaṁ upassutiṁ tiṭṭheyya, “Yaṁ ime bhaṇissanti taṁ sossāmī” ti. Etad’eva paccayaṁ karitvā anaññaṁ, pācittiyaṁ.
+
+79. Yo pana bhikkhu dhammikānaṁ kammānaṁ chandaṁ datvā, pacchā khiyyana-dhammaṁ āpajjeyya, pācittiyaṁ.
+
+80. Yo pana bhikkhu saṅghe vinicchaya-kathāya vattamānāya, chandaṁ adatvā uṭṭhāy‘āsanā pakkameyya, pācittiyaṁ.
+
+81. Yo pana bhikkhu samaggena saṅghena cīvaraṁ datvā, pacchā khiyyana-dhammaṁ āpajjeyya, “Yathā-santhutaṁ bhikkhū saṅghikaṁ lābhaṁ pariṇāmentī” ti, pācittiyaṁ.
+
+82. Yo pana bhikkhu jānaṁ saṅghikaṁ lābhaṁ pariṇataṁ puggalassa pariṇāmeyya, pācittiyaṁ.
+
+Sahadhammika-vaggo aṭṭhamo.
+
+83. Yo pana bhikkhu rañño khattiyassa muddhābhisittassa anikkhanta-rājake aniggata-ratanake pubbe appaṭisaṁvidito indakhīlaṁ atikkāmeyya, pācittiyaṁ.
+
+84. Yo pana bhikkhu ratanaṁ vā ratana-sammataṁ vā aññatra ajjhārāmā vā ajjhāvasathā vā uggaṇheyya vā uggaṇhāpeyya vā, pācittiyaṁ. Ratanaṁ vā pana bhikkhunā ratana-sammataṁ vā, ajjhārāme vā ajjhāvasathe vā uggahetvā vā uggaṇhāpetvā vā nikkhipitabbaṁ, “Yassa bhavissati so harissatī” ti. Ayaṁ tattha sāmīci.
+
+85. Yo pana bhikkhu santaṁ bhikkhuṁ anāpucchā vikāle gāmaṁ paviseyya, aññatra tathā-rūpā accāyikā karaṇīyā, pācittiyaṁ.
+
+86. Yo pana bhikkhu aṭṭhi-mayaṁ vā danta-mayaṁ vā visāṇa-mayaṁ vā sūci-gharaṁ kārāpeyya, bhedanakaṁ pācittiyaṁ.
+
+87. Navam-pana bhikkhunā mañcaṁ vā pīṭhaṁ vā kārayamānena, aṭṭh’aṅgula-pādakaṁ kāretabbaṁ sugat’aṅgulena, aññatra heṭṭhimāya aṭaniyā. Taṁ atikkāmayato, chedanakaṁ pācittiyaṁ.
+
+88. Yo pana bhikkhu mañcaṁ vā pīṭhaṁ vā tūlonaddhaṁ kārāpeyya, uddālanakaṁ pācittiyaṁ.
+
+89. Nisīdanam-pana bhikkhunā kārayamānena pamāṇikaṁ kāretabbaṁ. Tatr’idaṁ pamāṇaṁ: dīghaso dve vidatthiyo sugata-vidatthiyā, tiriyaṁ diyaḍḍhaṁ, dasā vidatthi. Taṁ atikkāmayato, chedanakaṁ pācittiyaṁ.
+
+90. Nisīdanaṁ pana bhikkhunā kārayamānena pamāṇikaṁ kāretabbaṁ. Tatr'idaṁ pamāṇaṁ, dīghaso dve vidatthiyo sugatavidatthiyā, tiriyaṁ diyaḍḍhaṁ, dasā vidatthi. Taṁ atikkāmayato, chedanakaṁ pācittiyaṁ.
+
+91. Vassika-sāṭikaṁ pana bhikkhunā kārayamānena pamāṇikā kāretabbā. Tatr’idaṁ pamāṇaṁ: dīghaso cha vidatthiyo sugata-vidatthiyā tiriyaṁ aḍḍha-teyyā. Taṁ atikkāmayato, chedanakaṁ pācittiyaṁ.
+
+92. Yo pana bhikkhu sugata-cīvarappamāṇaṁ cīvaraṁ kārāpeyya atirekaṁ vā, chedanakaṁ pācittiyaṁ. Tatr’idaṁ sugatassa sugata-cīvarappamāṇaṁ: dīghaso nava vidatthiyo sugata-vidatthiyā, tiriyaṁ cha vidatthiyo. Idaṁ sugatassa sugata-cīvarappamāṇaṁ.
+
+Ratana-vaggo navamo.
+
+Uddiṭṭhā kho āyasmanto dve-navuti pācittiyā dhammā. Tatth’āyasmante pucchāmi: Kacci’ttha parisuddhā? Dutiyam-pi pucchāmi: Kacci’ttha parisuddhā? Tatiyam-pi pucchāmi: Kacci’ttha parisuddhā? Parisuddh’etth’āyasmanto, tasmā tuṇhī, evam-etaṁ dhārayāmi.
+
+( Pācittiyā niṭṭhitā )
+
+#+end_src
+
+* Pāṭidesanīyā
+#+begin_src shell
+
+Ime kho pan’āyasmanto cattāro pāṭidesanīyā dhammā uddesaṁ āgacchanti.
+
+1. Yo pana bhikkhu aññātikāya bhikkhuniyā antara-gharaṁ paviṭṭhāya hatthato, khādanīyaṁ vā bhojanīyaṁ vā sahatthā paṭiggahetvā khādeyya vā bhuñjeyya vā, paṭidesetabbaṁ tena bhikkhunā, “Gārayhaṁ āvuso dhammaṁ āpajjiṁ asappāyaṁ pāṭidesanīyaṁ, taṁ paṭidesemī” ti.
+
+2. Bhikkhū pan’eva kulesu nimantitā bhuñjanti. Tatra ce bhikkhunī vosāsamāna-rūpā ṭhitā hoti, “Idha sūpaṁ detha, idha odanaṁ dethā” ti. Tehi bhikkhūhi sā bhikkhunī apasādetabbā, “Apasakka tāva bhagini, yāva bhikkhū bhuñjantī” ti. Ekassa’pi ce bhikkhuno nappaṭibhāseyya taṁ bhikkhuniṁ apasādetuṁ, “Apasakka tāva bhagini, yāva bhikkhū bhuñjantī” ti, paṭidesetabbaṁ tehi bhikkhūhi, “Gārayhaṁ āvuso dhammaṁ āpajjimhā asappāyaṁ pāṭidesanīyaṁ, taṁ paṭidesemā” ti.
+
+3. Yāni kho pana tāni sekkha-sammatāni kulāni. Yo pana bhikkhu tathā-rūpesu sekkha-sammatesu kulesu pubbe animantito agilāno khādanīyaṁ vā bhojanīyaṁ vā sahatthā paṭiggahetvā khādeyya vā bhuñjeyya vā, paṭidesetabbaṁ tena bhikkhunā, “Gārayhaṁ āvuso dhammaṁ āpajjiṁ asappāyaṁ pāṭidesanīyaṁ, taṁ paṭidesemī” ti.
+
+4. Yāni kho pana tāni āraññakāni senāsanāni sāsaṅka-sammatāni sappaṭibhayāni. Yo pana bhikkhu tathā-rūpesu senāsanesu viharanto, pubbe appaṭisaṁviditaṁ khādanīyaṁ vā bhojanīyaṁ vā ajjhārāme sahatthā paṭiggahetvā agilāno khādeyya vā bhuñjeyya vā, paṭidesetabbaṁ tena bhikkhunā, “Gārayhaṁ āvuso dhammaṁ āpajjiṁ asappāyaṁ pāṭidesanīyaṁ, taṁ paṭidesemī” ti.
+
+Uddiṭṭhā kho āyasmanto cattāro pāṭidesanīyā dhammā. Tatth’āyasmante pucchāmi: Kacci’ttha parisuddhā? Dutiyam-pi pucchāmi: Kacci’ttha parisuddhā? Tatiyam-pi pucchāmi: Kacci’ttha parisuddhā? Parisuddh’etth’āyasmanto, tasmā tuṇhī, evam-etaṁ dhārayāmi.
+
+( Pāṭidesanīyā niṭṭhitā )
+
+#+end_src
+
+* Sekhiyā
+#+begin_src shell
+
+Ime kho pan’āyasmanto sekhiyā dhammā uddesaṁ āgacchanti.
+
+1. “Parimaṇḍalaṁ nivāsessāmī” ti sikkhā karaṇīyā.
+2. “Parimaṇḍalaṁ pārupissāmī” ti sikkhā karaṇīyā.
+3. “Supaṭicchanno antara-ghare gamissāmī” ti sikkhā karaṇīyā.
+4. “Supaṭicchanno antara-ghare nisīdissāmī” ti sikkhā karaṇīyā.
+5. “Susaṁvuto antara-ghare gamissāmī” ti sikkhā karaṇīyā.
+6. “Susaṁvuto antara-ghare nisīdissāmī” ti sikkhā karaṇīyā.
+7. “Okkhitta-cakkhu antara-ghare gamissāmī” ti sikkhā karaṇīyā.
+8. “Okkhitta-cakkhu antara-ghare nisīdissāmī” ti sikkhā karaṇīyā.
+9. “Na ukkhittakāya antara-ghare gamissāmī” ti sikkhā karaṇīyā.
+10. “Na ukkhittakāya antara-ghare nisīdissāmī” ti sikkhā karaṇīyā.
+11. “Na ujjagghikāya antara-ghare gamissāmī” ti sikkhā karaṇīyā.
+12. “Na ujjagghikāya antara-ghare nisīdissāmī” ti sikkhā karaṇīyā.
+13. “Appasaddo antara-ghare gamissāmī” ti sikkhā karaṇīyā.
+14. “Appasaddo antara-ghare nisīdissāmī” ti sikkhā karaṇīyā.
+15. “Na kāyappacālakaṁ antara-ghare gamissāmī” ti sikkhā karaṇīyā.
+16. “Na kāyappacālakaṁ antara-ghare nisīdissāmī” ti sikkhā karaṇīyā.
+17. “Na bāhuppacālakaṁ antara-ghare gamissāmī” ti sikkhā karaṇīyā.
+18. “Na bāhuppacālakaṁ antara-ghare nisīdissāmī” ti sikkhā karaṇīyā.
+19. “Na sīsappacālakaṁ antara-ghare gamissāmī” ti sikkhā karaṇīyā.
+20. “Na sīsappacālakaṁ antara-ghare nisīdissāmī” ti sikkhā karaṇīyā.
+21. “Na khambhakato antara-ghare gamissāmī” ti sikkhā karaṇīyā.
+22. “Na khambhakato antara-ghare nisīdissāmī” ti sikkhā karaṇīyā.
+23. “Na oguṇṭhito antara-ghare gamissāmī” ti sikkhā karaṇīyā.
+24. “Na oguṇṭhito antara-ghare nisīdissāmī” ti sikkhā karaṇīyā.
+25. “Na ukkuṭikāya antara-ghare gamissāmī” ti sikkhā karaṇīyā.
+26. “Na pallatthikāya antara-ghare nisīdissāmī” ti sikkhā karaṇīyā.
+
+Chabbīsati-sāruppā.
+
+27. “Sakkaccaṁ piṇḍapātaṁ paṭiggahessāmī” ti sikkhā karaṇīyā.
+28. “Patta-saññī piṇḍapātaṁ paṭiggahessāmī” ti sikkhā karaṇīyā.
+29. “Samasūpakaṁ piṇḍapātaṁ paṭiggahessāmī” ti sikkhā karaṇīyā.
+30. “Samatittikaṁ piṇḍapātaṁ paṭiggahessāmī” ti sikkhā karaṇīyā.
+31. “Sakkaccaṁ piṇḍapātaṁ bhuñjissāmī” ti sikkhā karaṇīyā.
+32. “Patta-saññī piṇḍapātaṁ bhuñjissāmī” ti sikkhā karaṇīyā.
+33. “Sapadānaṁ piṇḍapātaṁ bhuñjissāmī” ti sikkhā karaṇīyā.
+34. “Samasūpakaṁ piṇḍapātaṁ bhuñjissāmī” ti sikkhā karaṇīyā.
+35. “Na thūpato omadditvā piṇḍapātaṁ bhuñjissāmī” ti sikkhā karaṇīyā.
+36. “Na sūpaṁ vā byañjanaṁ vā odanena paṭicchādessāmi bhiyyo-kamyataṁ upādāyā” ti sikkhā karaṇīyā.
+37. “Na sūpaṁ vā odanaṁ vā agilāno attano atthāya viññāpetvā bhuñjissāmī” ti sikkhā karaṇīyā.
+38. “Na ujjhāna-saññī paresaṁ pattaṁ olokessāmī” ti sikkhā karaṇīyā.
+39. “Nātimahantaṁ kavaḷaṁ karissāmī” ti sikkhā karaṇīyā.
+40. “Parimaṇḍalaṁ ālopaṁ karissāmī” ti sikkhā karaṇīyā.
+41. “Na anāhaṭe kavaḷe mukha-dvāraṁ vivarissāmī” ti sikkhā karaṇīyā.
+42. “Na bhuñjamāno sabbaṁ hatthaṁ mukhe pakkhipissāmī” ti sikkhā karaṇīyā.
+43. “Na sakavaḷena mukhena byāharissāmī” ti sikkhā karaṇīyā.
+44. “Na piṇḍukkhepakaṁ bhuñjissāmī” ti sikkhā karaṇīyā.
+45. “Na kavaḷāvacchedakaṁ bhuñjissāmī” ti sikkhā karaṇīyā.
+46. “Na avagaṇḍa-kārakaṁ bhuñjissāmī” ti sikkhā karaṇīyā.
+47. “Na hattha-niddhūnakaṁ bhuñjissāmī” ti sikkhā karaṇīyā.
+48. “Na sitthāva-kārakaṁ bhuñjissāmī” ti sikkhā karaṇīyā.
+49. “Na jivhā-nicchārakaṁ bhuñjissāmī” ti sikkhā karaṇīyā.
+50. “Na capu-capu-kārakaṁ bhuñjissāmī” ti sikkhā karaṇīyā.
+51. “Na suru-suru-kārakaṁ bhuñjissāmī” ti sikkhā karaṇīyā.
+52. “Na hattha-nillehakaṁ bhuñjissāmī” ti sikkhā karaṇīyā.
+53. “Na patta-nillehakaṁ bhuñjissāmī” ti sikkhā karaṇīyā.
+54. “Na oṭṭha-nillehakaṁ bhuñjissāmī” ti sikkhā karaṇīyā.
+55. “Na sāmisena hatthena pānīya-thālakaṁ paṭiggahessāmī” ti sikkhā karaṇīyā.
+56. “Na sasitthakaṁ patta-dhovanaṁ antara-ghare chaḍḍessāmī” ti sikkhā karaṇīyā.
+
+Samatiṁsa bhojana-paṭisaṁyuttā.
+
+57. “Na chatta-pāṇissa agilānassa dhammaṁ desissāmī” ti sikkhā karaṇīyā.
+58. “Na daṇḍa-pāṇissa agilānassa dhammaṁ desissāmī” ti sikkhā karaṇīyā.
+59. “Na sattha-pāṇissa agilānassa dhammaṁ desissāmī” ti sikkhā karaṇīyā.
+60. “Na āvudha-pāṇissa agilānassa dhammaṁ desissāmī” ti sikkhā karaṇīyā.
+61. “Na pādukārūḷhassa agilānassa dhammaṁ desissāmī” ti sikkhā karaṇīyā.
+62. “Na upāhanārūḷhassa agilānassa dhammaṁ desissāmī” ti sikkhā karaṇīyā.
+63. “Na yāna-gatassa agilānassa dhammaṁ desissāmī” ti sikkhā karaṇīyā.
+64. “Na sayana-gatassa agilānassa dhammaṁ desissāmī” ti sikkhā karaṇīyā.
+65. “Na pallatthikāya nisinnassa agilānassa dhammaṁ desissāmī” ti sikkhā karaṇīyā.
+66. “Na veṭṭhita-sīsassa agilānassa dhammaṁ desissāmī” ti sikkhā karaṇīyā.
+67. “Na oguṇṭhita-sīsassa agilānassa dhammaṁ desissāmī” ti sikkhā karaṇīyā.
+68. “Na chamāyaṁ nisīditvā āsane nisinnassa agilānassa dhammaṁ desissāmī” ti sikkhā karaṇīyā.
+69. “Na nīce āsane nisīditvā ucce āsane nisinnassa agilānassa dhammaṁ desissāmī” ti sikkhā karaṇīyā.
+70. “Na ṭhito nisinnassa agilānassa dhammaṁ desissāmī” ti sikkhā karaṇīyā.
+71. “Na pacchato gacchanto purato gacchantassa agilānassa dhammaṁ desissāmī” ti sikkhā karaṇīyā.
+72. “Na uppathena gacchanto pathena gacchantassa agilānassa dhammaṁ desissāmī” ti sikkhā karaṇīyā.
+
+Soḷasa dhamma-desanā-paṭisaṁyuttā.
+
+73. “Na ṭhito agilāno uccāraṁ vā passāvaṁ vā karissāmī” ti sikkhā karaṇīyā.
+74. “Na harite agilāno uccāraṁ vā passāvaṁ vā kheḷaṁ vā karissāmī” ti sikkhā karaṇīyā.
+75. “Na udake agilāno uccāraṁ vā passāvaṁ vā kheḷaṁ vā karissāmī” ti sikkhā karaṇīyā.
+
+Tayo pakiṇṇakā.
+
+Uddiṭṭhā kho āyasmanto sekhiyā dhammā. Tatth’āyasmante pucchāmi: Kacci’ttha parisuddhā? Dutiyam-pi pucchāmi: Kacci’ttha parisuddhā? Tatiyam-pi pucchāmi: Kacci’ttha parisuddhā? Parisuddh’etth’āyasmanto, tasmā tuṇhī, evam-etaṁ dhārayāmi.
+
+( Sekhiyā niṭṭhitā )
+
+#+end_src
+
+* Adhikaraṇasamathā
+#+begin_src shell
+
+Ime kho pan’āyasmanto sattādhikaraṇa-samathā dhammā uddesaṁ āgacchanti.
+
+Uppannuppannānaṁ adhikaraṇānaṁ samathāya vūpasamāya: 1. Sammukhā-vinayo dātabbo, 2. Sati-vinayo dātabbo, 3. Amūḷha-vinayo dātabbo, 4. Paṭiññāta-karaṇaṁ, 5. Yebhuyyasikā, 6. Tassa-pāpiyasikā, 7. Tiṇa-vatthārako ti.
+
+Uddiṭṭhā kho āyasmanto sattādhikaraṇa-samathā dhammā. Tatth’āyasmante pucchāmi: Kacci’ttha parisuddhā? Dutiyam-pi pucchāmi: Kacci’ttha parisuddhā? Tatiyam-pi pucchāmi: Kacci’ttha parisuddhā? Parisuddh’etth’āyasmanto, tasmā tuṇhī, evam-etaṁ dhārayāmi.
+
+( Sattādhikaraṇa-samathā niṭṭhitā )
+
+#+end_src
+
+* Pātimokkhaniṭṭhāna
+#+begin_src shell
+
+Uddiṭṭhaṁ kho āyasmanto nidānaṁ. Uddiṭṭhā cattāro pārājikā dhammā. Uddiṭṭhā terasa saṅghādisesā dhammā. Uddiṭṭhā dve aniyatā dhammā. Uddiṭṭhā tiṁsa nissaggiyā pācittiyā dhammā. Uddiṭṭhā dve-navuti pācittiyā dhammā. Uddiṭṭhā cattāro pāṭidesanīyā dhammā. Uddiṭṭhā sekhiyā dhammā. Uddiṭṭhā sattādhikaraṇa-samathā dhammā. Ettakan-tassa bhagavato sutt’āgataṁ sutta-pariyāpannaṁ anvaḍḍha-māsaṁ uddesaṁ āgacchati. Tattha sabbeh’eva samaggehi sammodamānehi avivadamānehi sikkhitabban ti.
+
+( Bhikkhu-pāṭimokkhaṁ niṭṭhitaṁ )
+
+#+end_src
+* Chanting after the Pāṭimokkha
+#+begin_src shell
+
+Handa mayaṁ buddhassa bhagavato pubba-bhāga-nama-kāraṁ karoma se:
+
+[Namo tassa] bhagavato arahato sammā-sambuddhassa. ( tikkhattuṁ )
+
+Handa mayaṁ sacca-kiriyā-gāthāyo bhaṇāma se:
+
+[N’atthi me saraṇaṁ aññaṁ]
+
+Buddho me saraṇaṁ varaṁ
+
+Etena sacca-vajjena
+
+Sotthi me hotu sabbadā.
+
+74
+
+N’atthi me saraṇaṁ aññaṁ
+
+Dhammo me saraṇaṁ varaṁ
+
+Etena sacca-vajjena
+
+Sotthi me hotu sabbadā.
+
+N’atthi me saraṇaṁ aññaṁ
+
+Saṅgho me saraṇaṁ varaṁ
+
+Etena sacca-vajjena
+
+Sotthi me hotu sabbadā.
+
+Sīluddesa-pāṭha
+
+Handa mayaṁ sīluddesa-pāṭhaṁ bhaṇāma se:
+
+[Bhāsitam-idaṁ] tena bhagavatā jānatā passatā arahatā sammā-sambuddhena: “Sampanna-sīlā
+
+bhikkhave viharatha sampanna-pāṭimokkhā. Pāṭimokkha-saṁvara-saṁvutā viharatha ācāra-gocara-sampannā. Aṇumattesu vajjesu bhaya-dassāvī samādāya sikkhatha sikkhāpadesū” ti.
+
+75
+
+Tasmā tih’amhehi sikkhitabbaṁ: “Sampanna-sīlā viharissāma sampanna-pāṭimokkhā.
+
+Pāṭimokkha-saṁvara-saṁvutā viharissāma ācāra-gocara-sampannā. Aṇumattesu vajjesu bhaya-dassāvī samādāya sikkhissāma sikkhāpadesū” ti. Evañ-hi no sikkhitabbaṁ.
+
+Tāyana-gāthā
+
+Handa mayaṁ tāyana-gāthāyo bhaṇāma se:
+
+[Chinda sotaṁ] parakkamma
+
+Kāme panūda brāhmaṇa
+
+Nappahāya muni kāme
+
+N’ekattam-upapajjati.
+
+Kayirā ce kayirāth’enaṁ
+
+Daḷham-enaṁ parakkame
+
+76
+
+Sithilo hi paribbājo
+
+Bhiyyo ākirate rajaṁ.
+
+Akataṁ dukkaṭaṁ seyyo
+
+Pacchā tappati dukkaṭaṁ
+
+Katañ-ca sukataṁ seyyo
+
+Yaṁ katvā nānutappati.
+
+Kuso yathā duggahito
+
+Hattham’evānukantati
+
+Sāmaññaṁ dupparāmaṭṭhaṁ
+
+Nirayāyūpakaḍḍhati.
+
+Yaṅ-kiñci sithilaṁ kammaṁ
+
+Saṅkiliṭṭhañ-ca yaṁ vataṁ
+
+Saṅkassaraṁ brahmacariyaṁ
+
+Na taṁ hoti, mahapphalan ti.
+
+Ovāda-pāṭimokkha-gāthā
+
+[Uddiṭṭhaṁ kho] tena bhagavatā jānatā passatā arahatā sammā-sambuddhena:
+
+77
+
+Ovāda-pāṭimokkhaṁ tīhi gāthāhi.
+
+Khantī paramaṁ tapo tītikkhā
+
+Nibbānaṁ paramaṁ vadanti buddhā,
+
+Na hi pabbajito parūpaghātī
+
+Samaṇo hoti paraṁ viheṭhayanto.
+
+Sabba-pāpassa akaraṇaṁ
+
+Kusalassūpasampadā
+
+Sacitta-pariyodapanaṁ
+
+Etaṁ buddhāna-sāsanaṁ.
+
+Anūpavādo anūpaghāto
+
+Pāṭimokkhe ca saṁvaro
+
+Mattaññutā ca bhattasmiṁ
+
+Pantañ-ca sayan’āsanaṁ.
+
+78
+
+Adhicitte ca āyogo
+
+Etaṁ buddhāna-sāsanan ti.
+
+
+
+#+end_src
+* Consent and Purity
+#+begin_src shell
+Consent & Purity
+
+Mahāvagga II.23.1-2 states that a bhikkhu too ill to come to a Community meeting may give his prior consent to any transactions conducted at the meeting as follows: Going to another bhikkhu, he arranges his upper robe over one shoulder, kneels down, performs añjali, and says to the other:
+
+Chandaṁ dammi. Chandaṁ me hara. Chandaṁ me ārocehi.
+
+This means: “I give consent. Convey my consent. Report my consent.”
+
+79
+
+If he makes this understood by physical gesture, by voice, or by both, his consent counts as given. If not, his consent does not count as given.
+
+The texts do not mention this point, but it seems reasonable that a bhikkhu too ill to go to another bhikkhu or to get in the kneeling position should be allowed to give his consent from his sick-bed. The Vinaya-mukha adds that if the bhikkhu giving consent is junior to the one conveying his consent, he should change the above statements to the more formal form: Chandaṁ dammi. Chandaṁ me haratha. Chandaṁ me ārocetha.
+
+The fact that consent can be given by gesture suggests that, if it is conveyed by voice, the statement need not be in Pāli. Any language mutually intelligible to the bhikkhus in that Community would suffice.
+
+As for the bhikkhu to whom the consent has been given, his duty is to join the meeting and report the other bhikkhu’s consent when he has arrived. If, however, Bhikkhu Y—instead of going to the meeting—goes away immediately after Bhikkhu X gives him his consent, the consent does not count as given; X must give his consent to another bhikkhu if the transaction(s) at the meeting are to be valid. The same holds true if, at that moment, Y dies, disrobes, admits to not being a true bhikkhu, or admits to being insane, possessed, delirious with pain, or suspended.
+
+If, however, any of these things happens while Y is on the way to the meeting, X does not have to re-give his consent, even though it does not count as having been conveyed. (This, however, would still invalidate any action taken at the meeting.) If any of these things happens after Y
+
+arrives at the meeting, the consent counts as having been conveyed. If Y arrives at the meeting and unintentionally neglects to report X’s consent either because he is heedless, falls asleep, or enters a meditative attainment, the consent still counts as conveyed, and Y incurs no offense. If, however, Y intentionally does not report X’s consent, the consent counts as conveyed, but Y incurs a dukkaṭa.
+
+80
+
+The Commentary also notes that if Bhikkhu X gives his consent to Bhikkhu Y, and Y then asks Z to convey X’s consent and his own to the assembly, then when Z tells the assembly, only Y’s consent is conveyed. X’s is called a “leashed-cat consent”—which means that it doesn’t come no matter how hard you pull at it.
+
+Although Mahāvagga II.23.1-2 allows an ill bhikkhu to give his consent in this way, the texts do not define how ill a bhikkhu must be in order to qualify for this allowance. The origin story to Pācittiya 79 describes a case where bhikkhus are too busy making robes to go to the meeting
+
+and so send their consent. The transaction carried out by the meeting was considered valid. Thus “ill” here apparently can mean not only physically ill but also seriously inconvenienced in other ways as well.
+
+If a bhikkhu unable to attend the meeting is too ill to give his consent in the above way, he should be carried into the midst of the Community on a bed or a bench. If he is too ill to be moved—either because his disease would worsen or he could die—the Community should go to where he is staying and carry out the transaction there.
+
+Mahāvagga II.22.1-2 states that if the Community is going to conduct the Uposatha at its meeting, the bhikkhu must send his purity. If the bhikkhu sending his purity is senior to the one conveying it for him, he should say: Pārisuddhiṁ dammi. Pārisuddhiṁ me hara. Pārisuddhiṁ me ārocehi.
+
+This means: “I give purity. Convey my purity. Report my purity.”
+
+The Vinaya-mukha states that if the bhikkhu sending his purity is junior to the one conveying it for him, he should say: 81
+
+Pārisuddhiṁ dammi. Pārisuddhiṁ me haratha. Pārisuddhiṁ me ārocetha.
+
+The rules surrounding the conveying of purity are similar to those around the conveying of consent, although the Sub-commentary adds that a bhikkhu with any unconfessed offenses should first confess them before giving his purity in this way. Mahāvagga II.23.3 adds that if, on the Uposatha day, the Community wants to conduct other business at the meeting, it should get both the consent and the purity of any bhikkhus too ill to attend.
+
+Neither the Canon nor the Commentary gives a standard form for how the ill bhikkhu’s purity is to be announced in the meeting. The Vinaya-mukha provides the following formula:
+
+If the ill bhikkhu is senior to the bhikkhu reporting his purity:
+
+Āyasmā bhante [Itthannāmo] gilāno. Pārisuddho’ti paṭijāni. Pārisuddho’ti taṁ saṅgho dhāretu.
+
+This means: “Ven. [name] is ill, venerable sirs. He has affirmed that he is pure. May the Community hold him to be pure.”
+
+If the ill bhikkhu is junior to the bhikkhu reporting his purity:
+
+[Itthannāmo] bhante bhikkhu gilāno. Pārisuddho’ti paṭijāni. Pārisuddho’ti taṁ saṅgho dhāretu.
+
+“Bhikkhu [name] is ill, venerable sirs. He has affirmed that he is pure. May the Community hold him to be pure.”
+
+82
+
+However, just as there appears to be no requirement to use Pāli when giving purity, there is no requirement to use Pāli when reporting it. The same principle would hold for consent.
+
+
+#+end_src
+
+* Abriged Recitation
+#+begin_src shell
+
+Abridged Recitation
+
+Mahāvagga II.15.1 allows five ways of reciting the Pāṭimokkha:
+
+1) Having recited the nidāna, one may announce the remainder as “heard.”
+
+2) Having recited the nidāna and the four pārājikas, one may announce the remainder as “heard.”
+
+3) Having recited the nidāna, the four pārājikas, and the thirteen saṅghādisesas, one may announce the remainder as “heard.”
+
+4) Having recited the nidāna, the four pārājikas, the thirteen saṅghādisesas, and the two aniyatas, one may announce the remainder as “heard.”
+
+5) In full detail.
+
+83
+
+Mahāvagga II.15.2-3 states that, if there are no obstructions, the Pāṭimokkha should be recited in full, but if there are obstructions, it may be recited in brief. According to the Commentary, this means that if an obstruction arises in any of the parts covered by the second through the fourth modes of recitation, the recitation may be cut off in mid-section, with the section in question and all the remaining sections announced as “heard.” If the obstructions arise before the recitation, the Commentary says, the recitation should simply be delayed.
+
+Neither the Canon nor the Commentary gives directions for breaking off the recitation in the middle of any rule sections from the nissaggiya pācittiya rules onwards. Apparently one would simply break off the recitation and conclude with the fourth version of the summary, below.
+
+Mahāvagga II.15.4 lists the allowable obstructions as ten (with explanations from the Commentary in brackets) are: 1) a king obstruction [C: a king arrives],
+
+2) a thief obstruction [C: thieves come],
+
+3) a fire obstruction [C: a forest fire approaches from outside the monastery, or a fire breaks out in the monastery (at present, in a village or city monastery, a fire approaching from nearby buildings would also qualify)], 4) a water obstruction [C: heavy rain, a flood],
+
+5) a human being obstruction [C: large numbers of people come],
+
+6) a non-human being obstruction [C: a spirit possesses one of the bhikkhus], 7) a beast obstruction [C: a fierce beast, such as a tiger, comes],
+
+8) a creeping-pest obstruction [C: a snake, etc., bites a bhikkhu],
+
+9) a life obstruction [C: a bhikkhu falls ill or dies; hostile people with murderous intent grab hold of a bhikkhu], 84
+
+10) a celibacy obstruction [C: people catch hold of one or more bhikkhus with the intent of making them fall from celibacy].
+
+Mv.II.21.4 discusses another situation in which the Pāṭimokkha may be recited in brief: Many (i.e., four or more) bhikkhus—“inexperienced and incompetent”—have entered the Rains in a particular residence and none of them knows the Uposatha or the Uposatha transaction, the Pāṭimokkha or the recital of the Pāṭimokkha. One of them should be sent to a neighboring monastery immediately to master the Pāṭimokkha in brief or in its full extent. If he can manage it immediately, well and good. If not, one of them should be sent to a neighboring monastery for a
+
+period of seven days to master the Pāṭimokkha in brief or in its full extent. If he can manage it within seven days, well and good. If not, then all the bhikkhus should go stay for the Rains in the neighboring monastery. If they stay where they are, they all incur a dukkaṭa. None of the texts discuss the point, but “going to stay for the Rains” in the neighboring monastery apparently means entering the second Rains there.
+
+The Canon does not specify how a rule section is to be announced as “heard.” The Commentary recommends that the summary use the following formula for each “heard” section, replacing “cattāro pārājikā” with the appropriate name and number of relevant rules in each case: Sutā kho pan’āyasmantehi (cattāro pārājikā) dhammā …. One then ends with the usual conclusion: Ettakantassa bhagavato
+
+… avivādamānehi sikkhitabbaṁ.
+
+The Vinaya-mukha, however, correctly notes that this formula would be more idiomatic if it followed the form of the standard conclusion to the Pāṭimokkha. This is the form recommended here.
+
+1) When only the nidāna has been recited in full:
+
+85
+
+Uddiṭṭhaṁ kho āyasmanto nidānaṁ. Sutā cattāro pārājikā dhammā. Sutā terasa saṅghādisesā
+
+dhammā. Sutā dve aniyatā dhammā. Sutā tiṁsa nissaggiyā pācittiyā dhammā. Sutā dve-navuti pācittiyā dhammā. Sutā cattāro pāṭidesanīyā dhammā. Sutā sekhiyā dhammā. Sutā sattādhikaraṇa-samathā dhammā.
+
+2) When only the nidāna and pārājika rules have been recited in full: Uddiṭṭhaṁ kho āyasmanto nidānaṁ. Uddiṭṭhā cattāro pārājikā dhammā. Sutā terasa
+
+saṅghādisesā dhammā. Sutā dve aniyatā dhammā. Sutā tiṁsa nissaggiyā pācittiyā dhammā. Sutā
+
+dve-navuti pācittiyā dhammā. Sutā cattāro pāṭidesanīyā dhammā. Sutā sekhiyā dhammā. Sutā
+
+sattādhikaraṇa-samathā dhammā.
+
+3) When only the nidāna, pārājika, and saṅghādisesa rules have been recited in full: Uddiṭṭhaṁ kho āyasmanto nidānaṁ. Uddiṭṭhā cattāro pārājikā dhammā. Uddiṭṭhā terasa 86
+
+saṅghādisesā dhammā. Sutā dve aniyatā dhammā. Sutā tiṁsa nissaggiyā pācittiyā dhammā. Sutā
+
+dve-navuti pācittiyā dhammā. Sutā cattāro pāṭidesanīyā dhammā. Sutā sekhiyā dhammā. Sutā
+
+sattādhikaraṇa-samathā dhammā.
+
+4) When only the nidāna, pārājika, saṅghādisesa, and aniyata rules have been recited in full: Uddiṭṭhaṁ kho āyasmanto nidānaṁ. Uddiṭṭhā cattāro pārājikā dhammā. Uddiṭṭhā terasa saṅghādisesā dhammā. Uddiṭṭhā dve aniyatā dhammā. Sutā tiṁsa nissaggiyā pācittiyā dhammā.
+
+Sutā dve-navuti pācittiyā dhammā. Sutā cattāro pāṭidesanīyā dhammā. Sutā sekhiyā dhammā. Sutā
+
+sattādhikaraṇa-samathā dhammā.
+
+In each case, the summary should be followed by the standard closing statement: Ettakan-tassa bhagavato sutt’āgataṁ sutta-pariyāpannaṁ anvaḍḍha-māsaṁ uddesaṁ āgacchati.
+
+87
+
+Tattha sabbeh’eva samaggehi sammodamānehi avivadamānehi sikkhitabban ti.
+
+#+end_src
+
+* Group and Individual Uposatha
+#+begin_src shell
+Group & Individual Uposatha
+
+Mutual purity. In an Uposatha assembly of only three bhikkhus, the Pāṭimokkha may not be recited. Instead, the bhikkhus must declare their mutual purity. To do this, they meet in the Uposatha hall, and one of the bhikkhus gives the motion: Suṇantu me bhante [āvuso] āyasmantā, ajj’uposatho paṇṇaraso [cātuddaso], yad’āyasmantānaṁ
+
+pattakallaṁ, mayaṁ aññam-aññaṁ pārisuddhi-uposathaṁ kareyyāma.
+
+This means: “May the venerable ones listen to me, sirs [friends]. Today is the Uposatha of the fifteenth [fourteenth]. If the venerable ones 88
+
+are ready, we should perform our Uposatha of mutual purity.”
+
+Then the most senior bhikkhu, with his robe arranged over one shoulder, gets into the kneeling position and, with hands raised in añjali, says three times:
+
+Parisuddho ahaṁ āvuso. Parisuddho’ti maṁ dhāretha.
+
+This means: “I, friends, am pure. Remember me as pure.”
+
+Then in descending order of seniority, the other two bhikkhus follow suit, the only difference being that each says (also three times): Parisuddho ahaṁ bhante. Parisuddho’ti maṁ dhāretha.
+
+This changes “friends” to the more respectful “sirs.”
+
+Purity. If there are only two bhikkhus in the assembly, they simply declare their purity to each other, without a motion. The more senior bhikkhu, with his robe arranged over one shoulder, gets into the kneeling position and, with hands raised in añjali, says three times: Parisuddho ahaṁ āvuso. Parisuddho’ti maṁ dhārehi.
+
+This means: “I, friend, am pure. Remember me as pure.”
+
+The junior bhikkhu follows suit, with the difference that he says (again, three times): 89
+
+Parisuddho ahaṁ bhante. Parisuddho’ti maṁ dhāretha.
+
+This changes “friend” to “sir,” and the verb ending to the more respectful plural form.
+
+Determination. If there is only one bhikkhu, he should go to the place where the bhikkhus normally meet for the Uposatha—the Uposatha hall, a pavilion, or the root of a tree—should set out drinking water and washing water, should prepare a seat and light a lamp, and then sit down. If other bhikkhus happen to arrive, he should perform the Uposatha with them. If no other bhikkhus arrive, he should make the following determination:
+
+Ajja me uposatho. (Today is my Uposatha.)
+
+The Commentary notes that one may also add the word “ paṇṇaraso” (the fifteenth) or “ cātuddaso” (the fourteenth), as appropriate, to the end of the determination, but this is optional.
+
+90
+
+
+#+end_src
+
+* Pavāraṇā
+#+begin_src shell
+
+Pavāraṇā
+
+
+
+
+
+P R E L I M I N A R Y D U T I E S
+
+
+PAVfiRA≤fi-karaṇato pubbe nava-vidhaṁ pubba-kiccaṁ kātabbaṁ hoti: taṇṭhāna-
+
+sammajjanañ-ca; tattha padīp’ujjalanañ-ca; āsana-paññapanañ-ca; pānīya-paribhojanīyūpaṭṭha-91
+
+panañ-ca; chandārahānaṁ bhikkhūnaṁ chandāharaṇañ-ca; tesaññeva AKATA-
+
+PAVfiRA≤fiNAπ PAVfiRA≤ĀyA-PI āharaṇañ-ca; utukkhānañ-ca; bhikkhu-gaṇanā ca;
+
+bhikkhunīnam-ovādo cā’ti.
+
+Tattha purimesu catūsu kiccesu padīpa-kiccaṁ idāni suriya-lokassa atthitāya n’atthi. Aparāni tīṇi bhikkhūnaṁ vattaṁ jānantehi bhikkhūhi katāni pariniṭṭhitāni honti. Chandāharaṇa PAVfiRA≤fi-
+
+āharaṇāni pana imissaṁ sīmāyaṁ hattha-pāsaṁ vijahitvā nisinnānaṁ bhikkhūnaṁ abhāvato n’atthi.
+
+Utukkhānaṁ nāma, ettakaṁ atikkantaṁ ettakaṁ avasiṭṭhanti evaṁ utu-ācikkhanaṁ. Utūnīdha pana sāsane hemanta-gimha-vassānānaṁ vasena tīṇi honti. Ayaṁ vassānotu. Imasmiñ-ca utumhi 92
+
+satta ca uposathā ekā ca pavāraṇā. [Iminā pakkhena: EKfi PAVfiRA≤fi SAMPATTfi, pañca uposathā atikkantā, dve uposathā avasiṭṭhā.] 1 Iti evaṁ sabbehi āyasmantehi utukkhānaṁ
+
+dhāretabbam. ( Evaṁ, bhante )
+
+Bhikkhu-gaṇanā nāma imasmiṁ PAVfiRA≤’AGGE PAVfiRA≤ATTHĀyA sannipatitā
+
+bhikkhū ettakāti bhikkhūnaṁ gaṇanā. Imasmim-pana PAVfiRA≤’AGGE pañca bhikkhū
+
+sannipatitā honti. Iti sabbehi āyasmantehi bhikkhu-gaṇanā-pi dhāretabbā. ( Evaṁ, bhante ) Bhikkhunīnam-ovādo pana idāni tāsaṁ natthitāya n’atthi.
+
+Iti sakaraṇ’okāsānaṁ pubba-kiccānaṁ katattā, nikkaraṇ’okāsānaṁ pubba-kiccānaṁ pakatiyā
+
+93
+
+pariniṭṭhitattā. Evan-taṁ nava-vidhaṁ pubba-kiccaṁ pariniṭṭhitaṁ hoti.
+
+Niṭṭhite ca pubba-kicce, sace so divaso cātuddasī-paṇṇarasī-sāmaggīnamaññataro yathājja PAVfiRA≤fi PA≤≤ARASÊ [CfiTUDDASÊ], yāvatikā ca bhikkhū kammappattā SA∫GHA-
+
+PAVfiRA≤fiRAHfi, PAÑCA vā tato vā atirekā pakatattā pārājikaṁ anāpannā saṅghena vā
+
+anukkhittā, te ca kho hatthapāsaṁ avijahitvā eka-sīmāyaṁ ṭhitā, tesañ-ca vikāla-bhojanādivasena vatthu-sabhāgāpattiyo ce na vijjanti, tesañ-ca hatthapāse hatthapāsato bahikaraṇavasena vajjetabbo koci vajjanīya-puggalo ce n’atthi.
+
+Evan-taṁ PAVfiRA≤fi-kammaṁ imehi catūhi lakkhaṇehi saṅgahitaṁ pattakallaṁ nāma hoti, 94
+
+kātuṁ yuttarūpam. PAVfiRA≤fi-kammassa patta-kallattaṁ viditvā idāni KARIYAMfiNfi PAVfiRA≤fi saṅghena ANUMfiNETABBfi. ( Sādhu, bhante )
+
+NOTE: 1. If the rainy season has an additional month, the statement in brackets should be:
+
+Iminā pakkhena—EKfi PAVfiRA≤fi SAMPATTfi, satta uposathā atikkantā, dve uposathā
+
+avasiṭṭhā.
+
+If the Community is holding a delayed Pavāraṇā, the telling of the season should be changed to fit the case.
+
+The motion for the Pavāraṇā, unlike the recitation of the Pāṭimokkha, is not entrusted to the senior bhikkhu. Thus, if a junior bhikkhu is making the motion, there is no need for the senior bhikkhu to state a formal request (ajjhesanā) for him to do so.
+
+
+
+
+
+T H E M O T I O N
+
+
+Suṇātu me bhante saṅgho. Ajja pavāraṇā paṇṇarasī [cātuddasī]. Yadi saṅghassa pattakallaṁ, 95
+
+saṅgho te-vācikaṁ pavāreyya.
+
+“Venerable sirs, may the Community listen to me. Today is the Invitation day on the fifteenth [fourteenth]. If the Community is ready, the Community should invite with three statements.”
+
+If the Invitation is a harmony Invitation, change “paṇṇarasī” to “sāmaggī.”
+
+If each bhikkhu is to state his invitation twice, “ te-vācikaṁ” should be changed to “ dve-vācikaṁ.” If once, to “ eka-vācikaṁ.”
+
+T H E I N V I T A T I O N
+
+Senior bhikkhu: Saṅghaṁ āvuso pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā, vadantu maṁ
+
+āyasmanto anukampaṁ upādāya. Passanto paṭikkarissāmi.
+
+Dutiyam-pi āvuso saṅghaṁ pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā, vadantu maṁ
+
+āyasmanto anukampaṁ upādāya. Passanto paṭikkarissāmi.
+
+96
+
+Tatiyam-pi āvuso saṅghaṁ pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā, vadantu maṁ
+
+āyasmanto anukampaṁ upādāya. Passanto paṭikkarissāmi.
+
+“Friends, I invite the Community. With regard to what is seen, heard, or suspected, may you speak to me out of sympathy. On seeing (the offense) I will make amends. A second time…. A third time, friends, I invite the Community…. On seeing (the offense) I will make amends.”
+
+The remaining bhikkhus then state their invitations in line with seniority, changing “Saṅghaṁ āvuso” to “Saṅgham-bhante,” and
+
+“āvuso” to “bhante” —i.e., “friends” to “venerable sirs,” thus:
+
+Saṅgham-bhante pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā, vadantu maṁ āyasmanto anukampaṁ upādāya. Passanto paṭikkarissāmi.
+
+Dutiyam-pi bhante saṅghaṁ pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā, vadantu maṁ
+
+āyasmanto anukampaṁ upādāya. Passanto paṭikkarissāmi.
+
+Tatiyam-pi bhante saṅghaṁ pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā, vadantu maṁ
+
+97
+
+āyasmanto anukampaṁ upādāya. Passanto paṭikkarissāmi.
+
+#+end_src
+
+* Conveying an Invitation
+#+begin_src shell
+
+Conveying an Invitation
+
+If a bhikkhu living in the territory is too ill to attend the Pavāraṇā, he must give his invitation instead of his purity. The rules surrounding the giving and conveying of an invitation are the same as those surrounding the giving and conveying of purity, with two exceptions: 1) In the case where the bhikkhu giving his invitation is senior to the bhikkhu conveying it, he says: Pavāraṇaṁ dammi. Pavāraṇaṁ me hara. Mam’atthāya pavārehi.
+
+This means: “I give (my) invitation. Convey my invitation. Invite on my behalf.”
+
+98
+
+If the bhikkhu giving his invitation is junior to the bhikkhu conveying it, the Vinaya-mukha states that he should say: Pavāraṇaṁ dammi. Pavāraṇaṁ me haratha. Mam’atthāya pavāretha.
+
+2) The Commentary says that the bhikkhu conveying the invitation, instead of simply announcing it to the assembly, must actually invite on behalf of the ill bhikkhu when that bhikkhu’s turn comes in order of seniority. If he is junior to the bhikkhu whose invitation he is conveying, he says:
+
+Āyasmā bhante [Itthannāmo] saṅghaṁ pavāreti. Diṭṭhena vā sutena vā parisaṅkāya vā, vadatu taṁ bhante saṅgho anukampaṁ upādāya, passanto paṭikkarissati. Dutiyam-pi bhante Āyasmā
+
+[Itthannāmo] saṅghaṁ pavāreti. Diṭṭhena vā sutena vā parisaṅkāya vā, vadatu taṁ bhante saṅgho anukampaṁ upādāya, passanto paṭikkarissati. Tatiyam-pi bhante Āyasmā [Itthannāmo] saṅghaṁ
+
+pavāreti. Diṭṭhena vā sutena vā parisaṅkāya vā, vadatu taṁ bhante saṅgho anukampaṁ upādāya, passanto paṭikkarissati.
+
+99
+
+This means: “Venerable sirs, Ven. [name] invites the Community. With regard to what is seen, heard, or suspected, venerable sirs, may the Community speak to him out of sympathy. On seeing (the offense), he will make amends. A second time, venerable sirs, Ven. [name] invites the Community…. A third time, venerable sirs, Ven. [name] invites the Community…. On seeing (the offense), he will make amends.”
+
+If the bhikkhu conveying the invitation is senior to the bhikkhu whose invitation he is conveying, he says:
+
+[Itthannāmo] bhante bhikkhu saṅghaṁ pavāreti. Diṭṭhena vā sutena vā parisaṅkāya vā, vadatu
+
+taṁ bhante saṅgho anukampaṁ upādāya, passanto paṭikkarissati. Dutiyam-pi bhante
+
+[Itthannāmo] bhikkhu saṅghaṁ pavāreti. Diṭṭhena vā sutena vā parisaṅkāya vā, vadatu taṁ bhante saṅgho anukampaṁ upādāya, passanto paṭikkarissati. Tatiyam-pi bhante [Itthannāmo] bhikkhu saṅghaṁ pavāreti. Diṭṭhena vā sutena vā parisaṅkāya vā, vadatu taṁ bhante saṅgho anukampaṁ
+
+upādāya, passanto paṭikkarissati. Passanto paṭikkarissati.
+
+This means: “Venerable sirs, Bhikkhu [name] invites the Community. With regard to what is seen, heard, or suspected, venerable sirs, may the Community speak to him out of sympathy. On seeing (the offense), he will make amends. A second time, venerable sirs, Bhikkhu [name]
+
+100
+
+invites the Community…. A third time, venerable sirs, Bhikkhu [name] invites the Community…. On seeing (the offense), he will make amends.”
+
+The Vinaya-mukha recommends adding the word “ gilāno” (ill), after “ Itthannāmo” in each case, to inform the Community as to why the bhikkhu in question has not come to the Invitation, but this is optional.
+
+As with the Uposatha, if the Community is going to use the meeting to perform any other business in addition to the Pavāraṇā, they will require the ill bhikkhu’s consent as well.
+
+
+#+end_src
+
+* Group and Individual Pavāraṇā
+#+begin_src shell
+
+Group & Individual Pavāraṇā
+
+Mutual Invitation. If the assembly contains four bhikkhus, the motion is: Suṇantu me āyasmanto. Ajja pavāraṇā paṇṇarasī [cātuddasī]. Yad’āyasmantānaṁ pattakallaṁ, mayaṁ aññam-aññaṁ pavāreyyāma.
+
+This means: “Listen to me, sirs. Today is the Invitation day on the fifteenth [fourteenth]. If you are ready, we should invite one another.”
+
+The bhikkhus should then invite one another, in line with seniority. Because there are so few of them, each should invite three times: 101
+
+Ahaṁ āvuso [bhante] āyasmante pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā, vadantu maṁ
+
+āyasmanto anukampaṁ upādāya. Passanto paṭikkarissāmi.
+
+Dutiyam-pi āvuso [bhante] āyasmante pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā, vadantu
+
+maṁ āyasmanto anukampaṁ upādāya. Passanto paṭikkarissāmi.
+
+Tatiyam-pi āvuso [bhante] āyasmante pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā, vadantu maṁ āyasmanto anukampaṁ upādāya. Passanto paṭikkarissāmi.
+
+This means: “Friends [venerable sirs], I invite you. With regard to what is seen, heard, or suspected, may you speak to me out of sympathy.
+
+On seeing (the offense) I will make amends. A second time…. A third time, friends [venerable sirs], I invite you…. On seeing (the offense) I will make amends.”
+
+If the assembly contains three bhikkhus, they follow the same procedure as for four, except that āyasmanto is changed to āyasmantā, both in the motion and in the invitation, as is appropriate when addressing two rather than three people.
+
+If the assembly contains only two bhikkhus, they do not make a motion. Each simply invites the other, saying: Ahaṁ āvuso [bhante] āyasmantaṁ pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā, vadatu maṁ āyasmā anukampaṁ upādāya. Passanto paṭikkarissāmi.
+
+Dutiyam-pi āvuso [bhante] āyasmantaṁ pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā, vadatu maṁ āyasmā anukampaṁ upādāya. Passanto paṭikkarissāmi.
+
+Tatiyam-pi āvuso [bhante] āyasmantaṁ pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā, vadatu maṁ āyasmā anukampaṁ upādāya. Passanto paṭikkarissāmi.
+
+Determination. If the assembly consists of only one bhikkhu, he is to prepare the place as he would for determining an Uposatha observance.
+
+When he is sure that no one is coming, he may determine his Invitation:
+
+Ajja me pavāraṇā. (Today is my Invitation.)
+
+As with the Uposatha, the Commentary recommends adding “ paṇṇarasī” (the fifteenth) or “ cātuddasī” (the fourteenth) at the end of the determination, but this is optional.
+#+end_src

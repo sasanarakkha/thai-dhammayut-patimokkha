@@ -1,0 +1,3 @@
+#+title: Thai (Dhammayut) Pāṭimokkha
+
+The Thai Dhammayut version of the Bhikkhupāṭimokkha with Ajahn Ṭhānissaro's English translation. Producable in PDF and EPUB formats.
