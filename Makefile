@@ -15,13 +15,13 @@ NINECOLORS_URL = https://mirrors.ctan.org/macros/latex/contrib/ninecolors.zip
 
 
 # EPUB varaibles derived from https://github.com/daniel-j/epubmake
-RELEASENAME   := "Bhikkhupātimokkha"
+RELEASENAME   := "Thai Dhammayut Bhikkhupātimokkha"
 CURRENTEPUB   := ./manuscript/current-patimokkha.epub
 SOURCE        := ./manuscript/
 EXTRACTSOURCE := ./
-EPUBFILE      := ./build/Bhikkhupātimokkha.epub
-KINDLEFILE    := ./build/Bhikkhupātimokkha.mobi
-AZW3FILE      := ./build/Bhikkhupātimokkha.azw3
+EPUBFILE      := ./build/Thai\ Dhammayut\ Bhikkhupātimokkha.epub
+KINDLEFILE    := ./build/Thai\ Dhammayut\ Bhikkhupātimokkha.mobi
+AZW3FILE      := ./build/Thai\ Dhammayut\ Bhikkhupātimokkha.azw3
 
 
 EPUBCHECK := ./assets/tools/epubcheck/epubcheck.jar
@@ -66,7 +66,7 @@ dist:
 
 pdf:
 	@echo "Tangling org document..."
-	@org-tangle ./patimokkha.tex.org
+	@org-tangle ./thai-dhammayut-patimokkha.tex.org
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 	@mkdir -p ./build
 	mv -f $(FILE).pdf "./build/Bhikkhupātimokkha.pdf"
@@ -77,7 +77,7 @@ pdf:
 
 pdf2x:
 	@echo "Tangling org document..."
-	@org-tangle ./patimokkha.tex.org
+	@org-tangle ./thai-dhammayut-patimokkha.tex.org
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 	@echo "Second run..."
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
