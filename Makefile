@@ -69,7 +69,7 @@ pdf:
 	@org-tangle ./thai-dhammayut-patimokkha.tex.org
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 	@mkdir -p ./build
-	mv -f $(FILE).pdf "./build/Bhikkhupātimokkha.pdf"
+	mv -f $(FILE).pdf "./build/Thai Dhammayut Bhikkhupātimokkha.pdf"
 
 
 #-----------------------------------------------------------------------------------------#
@@ -82,7 +82,7 @@ pdf2x:
 	@echo "Second run..."
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 	@mkdir -p ./build
-	mv -f $(FILE).pdf "./build/Bhikkhupātimokkha.pdf"
+	mv -f $(FILE).pdf "./build/Thai Dhammayut Bhikkhupātimokkha.pdf"
 
 
 #-----------------------------------------------------------------------------------------#
@@ -100,12 +100,6 @@ pdfrequirements:
 	@mv "tabularray" "ninecolors" $(TEXMFHOME)/tex
 	@rm -rf "tabularray.zip" "ninecolors.zip"
 	@echo "Completed."
-
-
-#-----------------------------------------------------------------------------------------#
-
-
-
 
 
 #-----------------------------------------------------------------------------------------#
