@@ -19,9 +19,9 @@ RELEASENAME   := "Thai Dhammayut Bhikkhupātimokkha"
 CURRENTEPUB   := ./manuscript/current-patimokkha.epub
 SOURCE        := ./manuscript/
 EXTRACTSOURCE := ./
-EPUBFILE      := ./build/Thai\ Dhammayut\ Bhikkhupātimokkha.epub
-KINDLEFILE    := ./build/Thai\ Dhammayut\ Bhikkhupātimokkha.mobi
-AZW3FILE      := ./build/Thai\ Dhammayut\ Bhikkhupātimokkha.azw3
+EPUBFILE      := ./build/Thai Dhammayut Bhikkhupātimokkha.epub
+KINDLEFILE    := ./build/Thai Dhammayut Bhikkhupātimokkha.mobi
+AZW3FILE      := ./build/Thai Dhammayut Bhikkhupātimokkha.azw3
 
 
 EPUBCHECK := ./assets/tools/epubcheck/epubcheck.jar
