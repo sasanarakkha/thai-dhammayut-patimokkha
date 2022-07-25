@@ -216,7 +216,7 @@ Suṇātu me bhante [āvuso] saṅgho. Ajj’uposatho paṇṇaraso [cātuddaso]
 
 Kiṁ saṅghassa pubba-kiccaṁ?
 
-Pārisuddhiṁ āyasmanto ārocetha. Pāṭimokkhaṁ uddisissāmi. Taṁ sabbeva santā sādhukaṁ suṇoma manasikaroma. Yassa siyā āpatti, so āvikareyya. Asantiyā āpattiyā tuṇhī bhavitabbaṁ. Tuṇhī-bhāvena kho pan’āyasmante parisuddhā ti vedissāmi.
+Pārisuddhiṁ āyasmanto ārocetha. Pāṭimokkhaṁ uddisissāmi. Taṁ sabb'eva santā sādhukaṁ suṇoma manasikaroma. Yassa siyā āpatti, so āvikareyya. Asantiyā āpattiyā tuṇhī bhavitabbaṁ. Tuṇhī-bhāvena kho pan’āyasmante parisuddhā ti vedissāmi.
 
 Yathā kho pana pacceka-puṭṭhassa veyyākaraṇaṁ hoti. Evam-evaṁ evarūpāya parisāya yāva-tatiyaṁ anussāvitaṁ hoti. Yo pana bhikkhu yāva-tatiyaṁ anussāviyamāne saramāno santiṁ āpattiṁ n’āvikareyya, sampajāna-musāvād’assa hoti. Sampajāna-musāvādo kho pan’āyasmanto antarāyiko dhammo vutto bhagavatā. Tasmā saramānena bhikkhunā āpannena visuddh’āpekkhena santī āpatti āvikātabbā. āvikatā hi’ssa phāsu hoti.
 
@@ -257,7 +257,7 @@ Yo pana bhikkhu bhikkhūnaṁ sikkhā-sājīva-samāpanno, sikkhaṁ appaccakkh�
 \subsection*{\hyperref[disq2]{Pārājika 2: Adinn'ādānasikkhāpadaṁ}}
 \label{par2}
 
-Yo pana bhikkhu sañcicca manussa-viggahaṁ jīvitā voropeyya, satthahārakaṁ v'āssa pariyeseyya, maraṇa-vaṇṇaṁ vā saṁvaṇṇeyya, maraṇāya vā samādapeyya, “Ambho purisa kiṁ tuyh’iminā pāpakena dujjīvitena? Matan-te jīvitā seyyo” ti. Iti cittamano citta-saṅkappo aneka-pariyāyena maraṇa-vaṇṇaṁ vā saṁvaṇṇeyya, maraṇāya vā samādapeyya: ayam'pi pārājiko hoti asaṁvāso.
+Yo pana bhikkhu sañcicca manussa-viggahaṁ jīvitā voropeyya, satthahārakaṁ vā'ssa pariyeseyya, maraṇa-vaṇṇaṁ vā saṁvaṇṇeyya, maraṇāya vā samādapeyya, “Ambho purisa kiṁ tuyh’iminā pāpakena dujjīvitena? Matan-te jīvitā seyyo” ti. Iti cittamano citta-saṅkappo aneka-pariyāyena maraṇa-vaṇṇaṁ vā saṁvaṇṇeyya, maraṇāya vā samādapeyya: ayam'pi pārājiko hoti asaṁvāso.
 
 #+end_src
 
