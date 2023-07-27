@@ -13,8 +13,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: bergentroll/sasanarakkha-build-ebooks-action@v1
+      - uses: sasanarakkha/document-build-actions@v1
         with:
           build_epub: false
-          build_mobi: false
-          build_azw3: false
+          validate_epub: false
