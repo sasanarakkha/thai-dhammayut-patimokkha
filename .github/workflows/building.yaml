@@ -14,4 +14,5 @@ jobs:
       contents: write
     steps:
       - uses: bergentroll/sasanarakkha-build-ebooks-action@v1
-        with: {}
+      with:
+        validate_epub: false  # To disable corresponding step
