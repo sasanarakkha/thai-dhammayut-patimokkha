@@ -18,3 +18,6 @@ jobs:
           validate_epub: false
           validate_mobi: false
           validate_azw3: false
+          make_epub: false
+          make_mobi: false
+          make_azw3: false
