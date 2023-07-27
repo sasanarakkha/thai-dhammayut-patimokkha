@@ -16,3 +16,5 @@ jobs:
       - uses: bergentroll/sasanarakkha-build-ebooks-action@v1
         with:
           build_epub: false
+          build_mobi: false
+          build_azw3: false
