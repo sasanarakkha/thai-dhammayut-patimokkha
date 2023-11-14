@@ -2133,11 +2133,9 @@ Parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṁ dhārayāmi.
 \end{intro}
 
 \setsubsecheadstyle{\subsectionFmt}
-\subsection{Parimaṇḍalavaggo}
-\vspace{0.2cm}
 
 \pdfbookmark[3]{Sekhiya 1 \& 2}{sekh1-2}
-\subsubsection*{\hyperref[training1-2]{Sekhiya 1 \& 2: Parimaṇḍalasikkhāpadaṁ}}
+\subsection*{\hyperref[training1-2]{Sekhiya 1 \& 2: Parimaṇḍalasikkhāpadaṁ}}
 \label{sekh1-2}
 Parimaṇḍalaṁ nivāsessāmī'ti, sikkhā karaṇīyā.\\
 Parimaṇḍalaṁ pārupissāmī'ti sikkhā karaṇīyā.
@@ -2148,7 +2146,7 @@ Parimaṇḍalaṁ pārupissāmī'ti sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 3 \& 4}{sekh3-4}
-\subsubsection*{\hyperref[training3-4]{Sekhiya 3 \& 4: Suppaṭicchannasikkhāpadaṁ}}
+\subsection*{\hyperref[training3-4]{Sekhiya 3 \& 4: Suppaṭicchannasikkhāpadaṁ}}
 \label{sekh3-4}
 Supaṭicchanno antara-ghare gamissāmī'ti, sikkhā karaṇīyā.\\
 Supaṭicchanno antara-ghare nisīdissāmī'ti, sikkhā karaṇīyā.
@@ -2159,7 +2157,7 @@ Supaṭicchanno antara-ghare nisīdissāmī'ti, sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 5 \& 6}{sekh5-6}
-\subsubsection*{\hyperref[training5-6]{Sekhiya 5 \& 6: Susaṁvutasikkhāpadaṁ}}
+\subsection*{\hyperref[training5-6]{Sekhiya 5 \& 6: Susaṁvutasikkhāpadaṁ}}
 \label{sekh5-6}
 Susaṁvuto antara-ghare gamissāmī'ti sikkhā karaṇīyā.\\
 Susaṁvuto antara-ghare nisīdissāmī'ti sikkhā karaṇīyā.
@@ -2170,7 +2168,7 @@ Susaṁvuto antara-ghare nisīdissāmī'ti sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 7 \& 8}{sekh7-8}
-\subsubsection*{\hyperref[training7-8]{Sekhiya 7 \& 8: Okkhittacakkhusikkhāpadaṁ}}
+\subsection*{\hyperref[training7-8]{Sekhiya 7 \& 8: Okkhittacakkhusikkhāpadaṁ}}
 \label{sekh7-8}
 Okkhitta-cakkhu antara-ghare gamissāmī'ti sikkhā karaṇīyā.\\
 Okkhitta-cakkhu antara-ghare nisīdissāmī'ti sikkhā karaṇīyā.
@@ -2181,7 +2179,7 @@ Okkhitta-cakkhu antara-ghare nisīdissāmī'ti sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 9 \& 10}{sekh9-10}
-\subsubsection*{\hyperref[training9-10]{Sekhiya 9 \& 10: Ukkhittakasikkhāpadaṁ}}
+\subsection*{\hyperref[training9-10]{Sekhiya 9 \& 10: Ukkhittakasikkhāpadaṁ}}
 \label{sekh9-10}
 Na ukkhittakāya antara-ghare gamissāmī'ti, sikkhā karaṇīyā.\\
 Na ukkhittakāya antara-ghare nisīdissāmī'ti, sikkhā karaṇīyā.
@@ -2191,11 +2189,8 @@ Na ukkhittakāya antara-ghare nisīdissāmī'ti, sikkhā karaṇīyā.
 *** Sekhiya 11 & 12: Ujjagghikasikkhāpadaṁ
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
-\subsection{Ujjagghikavaggo}
-\vspace{0.2cm}
-
 \pdfbookmark[3]{Sekhiya 11 \& 12}{sekh11-12}
-\subsubsection*{\hyperref[training11-12]{Sekhiya 11 \& 12: Ujjagghikasikkhāpadaṁ}}
+\subsection*{\hyperref[training11-12]{Sekhiya 11 \& 12: Ujjagghikasikkhāpadaṁ}}
 \label{sekh11-12}
 Na ujjagghikāya antara-ghare gamissāmī'ti, sikkhā karaṇīyā.\\
 Na ujjagghikāya antara-ghare nisīdissāmī'ti, sikkhā karaṇīyā.
@@ -2206,7 +2201,7 @@ Na ujjagghikāya antara-ghare nisīdissāmī'ti, sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 13 \& 14}{sekh13-14}
-\subsubsection*{\hyperref[training13-14]{Sekhiya 13 \& 14: Uccasaddasikkhāpadaṁ}}
+\subsection*{\hyperref[training13-14]{Sekhiya 13 \& 14: Uccasaddasikkhāpadaṁ}}
 \label{sekh13-14}
 Appasaddo antara-ghare gamissāmī'ti sikkhā karaṇīyā.\\
 Appasaddo antara-ghare nisīdissāmī'ti sikkhā karaṇīyā.
@@ -2217,7 +2212,7 @@ Appasaddo antara-ghare nisīdissāmī'ti sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 15 \& 16}{sekh15-16}
-\subsubsection*{\hyperref[training15-16]{Sekhiya 15 \& 16: Kāyappacālakasikkhāpadaṁ}}
+\subsection*{\hyperref[training15-16]{Sekhiya 15 \& 16: Kāyappacālakasikkhāpadaṁ}}
 \label{sekh15-16}
 Na kāyappacālakaṁ antara-ghare gamissāmī'ti sikkhā karaṇīyā.\\
 Na kāyappacālakaṁ antara-ghare nisīdissāmī'ti sikkhā karaṇīyā.
@@ -2228,7 +2223,7 @@ Na kāyappacālakaṁ antara-ghare nisīdissāmī'ti sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 17 \& 18}{sekh17-18}
-\subsubsection*{\hyperref[training17-18]{Sekhiya 17 \& 18: Bāhuppacālakasikkhāpadaṁ}}
+\subsection*{\hyperref[training17-18]{Sekhiya 17 \& 18: Bāhuppacālakasikkhāpadaṁ}}
 \label{sekh17-18}
 Na bāhuppacālakaṁ antara-ghare gamissāmī'ti sikkhā karaṇīyā.\\
 Na bāhuppacālakaṁ antara-ghare nisīdissāmī'ti sikkhā karaṇīyā.
@@ -2239,7 +2234,7 @@ Na bāhuppacālakaṁ antara-ghare nisīdissāmī'ti sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 19 \& 20}{sekh19-20}
-\subsubsection*{\hyperref[training19-20]{Sekhiya 19 \& 20: Sīsappacālakasikkhāpadaṁ}}
+\subsection*{\hyperref[training19-20]{Sekhiya 19 \& 20: Sīsappacālakasikkhāpadaṁ}}
 \label{sekh19-20}
 Na sīsappacālakaṁ antara-ghare gamissāmī'ti sikkhā karaṇīyā.\\
 Na sīsappacālakaṁ antara-ghare nisīdissāmī'ti sikkhā karaṇīyā.
@@ -2251,7 +2246,7 @@ Na sīsappacālakaṁ antara-ghare nisīdissāmī'ti sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 21 \& 22}{sekh21-22}
-\subsubsection*{\hyperref[training21-22]{Sekhiya 21 \& 22: Khambhakatasikkhāpadaṁ}}
+\subsection*{\hyperref[training21-22]{Sekhiya 21 \& 22: Khambhakatasikkhāpadaṁ}}
 \label{sekh21-22}
 Na khambhakato antara-ghare gamissāmī'ti, sikkhā karaṇīyā.\\
 Na khambhakato antara-ghare nisīdissāmī'ti, sikkhā karaṇīyā.
@@ -2262,7 +2257,7 @@ Na khambhakato antara-ghare nisīdissāmī'ti, sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 23 \& 24}{sekh23-24}
-\subsubsection*{\hyperref[training23-24]{Sekhiya 23 \& 24: Oguṇṭhitasikkhāpadaṁ}}
+\subsection*{\hyperref[training23-24]{Sekhiya 23 \& 24: Oguṇṭhitasikkhāpadaṁ}}
 \label{sekh23-24}
 Na oguṇṭhito antara-ghare gamissāmī'ti sikkhā karaṇīyā.\\
 Na oguṇṭhito antara-ghare nisīdissāmī'ti sikkhā karaṇīyā.
@@ -2273,7 +2268,7 @@ Na oguṇṭhito antara-ghare nisīdissāmī'ti sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 25}{sekh25}
-\subsubsection*{\hyperref[training25]{Sekhiya 25: Ukkuṭikasikkhāpadaṁ}}
+\subsection*{\hyperref[training25]{Sekhiya 25: Ukkuṭikasikkhāpadaṁ}}
 \label{sekh25}
 Na ukkuṭikāya antara-ghare gamissāmī'ti, sikkhā karaṇīyā.
 
@@ -2283,7 +2278,7 @@ Na ukkuṭikāya antara-ghare gamissāmī'ti, sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 26}{sekh26}
-\subsubsection*{\hyperref[training26]{Sekhiya 26: Pallatthikasikkhāpadaṁ}}
+\subsection*{\hyperref[training26]{Sekhiya 26: Pallatthikasikkhāpadaṁ}}
 \label{sekh26}
 Na pallatthikāya antara-ghare nisīdissāmī'ti, sikkhā karaṇīyā.
 
@@ -2297,7 +2292,7 @@ Na pallatthikāya antara-ghare nisīdissāmī'ti, sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 27}{sekh27}
-\subsubsection*{\hyperref[training27]{Sekhiya 27: Sakkaccapaṭiggahaṇasikkhāpadaṁ}}
+\subsection*{\hyperref[training27]{Sekhiya 27: Sakkaccapaṭiggahaṇasikkhāpadaṁ}}
 \label{sekh27}
 Sakkaccaṁ piṇḍapātaṁ paṭiggahessāmī'ti sikkhā karaṇīyā.
 
@@ -2307,7 +2302,7 @@ Sakkaccaṁ piṇḍapātaṁ paṭiggahessāmī'ti sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 28}{sekh28}
-\subsubsection*{\hyperref[training28]{Sekhiya 28: Pattasaññīpaṭiggahaṇasikkhāpadaṁ}}
+\subsection*{\hyperref[training28]{Sekhiya 28: Pattasaññīpaṭiggahaṇasikkhāpadaṁ}}
 \label{sekh28}
 Pattasaññī piṇḍapātaṁ paṭiggahessāmī'ti sikkhā karaṇīyā.
 
@@ -2317,7 +2312,7 @@ Pattasaññī piṇḍapātaṁ paṭiggahessāmī'ti sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 29}{sekh29}
-\subsubsection*{\hyperref[training29]{Sekhiya 29: Samasūpakapaṭiggahaṇasikkhāpadaṁ}}
+\subsection*{\hyperref[training29]{Sekhiya 29: Samasūpakapaṭiggahaṇasikkhāpadaṁ}}
 \label{sekh29}
 Samasūpakaṁ piṇḍapātaṁ paṭiggahessāmī'ti sikkhā karaṇīyā.
 
@@ -2327,7 +2322,7 @@ Samasūpakaṁ piṇḍapātaṁ paṭiggahessāmī'ti sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 30}{sekh30}
-\subsubsection*{\hyperref[training30]{Sekhiya 30: Samatitthikasikkhāpadaṁ}}
+\subsection*{\hyperref[training30]{Sekhiya 30: Samatitthikasikkhāpadaṁ}}
 \label{sekh30}
 Samatitthikaṁ piṇḍapātaṁ paṭiggahessāmī'ti, sikkhā karaṇīyā.
 
@@ -2338,7 +2333,7 @@ Samatitthikaṁ piṇḍapātaṁ paṭiggahessāmī'ti, sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 31}{sekh31}
-\subsubsection*{\hyperref[training31]{Sekhiya 31: Sakkaccabhuñjanasikkhāpadaṁ}}
+\subsection*{\hyperref[training31]{Sekhiya 31: Sakkaccabhuñjanasikkhāpadaṁ}}
 \label{sekh31}
 Sakkaccaṁ piṇḍapātaṁ bhuñjissāmī'ti sikkhā karaṇīyā.
 
@@ -2348,7 +2343,7 @@ Sakkaccaṁ piṇḍapātaṁ bhuñjissāmī'ti sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 32}{sekh32}
-\subsubsection*{\hyperref[training32]{Sekhiya 32: Pattasaññībhuñjanasikkhāpadaṁ}}
+\subsection*{\hyperref[training32]{Sekhiya 32: Pattasaññībhuñjanasikkhāpadaṁ}}
 \label{sekh32}
 Pattasaññī piṇḍapātaṁ bhuñjissāmī'ti, sikkhā karaṇīyā.
 
@@ -2358,7 +2353,7 @@ Pattasaññī piṇḍapātaṁ bhuñjissāmī'ti, sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 33}{sekh33}
-\subsubsection*{\hyperref[training33]{Sekhiya 33: Sapadānasikkhāpadaṁ}}
+\subsection*{\hyperref[training33]{Sekhiya 33: Sapadānasikkhāpadaṁ}}
 \label{sekh33}
 Sapadānaṁ piṇḍapātaṁ bhuñjissāmī'ti, sikkhā karaṇīyā.
 
@@ -2368,7 +2363,7 @@ Sapadānaṁ piṇḍapātaṁ bhuñjissāmī'ti, sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 34}{sekh34}
-\subsubsection*{\hyperref[training34]{Sekhiya 34: Samasūpakasikkhāpadaṁ}}
+\subsection*{\hyperref[training34]{Sekhiya 34: Samasūpakasikkhāpadaṁ}}
 \label{sekh34}
 Samasūpakaṁ piṇḍapātaṁ bhuñjissāmī'ti sikkhā karaṇīyā.
 
@@ -2378,7 +2373,7 @@ Samasūpakaṁ piṇḍapātaṁ bhuñjissāmī'ti sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 35}{sekh35}
-\subsubsection*{\hyperref[training35]{Sekhiya 35: Na-thūpakatasikkhāpadaṁ}}
+\subsection*{\hyperref[training35]{Sekhiya 35: Na-thūpakatasikkhāpadaṁ}}
 \label{sekh35}
 Na thūpakato omadditvā piṇḍapātaṁ bhuñjissāmī'ti, sikkhā karaṇīyā.
 
@@ -2388,7 +2383,7 @@ Na thūpakato omadditvā piṇḍapātaṁ bhuñjissāmī'ti, sikkhā karaṇīy
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 36}{sekh36}
-\subsubsection*{\hyperref[training36]{Sekhiya 36: Odanappaṭicchādanasikkhāpadaṁ}}
+\subsection*{\hyperref[training36]{Sekhiya 36: Odanappaṭicchādanasikkhāpadaṁ}}
 \label{sekh36}
 Na sūpaṁ vā byañjanaṁ vā odanena paṭicchādessāmi bhiyyokamyataṁ upādāyā'ti, sikkhā karaṇīyā.
 
@@ -2398,7 +2393,7 @@ Na sūpaṁ vā byañjanaṁ vā odanena paṭicchādessāmi bhiyyokamyataṁ up
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 37}{sekh37}
-\subsubsection*{\hyperref[training37]{Sekhiya 37: Sūpodanaviññattisikkhāpadaṁ}}
+\subsection*{\hyperref[training37]{Sekhiya 37: Sūpodanaviññattisikkhāpadaṁ}}
 \label{sekh37}
 Na sūpaṁ vā odanaṁ vā agilāno attano atthāya viññāpetvā bhuñjissāmī'ti, sikkhā karaṇīyā.
 
@@ -2408,7 +2403,7 @@ Na sūpaṁ vā odanaṁ vā agilāno attano atthāya viññāpetvā bhuñjissā
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 38}{sekh38}
-\subsubsection*{\hyperref[training38]{Sekhiya 38: Ujjhānasaññīsikkhāpadaṁ}}
+\subsection*{\hyperref[training38]{Sekhiya 38: Ujjhānasaññīsikkhāpadaṁ}}
 \label{sekh38}
 Na ujjhāna-saññī paresaṁ pattaṁ olokessāmī'ti, sikkhā karaṇīyā.
 
@@ -2418,7 +2413,7 @@ Na ujjhāna-saññī paresaṁ pattaṁ olokessāmī'ti, sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 39}{sekh39}
-\subsubsection*{\hyperref[training39]{Sekhiya 39: Kabaḷasikkhāpadaṁ}}
+\subsection*{\hyperref[training39]{Sekhiya 39: Kabaḷasikkhāpadaṁ}}
 \label{sekh39}
 N'ātimahantaṁ kabaḷaṁ karissāmī'ti, sikkhā karaṇīyā.
 
@@ -2428,25 +2423,17 @@ N'ātimahantaṁ kabaḷaṁ karissāmī'ti, sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 40}{sekh40}
-\subsubsection*{\hyperref[training40]{Sekhiya 40: Ālopasikkhāpadaṁ}}
+\subsection*{\hyperref[training40]{Sekhiya 40: Ālopasikkhāpadaṁ}}
 \label{sekh40}
 Parimaṇḍalaṁ ālopaṁ karissāmī'ti sikkhā karaṇīyā.
 
-\begin{center}
-  Sakkaccavaggo catuttho
-\end{center}
-
 #+end_src
 
-*** Anāhaṭavaggo
 *** Sekhiya 41: Anāhaṭasikkhāpadaṁ
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
-\subsection{Anāhaṭavaggo}
-\vspace{0.2cm}
-
 \pdfbookmark[3]{Sekhiya 41}{sekh41}
-\subsubsection*{\hyperref[training41]{Sekhiya 41: Anāhaṭasikkhāpadaṁ}}
+\subsection*{\hyperref[training41]{Sekhiya 41: Anāhaṭasikkhāpadaṁ}}
 \label{sekh41}
 Na anāhaṭe kavaḷe mukha-dvāraṁ vivarissāmī'ti, sikkhā karaṇīyā.
 
@@ -2456,7 +2443,7 @@ Na anāhaṭe kavaḷe mukha-dvāraṁ vivarissāmī'ti, sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 42}{sekh42}
-\subsubsection*{\hyperref[training42]{Sekhiya 42: Bhuñjamānasikkhāpadaṁ}}
+\subsection*{\hyperref[training42]{Sekhiya 42: Bhuñjamānasikkhāpadaṁ}}
 \label{sekh42}
 Na bhuñjamāno sabbaṁ hatthaṁ mukhe pakkhipissāmī'ti sikkhā karaṇīyā.
 
@@ -2466,7 +2453,7 @@ Na bhuñjamāno sabbaṁ hatthaṁ mukhe pakkhipissāmī'ti sikkhā karaṇīyā
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 43}{sekh43}
-\subsubsection*{\hyperref[training43]{Sekhiya 43: Sakabaḷasikkhāpadaṁ}}
+\subsection*{\hyperref[training43]{Sekhiya 43: Sakabaḷasikkhāpadaṁ}}
 \label{sekh43}
 Na sakavaḷena mukhena byāharissāmī'ti, sikkhā karaṇīyā.
 
@@ -2476,7 +2463,7 @@ Na sakavaḷena mukhena byāharissāmī'ti, sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 44}{sekh44}
-\subsubsection*{\hyperref[training44]{Sekhiya 44: Piṇḍukkhepakasikkhāpadaṁ}}
+\subsection*{\hyperref[training44]{Sekhiya 44: Piṇḍukkhepakasikkhāpadaṁ}}
 \label{sekh44}
 Na piṇḍ'ukkhepakaṁ bhuñjissāmī'ti sikkhā karaṇīyā.
 
@@ -2486,7 +2473,7 @@ Na piṇḍ'ukkhepakaṁ bhuñjissāmī'ti sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 45}{sekh45}
-\subsubsection*{\hyperref[training45]{Sekhiya 45: Kabaḷāvacchedakasikkhāpadaṁ}}
+\subsection*{\hyperref[training45]{Sekhiya 45: Kabaḷāvacchedakasikkhāpadaṁ}}
 \label{sekh45}
 Na kavaḷāvacchedakaṁ bhuñjissāmī'ti, sikkhā karaṇīyā.
 
@@ -2496,7 +2483,7 @@ Na kavaḷāvacchedakaṁ bhuñjissāmī'ti, sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 46}{sekh46}
-\subsubsection*{\hyperref[training46]{Sekhiya 46: Avagaṇḍakārakasikkhāpadaṁ}}
+\subsection*{\hyperref[training46]{Sekhiya 46: Avagaṇḍakārakasikkhāpadaṁ}}
 \label{sekh46}
 Na avagaṇḍa-kārakaṁ bhuñjissāmī'ti sikkhā karaṇīyā.
 
@@ -2506,7 +2493,7 @@ Na avagaṇḍa-kārakaṁ bhuñjissāmī'ti sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 47}{sekh47}
-\subsubsection*{\hyperref[training47]{Sekhiya 47: Hatthaniddhunakasikkhāpadaṁ}}
+\subsection*{\hyperref[training47]{Sekhiya 47: Hatthaniddhunakasikkhāpadaṁ}}
 \label{sekh47}
 Na hattha-niddhunakaṁ bhuñjissāmī'ti, sikkhā karaṇīyā.
 
@@ -2516,7 +2503,7 @@ Na hattha-niddhunakaṁ bhuñjissāmī'ti, sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 48}{sekh48}
-\subsubsection*{\hyperref[training48]{Sekhiya 48: Sitthāvakārakasikkhāpadaṁ}}
+\subsection*{\hyperref[training48]{Sekhiya 48: Sitthāvakārakasikkhāpadaṁ}}
 \label{sekh48}
 Na sitthāva-kārakaṁ bhuñjissāmī'ti, sikkhā karaṇīyā.
 
@@ -2526,7 +2513,7 @@ Na sitthāva-kārakaṁ bhuñjissāmī'ti, sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 49}{sekh49}
-\subsubsection*{\hyperref[training49]{Sekhiya 49: Jivhānicchārakasikkhāpadaṁ}}
+\subsection*{\hyperref[training49]{Sekhiya 49: Jivhānicchārakasikkhāpadaṁ}}
 \label{sekh49}
 Na jivhā-nicchārakaṁ bhuñjissāmī'ti sikkhā karaṇīyā.
 
@@ -2536,7 +2523,7 @@ Na jivhā-nicchārakaṁ bhuñjissāmī'ti sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 50}{sekh50}
-\subsubsection*{\hyperref[training50]{Sekhiya 50: Capucapukārakasikkhāpadaṁ}}
+\subsection*{\hyperref[training50]{Sekhiya 50: Capucapukārakasikkhāpadaṁ}}
 \label{sekh50}
 Na capu-capu-kārakaṁ bhuñjissāmī'ti sikkhā karaṇīyā.
 
@@ -2546,11 +2533,8 @@ Na capu-capu-kārakaṁ bhuñjissāmī'ti sikkhā karaṇīyā.
 *** Sekhiya 51: Surusurukārakasikkhāpadaṁ
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
-\subsection{Surusuruvaggo}
-\vspace{0.2cm}
-
 \pdfbookmark[3]{Sekhiya 51}{sekh51}
-\subsubsection*{\hyperref[training51]{Sekhiya 51: Surusurukārakasikkhāpadaṁ}}
+\subsection*{\hyperref[training51]{Sekhiya 51: Surusurukārakasikkhāpadaṁ}}
 \label{sekh51}
 Na suru-suru-kārakaṁ bhuñjissāmī'ti sikkhā karaṇīyā.
 
@@ -2560,7 +2544,7 @@ Na suru-suru-kārakaṁ bhuñjissāmī'ti sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 52}{sekh52}
-\subsubsection*{\hyperref[training52]{Sekhiya 52: Hatthanillehakasikkhāpadaṁ}}
+\subsection*{\hyperref[training52]{Sekhiya 52: Hatthanillehakasikkhāpadaṁ}}
 \label{sekh52}
 Na hattha-nillehakaṁ bhuñjissāmī'ti sikkhā karaṇīyā.
 
@@ -2570,7 +2554,7 @@ Na hattha-nillehakaṁ bhuñjissāmī'ti sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 53}{sekh53}
-\subsubsection*{\hyperref[training53]{Sekhiya 53: Pattanillehakasikkhāpadaṁ}}
+\subsection*{\hyperref[training53]{Sekhiya 53: Pattanillehakasikkhāpadaṁ}}
 \label{sekh53}
 Na patta-nillehakaṁ bhuñjissāmī'ti sikkhā karaṇīyā.
 
@@ -2580,7 +2564,7 @@ Na patta-nillehakaṁ bhuñjissāmī'ti sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 54}{sekh54}
-\subsubsection*{\hyperref[training54]{Sekhiya 54: Oṭṭhanillehakasikkhāpadaṁ}}
+\subsection*{\hyperref[training54]{Sekhiya 54: Oṭṭhanillehakasikkhāpadaṁ}}
 \label{sekh54}
 Na oṭṭha-nillehakaṁ bhuñjissāmī'ti, sikkhā karaṇīyā.
 
@@ -2590,7 +2574,7 @@ Na oṭṭha-nillehakaṁ bhuñjissāmī'ti, sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 55}{sekh55}
-\subsubsection*{\hyperref[training55]{Sekhiya 55: Sāmisasikkhāpadaṁ}}
+\subsection*{\hyperref[training55]{Sekhiya 55: Sāmisasikkhāpadaṁ}}
 \label{sekh55}
 Na sāmisena hatthena pānīya-thālakaṁ paṭiggahessāmī'ti, sikkhā karaṇīyā.
 
@@ -2600,7 +2584,7 @@ Na sāmisena hatthena pānīya-thālakaṁ paṭiggahessāmī'ti, sikkhā kara�
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 56}{sekh56}
-\subsubsection*{\hyperref[training56]{Sekhiya 56: Sasitthakasikkhāpadaṁ}}
+\subsection*{\hyperref[training56]{Sekhiya 56: Sasitthakasikkhāpadaṁ}}
 \label{sekh56}
 Na sasitthakaṁ patta-dhovanaṁ antara-ghare chaḍḍessāmī'ti, sikkhā karaṇīyā.
 
@@ -2614,7 +2598,7 @@ Na sasitthakaṁ patta-dhovanaṁ antara-ghare chaḍḍessāmī'ti, sikkhā kar
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 57}{sekh57}
-\subsubsection*{\hyperref[training57]{Sekhiya 57: Chattapāṇisikkhāpadaṁ}}
+\subsection*{\hyperref[training57]{Sekhiya 57: Chattapāṇisikkhāpadaṁ}}
 \label{sekh57}
 Na chatta-pāṇissa agilānassa dhammaṁ desessāmī'ti, sikkhā karaṇīyā.
 
@@ -2624,7 +2608,7 @@ Na chatta-pāṇissa agilānassa dhammaṁ desessāmī'ti, sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 58}{sekh58}
-\subsubsection*{\hyperref[training58]{Sekhiya 58: Daṇḍapāṇisikkhāpadaṁ}}
+\subsection*{\hyperref[training58]{Sekhiya 58: Daṇḍapāṇisikkhāpadaṁ}}
 \label{sekh58}
 Na daṇḍa-pāṇissa agilānassa dhammaṁ desessāmī'ti sikkhā karaṇīyā.
 
@@ -2634,7 +2618,7 @@ Na daṇḍa-pāṇissa agilānassa dhammaṁ desessāmī'ti sikkhā karaṇīy�
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 59}{sekh59}
-\subsubsection*{\hyperref[training59]{Sekhiya 59: Satthapāṇisikkhāpadaṁ}}
+\subsection*{\hyperref[training59]{Sekhiya 59: Satthapāṇisikkhāpadaṁ}}
 \label{sekh59}
 Na sattha-pāṇissa agilānassa dhammaṁ desessāmī'ti, sikkhā karaṇīyā.
 
@@ -2644,7 +2628,7 @@ Na sattha-pāṇissa agilānassa dhammaṁ desessāmī'ti, sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 60}{sekh60}
-\subsubsection*{\hyperref[training60]{Sekhiya 60: Āvudhapāṇisikkhāpadaṁ}}
+\subsection*{\hyperref[training60]{Sekhiya 60: Āvudhapāṇisikkhāpadaṁ}}
 \label{sekh60}
 Na āvudha-pāṇissa agilānassa dhammaṁ desessāmī'ti, sikkhā karaṇīyā.
 
@@ -2654,11 +2638,8 @@ Na āvudha-pāṇissa agilānassa dhammaṁ desessāmī'ti, sikkhā karaṇīyā
 *** Sekhiya 61: Pādukasikkhāpadaṁ
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
-\subsection{Pādukavaggo}
-\vspace{0.2cm}
-
 \pdfbookmark[3]{Sekhiya 61}{sekh61}
-\subsubsection*{\hyperref[training61]{Sekhiya 61: Pādukasikkhāpadaṁ}}
+\subsection*{\hyperref[training61]{Sekhiya 61: Pādukasikkhāpadaṁ}}
 \label{sekh61}
 Na pāduk'ārūḷhassa agilānassa dhammaṁ desessāmī'ti, sikkhā karaṇīyā.
 
@@ -2668,7 +2649,7 @@ Na pāduk'ārūḷhassa agilānassa dhammaṁ desessāmī'ti, sikkhā karaṇīy
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 62}{sekh62}
-\subsubsection*{\hyperref[training62]{Sekhiya 62: Upāhanasikkhāpadaṁ}}
+\subsection*{\hyperref[training62]{Sekhiya 62: Upāhanasikkhāpadaṁ}}
 \label{sekh62}
 Na upāhan'ārūḷhassa agilānassa dhammaṁ desessāmī'ti, sikkhā karaṇīyā.
 
@@ -2678,7 +2659,7 @@ Na upāhan'ārūḷhassa agilānassa dhammaṁ desessāmī'ti, sikkhā karaṇī
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 63}{sekh63}
-\subsubsection*{\hyperref[training63]{Sekhiya 63: Yānasikkhāpadaṁ}}
+\subsection*{\hyperref[training63]{Sekhiya 63: Yānasikkhāpadaṁ}}
 \label{sekh63}
 Na yāna-gatassa agilānassa dhammaṁ desessāmī'ti sikkhā karaṇīyā.
 
@@ -2688,7 +2669,7 @@ Na yāna-gatassa agilānassa dhammaṁ desessāmī'ti sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 64}{sekh64}
-\subsubsection*{\hyperref[training64]{Sekhiya 64: Sayanasikkhāpadaṁ}}
+\subsection*{\hyperref[training64]{Sekhiya 64: Sayanasikkhāpadaṁ}}
 \label{sekh64}
 Na sayana-gatassa agilānassa dhammaṁ desessāmī'ti sikkhā karaṇīyā.
 
@@ -2698,7 +2679,7 @@ Na sayana-gatassa agilānassa dhammaṁ desessāmī'ti sikkhā karaṇīyā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 65}{sekh65}
-\subsubsection*{\hyperref[training65]{Sekhiya 65: Pallatthikasikkhāpadaṁ}}
+\subsection*{\hyperref[training65]{Sekhiya 65: Pallatthikasikkhāpadaṁ}}
 \label{sekh65}
 Na pallatthikāya nisinnassa agilānassa dhammaṁ desessāmī'ti sikkhā karaṇīyā.
 
@@ -2708,7 +2689,7 @@ Na pallatthikāya nisinnassa agilānassa dhammaṁ desessāmī'ti sikkhā kara�
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 66}{sekh66}
-\subsubsection*{\hyperref[training66]{Sekhiya 66: Veṭhitasikkhāpadaṁ}}
+\subsection*{\hyperref[training66]{Sekhiya 66: Veṭhitasikkhāpadaṁ}}
 \label{sekh66}
 Na veṭhita-sīsassa agilānassa dhammaṁ desessāmī'ti, sikkhā karaṇīyā.
 
@@ -2718,7 +2699,7 @@ Na veṭhita-sīsassa agilānassa dhammaṁ desessāmī'ti, sikkhā karaṇīyā
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 67}{sekh67}
-\subsubsection*{\hyperref[training67]{Sekhiya 67: Oguṇṭhitasikkhāpadaṁ}}
+\subsection*{\hyperref[training67]{Sekhiya 67: Oguṇṭhitasikkhāpadaṁ}}
 \label{sekh67}
 Na oguṇṭhita-sīsassa agilānassa dhammaṁ desessāmī'ti sikkhā karaṇīyā.
 
@@ -2728,7 +2709,7 @@ Na oguṇṭhita-sīsassa agilānassa dhammaṁ desessāmī'ti sikkhā karaṇī
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 68}{sekh68}
-\subsubsection*{\hyperref[training68]{Sekhiya 68: Chamāsikkhāpadaṁ}}
+\subsection*{\hyperref[training68]{Sekhiya 68: Chamāsikkhāpadaṁ}}
 \label{sekh68}
 Na chamāyaṁ nisīditvā āsane nisinnassa agilānassa dhammaṁ desessāmī'ti, sikkhā karaṇīyā.
 
@@ -2738,7 +2719,7 @@ Na chamāyaṁ nisīditvā āsane nisinnassa agilānassa dhammaṁ desessāmī't
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 69}{sekh69}
-\subsubsection*{\hyperref[training69]{Sekhiya 69: Nīcāsanasikkhāpadaṁ}}
+\subsection*{\hyperref[training69]{Sekhiya 69: Nīcāsanasikkhāpadaṁ}}
 \label{sekh69}
 Na nīce āsane nisīditvā ucce āsane nisinnassa agilānassa dhammaṁ desessāmī'ti, sikkhā karaṇīyā.
 
@@ -2748,7 +2729,7 @@ Na nīce āsane nisīditvā ucce āsane nisinnassa agilānassa dhammaṁ desess�
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 70}{sekh70}
-\subsubsection*{\hyperref[training70]{Sekhiya 70: Ṭhitasikkhāpadaṁ}}
+\subsection*{\hyperref[training70]{Sekhiya 70: Ṭhitasikkhāpadaṁ}}
 \label{sekh70}
 Na ṭhito nisinnassa agilānassa dhammaṁ desessāmī'ti, sikkhā karaṇīyā.
 
@@ -2758,7 +2739,7 @@ Na ṭhito nisinnassa agilānassa dhammaṁ desessāmī'ti, sikkhā karaṇīyā
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 71}{sekh71}
-\subsubsection*{\hyperref[training71]{Sekhiya 71: Pacchatogamanasikkhāpadaṁ}}
+\subsection*{\hyperref[training71]{Sekhiya 71: Pacchatogamanasikkhāpadaṁ}}
 \label{sekh71}
 Na pacchato gacchanto purato gacchantassa agilānassa dhammaṁ desessāmī'ti, sikkhā karaṇīyā.
 
@@ -2768,7 +2749,7 @@ Na pacchato gacchanto purato gacchantassa agilānassa dhammaṁ desessāmī'ti, 
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 72}{sekh72}
-\subsubsection*{\hyperref[training72]{Sekhiya 72: Uppathenagamanasikkhāpadaṁ}}
+\subsection*{\hyperref[training72]{Sekhiya 72: Uppathenagamanasikkhāpadaṁ}}
 \label{sekh72}
 Na uppathena gacchanto pathena gacchantassa agilānassa dhammaṁ desessāmī'ti, sikkhā karaṇīyā.
 
@@ -2782,7 +2763,7 @@ Soḷasa dhamma-desanā-paṭisaṁyuttā.
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 73}{sekh73}
-\subsubsection*{\hyperref[training73]{Sekhiya 73: Ṭhito-uccārasikkhāpadaṁ}}
+\subsection*{\hyperref[training73]{Sekhiya 73: Ṭhito-uccārasikkhāpadaṁ}}
 \label{sekh73}
 Na ṭhito agilāno uccāraṁ vā passāvaṁ vā karissāmī'ti, sikkhā karaṇīyā.
 
@@ -2792,7 +2773,7 @@ Na ṭhito agilāno uccāraṁ vā passāvaṁ vā karissāmī'ti, sikkhā kara�
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 74}{sekh74}
-\subsubsection*{\hyperref[training74]{Sekhiya 74: Harite-uccārasikkhāpadaṁ}}
+\subsection*{\hyperref[training74]{Sekhiya 74: Harite-uccārasikkhāpadaṁ}}
 \label{sekh74}
 Na harite agilāno uccāraṁ vā passāvaṁ vā kheḷaṁ vā karissāmī'ti sikkhā karaṇīyā.
 
@@ -2802,7 +2783,7 @@ Na harite agilāno uccāraṁ vā passāvaṁ vā kheḷaṁ vā karissāmī'ti 
 #+begin_src latex :tangle ./manuscript/tex/pali/sekhiya.tex
 
 \pdfbookmark[3]{Sekhiya 75}{sekh75}
-\subsubsection*{\hyperref[training75]{Sekhiya 75: Udake-uccārasikkhāpadaṁ}}
+\subsection*{\hyperref[training75]{Sekhiya 75: Udake-uccārasikkhāpadaṁ}}
 \label{sekh75}
 Na udake agilāno uccāraṁ vā passāvaṁ vā kheḷaṁ vā karissāmī'ti sikkhā karaṇīyā.
 
